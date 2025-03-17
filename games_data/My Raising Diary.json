@@ -1,0 +1,83 @@
+{
+    "id": 321594,
+    "alternative_names": [
+        "Ikusei Nikki"
+    ],
+    "category": "Main Game",
+    "created_at": "2024-11-06 05:27:57",
+    "external_games": [
+        "My Raising Diary"
+    ],
+    "first_release_date": "2006-02-14 00:00:00",
+    "game_engines": [
+        "KiriKiri",
+        "Ren'Py Visual Novel Engine"
+    ],
+    "game_modes": [
+        "Single player"
+    ],
+    "genres": [
+        "Simulator",
+        "Indie",
+        "Visual Novel"
+    ],
+    "keywords": [
+        "otome",
+        "female protagonist",
+        "fan translation - english",
+        "fan translation - chinese",
+        "freeware",
+        "raising simulation"
+    ],
+    "name": "My Raising Diary",
+    "platforms": [
+        "PC (Microsoft Windows)"
+    ],
+    "player_perspectives": [
+        "Text"
+    ],
+    "release_dates": [
+        "Feb 14, 2006"
+    ],
+    "similar_games": [
+        "Unclaimed World",
+        "Villagers",
+        "Seduce Me the Otome",
+        "Life is Feudal: Forest Village",
+        "Another Brick in the Mall",
+        "Dude Simulator",
+        "Mashinky",
+        "Bronze Age",
+        "Ancient Cities",
+        "Dude Simulator 2"
+    ],
+    "slug": "my-raising-diary",
+    "summary": "At a particular research establishment, a study has been taking place in order to create a synthetic life form that will have more superior abilities than a human. The study had finally yielded results, but...\n\nThe protagonist who is working there ends up being forced by the other researchers on the same team as her to raise the synthetic life form.\n\nSince she was young, she has been called a genius, and has no memories of being treated like a child, so even though it's a study, the protagonist, who hasn't really known a parent's love, feels uneasy about raising a child...",
+    "themes": [
+        "Comedy",
+        "Romance"
+    ],
+    "updated_at": "2025-02-18 20:29:34",
+    "url": "https://www.igdb.com/games/my-raising-diary",
+    "checksum": "e66339b5-13e6-85f0-36fa-b70643b7c398",
+    "language_supports": [
+        "English",
+        "Japanese",
+        "English",
+        "Japanese",
+        "Chinese (Traditional)",
+        "Chinese (Traditional)"
+    ],
+    "game_localizations": [
+        37665
+    ],
+    "game_type": "Unknown",
+    "franchises": [],
+    "developers": [
+        "Water colors -games-"
+    ],
+    "publishers": [
+        "Water colors -games-"
+    ],
+    "age_ratings": []
+}

@@ -1,0 +1,69 @@
+{
+    "id": 145643,
+    "alternative_names": [
+        "Северный Клинок"
+    ],
+    "category": "Main Game",
+    "created_at": "2021-04-10 16:32:03",
+    "external_games": [
+        "Northern Blade"
+    ],
+    "first_release_date": "2009-12-31 00:00:00",
+    "game_engines": [
+        "BigWorld Technology"
+    ],
+    "game_modes": [
+        "Multiplayer",
+        "Massively Multiplayer Online (MMO)"
+    ],
+    "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+    ],
+    "hypes": 1,
+    "multiplayer_modes": [
+        14018
+    ],
+    "name": "Northern Blade",
+    "platforms": [
+        "PC (Microsoft Windows)"
+    ],
+    "player_perspectives": [
+        "Third person"
+    ],
+    "release_dates": [
+        "2009"
+    ],
+    "similar_games": [
+        "Savage Lands",
+        "Borderlands 3",
+        "Sky Break",
+        "Force of Nature",
+        "Pokémon Sword",
+        "The Elder Scrolls VI",
+        "Eternity: The Last Unicorn",
+        "The Elder Scrolls: Blades",
+        "Torchlight III",
+        "Pokémon Shield"
+    ],
+    "slug": "northern-blade",
+    "status": 3,
+    "summary": "Northern Blade is a dynamic action MMORPG from one of the oldest domestic developers. Its innovative combat system, powerful focus on PvP and vivid, realistic fantasy setting immerse the player in an atmosphere of global war, where the future of nations is decided by only one judge: your blade.",
+    "themes": [
+        "Open world",
+        "Party"
+    ],
+    "updated_at": "2025-02-18 20:29:50",
+    "url": "https://www.igdb.com/games/northern-blade",
+    "checksum": "db7fb50b-200d-7312-1854-f5a06e80088e",
+    "game_status": 3,
+    "game_type": "Unknown",
+    "franchises": [],
+    "keywords": [],
+    "developers": [
+        "N-Blade"
+    ],
+    "publishers": [],
+    "language_supports": [],
+    "age_ratings": []
+}

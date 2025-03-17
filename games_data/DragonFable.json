@@ -1,0 +1,83 @@
+{
+    "id": 92725,
+    "alternative_names": [
+        "DF"
+    ],
+    "category": "Main Game",
+    "created_at": "2018-03-16 12:42:27",
+    "external_games": [
+        "DragonFable"
+    ],
+    "first_release_date": "2006-06-09 00:00:00",
+    "game_engines": [
+        "Adobe Flash Player"
+    ],
+    "game_modes": [
+        "Single player"
+    ],
+    "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+    ],
+    "name": "DragonFable",
+    "platforms": [
+        "PC (Microsoft Windows)",
+        "Linux",
+        "Web browser",
+        "Mac"
+    ],
+    "player_perspectives": [
+        "Side view"
+    ],
+    "rating": 69.21052631578948,
+    "rating_count": 7,
+    "release_dates": [
+        "Nov 04, 2005",
+        "Dec 01, 2005",
+        "Jun 09, 2006",
+        "Jun 22, 2018",
+        "May 29, 2019",
+        "May 29, 2019",
+        "May 29, 2019"
+    ],
+    "similar_games": [
+        "Savage Lands",
+        "Borderlands 3",
+        "Forgotton Anne",
+        "Children of Morta",
+        "The Elder Scrolls VI",
+        "Swords & Souls: Neverseen",
+        "Eternity: The Last Unicorn",
+        "The Elder Scrolls: Blades",
+        "Torchlight III",
+        "Hytale"
+    ],
+    "slug": "dragonfable",
+    "summary": "DragonFable is a free-to-play, online, browser-based, single-player, fantasy, role-playing game developed by Artix Entertainment and updated on a weekly basis. Players may access locked game content by upgrading to a premium account for a one-time fee.",
+    "themes": [
+        "Open world",
+        "Action",
+        "Fantasy"
+    ],
+    "total_rating": 69.21052631578948,
+    "total_rating_count": 7,
+    "updated_at": "2025-02-18 14:15:56",
+    "url": "https://www.igdb.com/games/dragonfable",
+    "checksum": "2b315947-aa2e-7d98-9991-4ba211ff8761",
+    "language_supports": [
+        "English",
+        "English",
+        "English"
+    ],
+    "game_type": "Unknown",
+    "franchises": [],
+    "keywords": [],
+    "developers": [
+        "Artix Entertainment"
+    ],
+    "publishers": [
+        "Artix Entertainment"
+    ],
+    "age_ratings": []
+}

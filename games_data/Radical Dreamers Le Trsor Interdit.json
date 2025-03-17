@@ -1,0 +1,100 @@
+{
+    "id": 1803,
+    "alternative_names": [
+        "Radical Dreamers: Nusumenai Houseki",
+        "Radical Dreamers",
+        "Radical Dreamers: The Jewel That Cannot Be Stolen",
+        "Radical Dreamers: The Forbidden Treasure",
+        "Radical Dreamers - Nusume Nai Houseki"
+    ],
+    "category": "Main Game",
+    "created_at": "2012-11-10 16:56:30",
+    "external_games": [
+        "Radical Dreamers: Le Trésor Interdit"
+    ],
+    "first_release_date": "1996-02-03 00:00:00",
+    "franchises": [
+        "Chrono"
+    ],
+    "game_modes": [
+        "Single player"
+    ],
+    "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Visual Novel"
+    ],
+    "keywords": [
+        "slideshow cutscene",
+        "interactive fiction",
+        "manga",
+        "broadcast",
+        "japan only",
+        "anime",
+        "fan translation - english",
+        "late localization"
+    ],
+    "name": "Radical Dreamers: Le Trésor Interdit",
+    "platforms": [
+        "Satellaview"
+    ],
+    "player_perspectives": [
+        "First person",
+        "Text"
+    ],
+    "rating": 70.94698950742058,
+    "rating_count": 10,
+    "release_dates": [
+        "Feb 03, 1996"
+    ],
+    "similar_games": [
+        "Forgotton Anne",
+        "GreedFall",
+        "SinoAlice",
+        "God Eater 3",
+        "Immortal: Unchained",
+        "Dragon: Marked for Death",
+        "The Elder Scrolls VI",
+        "Eternity: The Last Unicorn",
+        "Torchlight III",
+        "Pokémon Shield"
+    ],
+    "slug": "radical-dreamers-le-tresor-interdit",
+    "status": 8,
+    "summary": "Radical Dreamers is the little-known sequel to the popular and critically acclaimed Chrono Trigger. Unlike Chrono Trigger and the other games in the Chrono series, Radical Dreamers is a menu-driven text adventure/visual novel, with sparse visuals and atmospheric music. The game was released only in Japan for the Super Famicom's Satellaview satellite radio service.\n\nIn this game, three thieves - Kid, a young girl famous for her age, Magil, a mysterious wizard with an unknown past, and Serge, a rather cowardly young man - head to Lord Lynx's manor to steal the Frozen Flame, a legendary jewel. But Kid's not just there for the jewel - she has a personal vendetta against Lynx.\n\nMany elements from this game were carried over to Chrono Cross, including characters, music, and parts of the story. In fact, Chrono Cross implies Radical Dreamers takes place in one of many alternate versions of the main game world.\n\nThe game was later localized and bundled in the remaster Chrono Cross: The Radical Dreamers Edition, under the newly localized title of \"Radical Dreamers: Le Trésor Interdit\".",
+    "themes": [
+        "Drama",
+        "Fantasy"
+    ],
+    "total_rating": 70.94698950742058,
+    "total_rating_count": 10,
+    "updated_at": "2025-03-07 01:45:04",
+    "url": "https://www.igdb.com/games/radical-dreamers-le-tresor-interdit",
+    "checksum": "6912071d-3307-29b0-db7b-fa884af6461b",
+    "language_supports": [
+        "Japanese",
+        "Japanese",
+        "Japanese",
+        "English",
+        "English",
+        "English"
+    ],
+    "game_localizations": [
+        603
+    ],
+    "collections": [
+        345
+    ],
+    "game_status": 8,
+    "game_type": "Unknown",
+    "game_engines": [],
+    "developers": [
+        "Square"
+    ],
+    "publishers": [
+        "Nintendo",
+        "Square",
+        "St. GIGA"
+    ],
+    "age_ratings": []
+}

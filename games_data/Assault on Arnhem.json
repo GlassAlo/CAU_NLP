@@ -1,0 +1,62 @@
+{
+    "id": 33307,
+    "category": "Main Game",
+    "created_at": "2017-05-25 19:24:57",
+    "external_games": [
+        "Assault on Arnhem"
+    ],
+    "first_release_date": "2016-02-24 00:00:00",
+    "game_modes": [
+        "Single player",
+        "Multiplayer"
+    ],
+    "genres": [
+        "Simulator",
+        "Strategy"
+    ],
+    "name": "Assault on Arnhem",
+    "platforms": [
+        "PC (Microsoft Windows)",
+        "iOS",
+        "Mac"
+    ],
+    "rating": 50.0,
+    "rating_count": 0,
+    "release_dates": [
+        "Mar 11, 2016",
+        "Mar 11, 2016",
+        "Feb 24, 2016"
+    ],
+    "similar_games": [
+        "Sovereignty: Crown of Kings",
+        "Alea Jacta Est",
+        "Polaris Sector",
+        "Another Brick in the Mall",
+        "Supreme Ruler Ultimate",
+        "TransOcean: The Shipping Company",
+        "Mashinky",
+        "Bronze Age",
+        "SuperPuzzleGalaxy",
+        "Business Magnate"
+    ],
+    "slug": "assault-on-arnhem",
+    "summary": "Assault on Arnhem is an operational level wargame for between one and four players, based on the famous Operation Market Garden campaign in September 1944.",
+    "total_rating": 50.0,
+    "total_rating_count": 0,
+    "updated_at": "2025-03-14 05:58:57",
+    "url": "https://www.igdb.com/games/assault-on-arnhem",
+    "checksum": "b318d5e4-15a6-d5c0-a1d3-992e8ddb1c95",
+    "language_supports": [
+        "English"
+    ],
+    "game_type": "Unknown",
+    "themes": [],
+    "player_perspectives": [],
+    "franchises": [],
+    "game_engines": [],
+    "keywords": [],
+    "developers": [],
+    "publishers": [],
+    "age_ratings": [],
+    "alternative_names": []
+}

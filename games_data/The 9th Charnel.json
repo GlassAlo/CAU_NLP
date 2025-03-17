@@ -1,0 +1,68 @@
+{
+    "id": 217129,
+    "category": "Main Game",
+    "created_at": "2022-09-13 06:06:23",
+    "external_games": [
+        "The 9th Charnel"
+    ],
+    "game_engines": [
+        "Unreal Engine 4"
+    ],
+    "game_modes": [
+        "Single player"
+    ],
+    "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+    ],
+    "hypes": 1,
+    "name": "The 9th Charnel",
+    "platforms": [
+        "PC (Microsoft Windows)"
+    ],
+    "player_perspectives": [
+        "First person"
+    ],
+    "release_dates": [
+        "TBD"
+    ],
+    "similar_games": [
+        "Dollhouse",
+        "Rusty Lake Hotel",
+        "Rusty Lake: Roots",
+        "Don't Knock Twice",
+        "The Dark Occult",
+        "House of Caravan",
+        "Infliction",
+        "A Fisherman's Tale",
+        "Apsulov: End of Gods",
+        "Tonight It Follows"
+    ],
+    "slug": "the-9th-charnel",
+    "summary": "A first-person survival horror game, The 9th Charnel is filled with a rich and frightening atmosphere. While exploring the many mysteries of this world, you must survive- whether you do it through stealth or by using weapons.",
+    "themes": [
+        "Horror",
+        "Survival"
+    ],
+    "updated_at": "2025-02-19 15:29:37",
+    "url": "https://www.igdb.com/games/the-9th-charnel",
+    "checksum": "f8f0ffaf-8ed4-fc8d-955f-35dc62d8f29d",
+    "language_supports": [
+        "English",
+        "English",
+        "English"
+    ],
+    "game_type": "Unknown",
+    "franchises": [],
+    "keywords": [],
+    "developers": [
+        "Saikat Deb Creations"
+    ],
+    "publishers": [
+        "SOEDESCO Publishing"
+    ],
+    "age_ratings": [],
+    "alternative_names": [],
+    "first_release_date": null
+}

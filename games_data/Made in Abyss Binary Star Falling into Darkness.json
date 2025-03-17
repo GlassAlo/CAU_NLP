@@ -1,0 +1,102 @@
+{
+    "id": 146711,
+    "age_ratings": [
+        "M",
+        "Eighteen",
+        "Unknown"
+    ],
+    "aggregated_rating": 52.0,
+    "aggregated_rating_count": 1,
+    "alternative_names": [
+        "メイドインアビス 闇を目指した連星"
+    ],
+    "category": "Main Game",
+    "created_at": "2021-05-05 14:01:55",
+    "external_games": [
+        "Made in Abyss: Binary Star Falling into Darkness"
+    ],
+    "first_release_date": "2022-09-02 00:00:00",
+    "franchises": [
+        "Made in Abyss"
+    ],
+    "game_modes": [
+        "Single player"
+    ],
+    "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+    ],
+    "hypes": 3,
+    "keywords": [
+        "anime",
+        "dark fantasy",
+        "based on - anime"
+    ],
+    "name": "Made in Abyss: Binary Star Falling into Darkness",
+    "platforms": [
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "Nintendo Switch"
+    ],
+    "player_perspectives": [
+        "Third person"
+    ],
+    "rating": 58.51434471360499,
+    "rating_count": 5,
+    "release_dates": [
+        "Sep 02, 2022",
+        "Sep 02, 2022",
+        "Sep 02, 2022"
+    ],
+    "similar_games": [
+        "Savage Lands",
+        "Forgotton Anne",
+        "GreedFall",
+        "God Eater 3",
+        "Immortal: Unchained",
+        "Dragon: Marked for Death",
+        "Eternity: The Last Unicorn",
+        "Remnant: From the Ashes",
+        "Torchlight III",
+        "Vampire: The Masquerade - Bloodlines 2"
+    ],
+    "slug": "made-in-abyss-binary-star-falling-into-darkness",
+    "storyline": "The world’s sole remaining, unconquered chasm,\nthe Abyss, is the stage where many adventures are born...and disappear.\n\nThose who appear in these stories are mesmerized by the\npower of the Abyss and aim for the bottom of the netherworld.\n\nThe story about to be told is that of a nameless Cave Raider\nthat begins their adventure many days after\nRiko and Reg depart for the Abyss.",
+    "summary": "A 3D action-RPG based on the popular manga Made in Abyss.",
+    "themes": [
+        "Mystery",
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Survival"
+    ],
+    "total_rating": 55.2571723568025,
+    "total_rating_count": 6,
+    "updated_at": "2025-03-16 02:25:19",
+    "url": "https://www.igdb.com/games/made-in-abyss-binary-star-falling-into-darkness",
+    "checksum": "84dab879-4fbe-bf20-0ee7-678755a33134",
+    "language_supports": [
+        "English",
+        "English",
+        "English",
+        "Japanese",
+        "Japanese",
+        "Japanese",
+        "Chinese (Simplified)",
+        "Chinese (Simplified)",
+        "Chinese (Traditional)",
+        "Chinese (Traditional)"
+    ],
+    "game_localizations": [
+        14429
+    ],
+    "game_type": "Unknown",
+    "game_engines": [],
+    "developers": [
+        "Spike Chunsoft",
+        "Chime"
+    ],
+    "publishers": [
+        "Spike Chunsoft"
+    ]
+}

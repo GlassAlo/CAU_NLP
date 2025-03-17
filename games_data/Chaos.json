@@ -1,0 +1,50 @@
+{
+    "id": 334058,
+    "alternative_names": [
+        "Chaos"
+    ],
+    "category": "Mod",
+    "created_at": "2025-03-03 20:13:04",
+    "game_modes": [
+        "Multiplayer",
+        "Massively Multiplayer Online (MMO)",
+        "Battle Royale"
+    ],
+    "genres": [
+        "Shooter"
+    ],
+    "name": "Chaos",
+    "parent_game": "S4 League",
+    "platforms": [
+        "PC (Microsoft Windows)"
+    ],
+    "release_dates": [
+        "Mar 03, 2025"
+    ],
+    "slug": "chaos--5",
+    "status": 2,
+    "summary": "Chaos is a private server for S4League, a fast-paced online multiplayer game that combines third-person shooter action with sports elements. Set in a futuristic world, S4League features intense PvP battles where players can engage in various game modes, except Arena yet... The Chaos server offers a unique and customized experience with enhanced gameplay features, exclusive items, and balanced mechanics. Players can enjoy a vibrant community, regular updates, and special events, making Chaos a thrilling destination for both new and veteran S4League enthusiasts",
+    "themes": [
+        "Action"
+    ],
+    "updated_at": "2025-03-06 18:33:15",
+    "url": "https://www.igdb.com/games/chaos--5",
+    "checksum": "2197fb95-0e54-f6ce-3086-bf844b370ee9",
+    "language_supports": [
+        "English",
+        "English",
+        "English"
+    ],
+    "game_status": 2,
+    "game_type": "Standalone Expansion",
+    "player_perspectives": [],
+    "franchises": [],
+    "game_engines": [],
+    "keywords": [],
+    "similar_games": [],
+    "developers": [],
+    "publishers": [],
+    "external_games": [],
+    "age_ratings": [],
+    "first_release_date": null
+}

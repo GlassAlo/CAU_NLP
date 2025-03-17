@@ -1,0 +1,76 @@
+{
+    "id": 102235,
+    "category": "Main Game",
+    "created_at": "2018-05-24 08:47:44",
+    "external_games": [
+        "Slendrina: The Forest"
+    ],
+    "first_release_date": "2017-03-02 00:00:00",
+    "game_engines": [
+        "Unity"
+    ],
+    "game_modes": [
+        "Single player"
+    ],
+    "genres": [
+        "Adventure",
+        "Indie"
+    ],
+    "keywords": [
+        "slender",
+        "creepypasta",
+        "fangame",
+        "slender man"
+    ],
+    "name": "Slendrina: The Forest",
+    "platforms": [
+        "iOS",
+        "Android"
+    ],
+    "player_perspectives": [
+        "First person"
+    ],
+    "release_dates": [
+        "Mar 02, 2017",
+        "Apr 28, 2017"
+    ],
+    "similar_games": [
+        "Dollhouse",
+        "Don't Knock Twice",
+        "Force of Nature",
+        "The Dark Occult",
+        "Dream Alone",
+        "Darq",
+        "Eternity: The Last Unicorn",
+        "Secret Neighbor",
+        "Silver Chains",
+        "Apsulov: End of Gods"
+    ],
+    "slug": "slendrina-the-forest",
+    "storyline": "This time it will be your mission to find out the dark secret that hides in the dark forest.\n\nYou need to find some keys and tools to succeed.\n\nAnd as always, watch out for Slendrina and turn around as soon as you see her.\n\nYou must also be careful so you do not face Slendrinas mother.",
+    "summary": "Slendrina: The Forest is the ninth game in the Slendrina Series.\n\nThe player needs to be to reveal the secret of the forest, while Slendrina and her mother are hunting you down.",
+    "themes": [
+        "Action",
+        "Horror",
+        "Survival"
+    ],
+    "updated_at": "2025-03-06 18:29:48",
+    "url": "https://www.igdb.com/games/slendrina-the-forest",
+    "checksum": "0f0abb50-997f-6cdb-4e54-4c34f5d068d1",
+    "language_supports": [
+        "English"
+    ],
+    "collections": [
+        9453
+    ],
+    "game_type": "Unknown",
+    "franchises": [],
+    "developers": [
+        "DVloper"
+    ],
+    "publishers": [
+        "DVloper"
+    ],
+    "age_ratings": [],
+    "alternative_names": []
+}

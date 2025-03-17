@@ -1,0 +1,76 @@
+{
+    "id": 83879,
+    "age_ratings": [
+        "E",
+        "Seven"
+    ],
+    "category": "Main Game",
+    "created_at": "2018-01-26 12:55:58",
+    "external_games": [
+        "ATV Drift & Tricks"
+    ],
+    "first_release_date": "2017-11-14 00:00:00",
+    "game_modes": [
+        "Single player",
+        "Multiplayer"
+    ],
+    "genres": [
+        "Racing",
+        "Arcade"
+    ],
+    "name": "ATV Drift & Tricks",
+    "platforms": [
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "Nintendo Switch"
+    ],
+    "player_perspectives": [
+        "Third person"
+    ],
+    "release_dates": [
+        "Nov 14, 2017",
+        "Nov 22, 2018",
+        "Nov 14, 2017"
+    ],
+    "similar_games": [
+        "Winds of Revenge",
+        "Micro Machines World Series",
+        "Rise: Race the Future",
+        "Option Tuning Car Battle Spec-R",
+        "Donut Drop With Molly & Friends",
+        "Team Sonic Racing",
+        "Super Street: The Game",
+        "Pako Forever",
+        "Retro Santa Run",
+        "Pixicharm: Bus Coinventure"
+    ],
+    "slug": "atv-drift-and-tricks",
+    "summary": "DRIFT, TRICKS & FUN! Tired of 2-wheeled vehicles? ATV Drift & Tricks is the QUAD game for you! A racing game just for quads!!",
+    "updated_at": "2025-03-15 06:26:31",
+    "url": "https://www.igdb.com/games/atv-drift-and-tricks",
+    "checksum": "660c38c9-011c-8c75-4e55-43582d7cad6c",
+    "language_supports": [
+        "English",
+        "English",
+        "French",
+        "French",
+        "Italian",
+        "Italian",
+        "German",
+        "German",
+        "Spanish (Spain)",
+        "Spanish (Spain)"
+    ],
+    "game_type": "Unknown",
+    "themes": [],
+    "franchises": [],
+    "game_engines": [],
+    "keywords": [],
+    "developers": [
+        "Artefacts Studio"
+    ],
+    "publishers": [
+        "Microids"
+    ],
+    "alternative_names": []
+}

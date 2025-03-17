@@ -1,0 +1,79 @@
+{
+    "id": 146336,
+    "alternative_names": [
+        "ファンタシースターオンライン2 ニュージェネシス スターターパッケージ リミテッドエディション"
+    ],
+    "category": "Main Game",
+    "created_at": "2021-04-26 16:16:39",
+    "external_games": [
+        "Phantasy Star Online 2 New Genesis: Limited Edition"
+    ],
+    "first_release_date": "2021-08-19 00:00:00",
+    "game_modes": [
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)"
+    ],
+    "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+    ],
+    "name": "Phantasy Star Online 2 New Genesis: Limited Edition",
+    "platforms": [
+        "PlayStation 4",
+        "Nintendo Switch"
+    ],
+    "player_perspectives": [
+        "First person",
+        "Third person"
+    ],
+    "release_dates": [
+        "Aug 19, 2021",
+        "Aug 19, 2021"
+    ],
+    "similar_games": [
+        "Borderlands 3",
+        "Shadows: Awakening",
+        "Immortal: Unchained",
+        "The Elder Scrolls VI",
+        "Eternity: The Last Unicorn",
+        "Warhammer: Chaosbane",
+        "Gene Rain",
+        "Torchlight III",
+        "Rebel Galaxy Outlaw",
+        "Dragon Ball Z: Kakarot"
+    ],
+    "slug": "phantasy-star-online-2-new-genesis-limited-edition",
+    "summary": "One of the goals for Phantasy Star Online 2 New Genesis is to create the ultimate PSO2 in which the time-tested elements are kept intact, while the game design, gameplay, and graphics engine will be completely redesigned and reborn in all aspects. We are working very hard to offer players unparalleled character customization, limitless adventure, and the best action online RPG.\n\nThe limited edition includes:\n- Phantasy Star Online 2: New Genesis\n- Mini Soundtrack\n- Special Illustrated Box",
+    "themes": [
+        "Drama",
+        "Action",
+        "Fantasy",
+        "Science fiction"
+    ],
+    "updated_at": "2025-02-18 20:30:06",
+    "url": "https://www.igdb.com/games/phantasy-star-online-2-new-genesis-limited-edition",
+    "version_parent": "Phantasy Star Online 2 New Genesis",
+    "version_title": "Limited Edition",
+    "checksum": "cbfb9652-8214-1a76-6573-c99cf5808e1c",
+    "game_localizations": [
+        14390
+    ],
+    "collections": [
+        6383
+    ],
+    "game_type": "Unknown",
+    "franchises": [],
+    "game_engines": [],
+    "keywords": [],
+    "developers": [
+        "Online Entertainment R&D"
+    ],
+    "publishers": [
+        "Sega"
+    ],
+    "language_supports": [],
+    "age_ratings": []
+}

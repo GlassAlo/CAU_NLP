@@ -1,0 +1,90 @@
+{
+    "id": 51821,
+    "age_ratings": [
+        "T",
+        "Unknown",
+        "Unknown",
+        "Unknown"
+    ],
+    "alternative_names": [
+        "Heroes of Might and Magic II: Deluxe Edition",
+        "Heroes of Might and Magic 2: 골드"
+    ],
+    "category": "Bundle",
+    "created_at": "2017-07-21 22:29:12",
+    "external_games": [
+        "Heroes of Might and Magic II: Gold"
+    ],
+    "first_release_date": "1998-12-31 00:00:00",
+    "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+    ],
+    "genres": [
+        "Turn-based strategy (TBS)"
+    ],
+    "name": "Heroes of Might and Magic II: Gold",
+    "platforms": [
+        "PC (Microsoft Windows)"
+    ],
+    "player_perspectives": [
+        "Bird view / Isometric"
+    ],
+    "rating": 84.85841840958406,
+    "rating_count": 21,
+    "release_dates": [
+        "1998"
+    ],
+    "similar_games": [
+        "Three Kingdoms: Fate of the Dragon",
+        "Might & Magic Heroes VII",
+        "Tears of Avia",
+        "Fire Emblem: Three Houses",
+        "Order of Battle: World War II",
+        "Langrisser Mobile",
+        "Epic Seven",
+        "Pokémon Shield",
+        "Norfolk Warriors",
+        "Olden War"
+    ],
+    "slug": "heroes-of-might-and-magic-ii-gold",
+    "summary": "Lord Ironfist is dead and the Kingdom is plunged into a vicious civil war by his feuding sons. At stake is the ultimate prize: control of the land and succession of the royal throne. Will you support the villainous usurper and lead the armies of evil or be loyal to the righteous prince and deliver the people from tyranny.\nChose your allegiance and take what is rightfully Yours!",
+    "themes": [
+        "Warfare",
+        "Fantasy"
+    ],
+    "total_rating": 84.85841840958406,
+    "total_rating_count": 21,
+    "updated_at": "2025-03-03 13:02:46",
+    "url": "https://www.igdb.com/games/heroes-of-might-and-magic-ii-gold",
+    "version_parent": "Heroes of Might and Magic II: The Succession Wars",
+    "checksum": "3a58863c-b63c-85fe-8851-dcbf2c729e6b",
+    "language_supports": [
+        "German",
+        "German",
+        "English",
+        "English",
+        "French",
+        "French",
+        "Polish",
+        "Polish"
+    ],
+    "game_localizations": [
+        22450,
+        24150
+    ],
+    "collections": [
+        194
+    ],
+    "game_type": "Expansion",
+    "franchises": [],
+    "game_engines": [],
+    "keywords": [],
+    "developers": [
+        "New World Computing"
+    ],
+    "publishers": [
+        "The 3DO Company"
+    ]
+}

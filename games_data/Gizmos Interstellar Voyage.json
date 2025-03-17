@@ -1,0 +1,59 @@
+{
+    "id": 160012,
+    "category": "Main Game",
+    "created_at": "2021-08-02 11:22:45",
+    "external_games": [
+        "Gizmos: Interstellar Voyage"
+    ],
+    "first_release_date": "2021-01-28 00:00:00",
+    "genres": [
+        "Strategy",
+        "Indie"
+    ],
+    "name": "Gizmos: Interstellar Voyage",
+    "platforms": [
+        "PC (Microsoft Windows)"
+    ],
+    "release_dates": [
+        "Jan 28, 2021"
+    ],
+    "similar_games": [
+        "Eador: Imperium",
+        "Another Brick in the Mall",
+        "Tavern Tycoon",
+        "Earth Space Colonies",
+        "Supreme Ruler Ultimate",
+        "Mashinky",
+        "Bronze Age",
+        "Pax Nova",
+        "The Castles of Burgundy",
+        "Atrium"
+    ],
+    "slug": "gizmos-interstellar-voyage",
+    "summary": "Space adventures are waiting for you!",
+    "updated_at": "2025-02-19 03:09:16",
+    "url": "https://www.igdb.com/games/gizmos-interstellar-voyage",
+    "checksum": "86a6625f-8046-9846-ebce-dfc08ed78897",
+    "language_supports": [
+        "English",
+        "English",
+        "English",
+        "French",
+        "French",
+        "German",
+        "German",
+        "Russian",
+        "Russian"
+    ],
+    "game_type": "Unknown",
+    "game_modes": [],
+    "themes": [],
+    "player_perspectives": [],
+    "franchises": [],
+    "game_engines": [],
+    "keywords": [],
+    "developers": [],
+    "publishers": [],
+    "age_ratings": [],
+    "alternative_names": []
+}

@@ -1,0 +1,101 @@
+{
+    "id": 146699,
+    "age_ratings": [
+        "Unknown",
+        "Twelve",
+        "Unknown",
+        "Unknown",
+        "Unknown",
+        "T"
+    ],
+    "aggregated_rating": 35.0,
+    "aggregated_rating_count": 2,
+    "category": "Main Game",
+    "created_at": "2021-05-05 02:49:15",
+    "external_games": [
+        "Flashback 2"
+    ],
+    "first_release_date": "2023-11-15 00:00:00",
+    "game_engines": [
+        "Unity"
+    ],
+    "game_modes": [
+        "Single player"
+    ],
+    "genres": [
+        "Platform",
+        "Adventure",
+        "Arcade"
+    ],
+    "hypes": 3,
+    "keywords": [
+        "futuristic",
+        "2.5d"
+    ],
+    "name": "Flashback 2",
+    "platforms": [
+        "PlayStation 5",
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "Xbox Series X|S",
+        "Nintendo Switch"
+    ],
+    "player_perspectives": [
+        "Side view"
+    ],
+    "release_dates": [
+        "Nov 16, 2023",
+        "May 30, 2024",
+        "May 30, 2024",
+        "Nov 15, 2023",
+        "Nov 15, 2023"
+    ],
+    "similar_games": [
+        "Star Control: Origins",
+        "Planet Alpha",
+        "Immortal: Unchained",
+        "Pikuniku",
+        "Dream Alone",
+        "Exception",
+        "Wolfenstein: Youngblood",
+        "Gene Rain",
+        "Rebel Galaxy Outlaw",
+        "Degrees of Separation"
+    ],
+    "slug": "flashback-2",
+    "storyline": "In the 22nd century, the peace of the United Worlds extends throughout the Solar System — but this tranquility is threatened by the Morph invasion led by the fearsome General Lazarus.\n\nIn search of his lifelong friend, Ian, and with the help of his few allies — including A.I.S.H.A., his iconic AIpowered weapon — Conrad, once again, dives into a heart-pounding adventure full of twists, turns and revelations!",
+    "summary": "The acclaimed sci-fi side-scroller that became a retro gaming classic returns, with modern graphics and gameplay!\nAfter overcoming the Death Tower, Conrad and his allies must once again face the Morphs, the alien race that threatens all civilizations. Moreover, his friend Ian got abducted and to get answers Conrad has to find him… Are the Morphs behind this disappearance? But why? You will have to find out…\nUnveil a nefarious plot and save the solar system!",
+    "themes": [
+        "Action",
+        "Science fiction"
+    ],
+    "total_rating": 35.0,
+    "total_rating_count": 2,
+    "updated_at": "2025-03-16 13:46:35",
+    "url": "https://www.igdb.com/games/flashback-2",
+    "checksum": "78e775ba-bd91-5a83-ffa8-af0e89059b60",
+    "language_supports": [
+        "English",
+        "English",
+        "English",
+        "French",
+        "French",
+        "French",
+        "Italian",
+        "Italian",
+        "German",
+        "German"
+    ],
+    "collections": [
+        3328
+    ],
+    "game_type": "Unknown",
+    "franchises": [],
+    "developers": [
+        "Microids Studio Paris"
+    ],
+    "publishers": [
+        "Microids"
+    ],
+    "alternative_names": []
+}

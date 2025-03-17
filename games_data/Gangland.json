@@ -1,0 +1,76 @@
+{
+    "id": 23811,
+    "age_ratings": [
+        "M",
+        "Twelve",
+        "Sixteen",
+        "Unknown"
+    ],
+    "aggregated_rating": 76.0,
+    "aggregated_rating_count": 2,
+    "alternative_names": [
+        "갱랜드"
+    ],
+    "category": "Main Game",
+    "created_at": "2016-09-08 15:25:25",
+    "external_games": [
+        "Gangland"
+    ],
+    "first_release_date": "2004-02-14 00:00:00",
+    "game_modes": [
+        "Single player"
+    ],
+    "genres": [
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure"
+    ],
+    "name": "Gangland",
+    "platforms": [
+        "PC (Microsoft Windows)"
+    ],
+    "release_dates": [
+        "Feb 14, 2004"
+    ],
+    "similar_games": [
+        "Star Control: Origins",
+        "Force of Nature",
+        "Weapon Shop Fantasy",
+        "Survivalist",
+        "Omensight",
+        "The Elder Scrolls VI",
+        "Eternity: The Last Unicorn",
+        "Super Seducer 2",
+        "The Elder Scrolls: Blades",
+        "Torchlight III"
+    ],
+    "slug": "gangland",
+    "themes": [
+        "Educational",
+        "Action"
+    ],
+    "total_rating": 76.0,
+    "total_rating_count": 2,
+    "updated_at": "2025-02-18 13:15:41",
+    "url": "https://www.igdb.com/games/gangland",
+    "checksum": "9dd8b4dd-3212-6cf2-c492-71ea6d52bb03",
+    "language_supports": [
+        "English",
+        "English"
+    ],
+    "game_localizations": [
+        19873
+    ],
+    "game_type": "Unknown",
+    "player_perspectives": [],
+    "franchises": [],
+    "game_engines": [],
+    "keywords": [],
+    "developers": [
+        "Whiptail Interactive"
+    ],
+    "publishers": [
+        "Mediaobsters"
+    ]
+}

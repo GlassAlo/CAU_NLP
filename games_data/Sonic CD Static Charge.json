@@ -1,0 +1,58 @@
+{
+    "id": 334627,
+    "category": "Mod",
+    "created_at": "2025-03-06 12:13:57",
+    "game_modes": [
+        "Single player"
+    ],
+    "genres": [
+        "Platform"
+    ],
+    "keywords": [
+        "unofficial"
+    ],
+    "name": "Sonic CD: Static Charge",
+    "parent_game": "Sonic CD 2011 Decompilation",
+    "platforms": [
+        "PC (Microsoft Windows)"
+    ],
+    "player_perspectives": [
+        "Side view"
+    ],
+    "release_dates": [
+        "TBD"
+    ],
+    "similar_games": [
+        "Pepper Grinder",
+        "Pikuniku",
+        "Crackle Cradle",
+        "Havocado",
+        "SolSeraph",
+        "SM64 GBA",
+        "Sonic Xtreme 2D",
+        "Azure Plays The Game",
+        "Sonic Islands",
+        "Giana Sisters: Project Radiant"
+    ],
+    "slug": "sonic-cd-static-charge",
+    "themes": [
+        "Action"
+    ],
+    "updated_at": "2025-03-06 18:36:15",
+    "url": "https://www.igdb.com/games/sonic-cd-static-charge",
+    "checksum": "a6229acf-98ce-b1ca-b62f-f9a9b8b00da5",
+    "game_type": "Standalone Expansion",
+    "franchises": [],
+    "game_engines": [],
+    "developers": [
+        "staticj3ff"
+    ],
+    "publishers": [
+        "staticj3ff"
+    ],
+    "language_supports": [],
+    "external_games": [],
+    "age_ratings": [],
+    "alternative_names": [],
+    "first_release_date": null
+}

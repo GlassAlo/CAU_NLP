@@ -1,0 +1,73 @@
+{
+    "id": 135987,
+    "age_ratings": [
+        "RP"
+    ],
+    "category": "Main Game",
+    "created_at": "2020-07-23 15:20:04",
+    "external_games": [
+        "ExoMecha"
+    ],
+    "game_engines": [
+        "Unreal Engine 4"
+    ],
+    "game_modes": [
+        "Multiplayer",
+        "Battle Royale"
+    ],
+    "genres": [
+        "Shooter"
+    ],
+    "hypes": 2,
+    "keywords": [
+        "competitive",
+        "mecha",
+        "free-to-play"
+    ],
+    "name": "ExoMecha",
+    "platforms": [
+        "PC (Microsoft Windows)",
+        "Xbox Series X|S",
+        "Xbox One"
+    ],
+    "player_perspectives": [
+        "First person"
+    ],
+    "release_dates": [
+        "TBD",
+        "TBD",
+        "TBD"
+    ],
+    "similar_games": [
+        "Borderlands 3",
+        "Black Squad",
+        "Brawl Stars",
+        "PUBG Mobile",
+        "World War 3",
+        "Gears 5",
+        "The Cycle",
+        "Call of Duty: Mobile",
+        "PlanetSide Arena",
+        "Call of Duty: Modern Warfare"
+    ],
+    "slug": "exomecha",
+    "storyline": "A new habitable planet named Omecha becomes discovered by multiple smart species in the galaxy. To take control of the planet’s resources those species fight against each other. At first, the ExoMecha journey will start with all-natural environments. As more civilizations come to the planet, our maps will evolve, and each civilization will reflect its theme to maps.",
+    "summary": "ExoMecha is a brand new free-to-play online competitive first-person shooter that takes place in Omecha, a new and untouched planet with exotic environments. ExoMecha offers you breathtaking gaming experience with its flexible playing style, mechs, unique gadgets and abilities, and boss battles.\n\n​ExoMecha is an immersive experience with team-based large scale battles, a unique battle royale game mode, and an objective-based game mode.",
+    "themes": [
+        "Action"
+    ],
+    "updated_at": "2025-02-19 15:29:20",
+    "url": "https://www.igdb.com/games/exomecha",
+    "checksum": "a9bc7244-bb6e-134d-c732-141e55b2136c",
+    "game_type": "Unknown",
+    "franchises": [],
+    "developers": [
+        "TwistedRed"
+    ],
+    "publishers": [
+        "TwistedRed"
+    ],
+    "language_supports": [],
+    "alternative_names": [],
+    "first_release_date": null
+}

@@ -1,0 +1,64 @@
+{
+    "id": 187063,
+    "category": "Main Game",
+    "created_at": "2022-01-15 17:53:04",
+    "external_games": [
+        "Castaway"
+    ],
+    "first_release_date": "2010-05-01 00:00:00",
+    "game_engines": [
+        "Adobe Flash Player"
+    ],
+    "game_modes": [
+        "Single player"
+    ],
+    "genres": [
+        "Role-playing (RPG)",
+        "Strategy"
+    ],
+    "multiplayer_modes": [
+        17818
+    ],
+    "name": "Castaway",
+    "platforms": [
+        "Web browser"
+    ],
+    "player_perspectives": [
+        "Bird view / Isometric",
+        "Text",
+        "Auditory"
+    ],
+    "release_dates": [
+        "May 01, 2010"
+    ],
+    "similar_games": [
+        "Might & Magic Heroes VII",
+        "Tears of Avia",
+        "Eador: Imperium",
+        "Echo of Soul",
+        "GreedFall",
+        "Oriental Blue: Ao no Tengai",
+        "Dragalia Lost",
+        "Eve: Echoes",
+        "Forged Fantasy",
+        "Trials of Fire"
+    ],
+    "slug": "castaway--1",
+    "summary": "Stranded on a mysterious island, it is up to you to restore peace to its villagers. Become a powerful warrior - growing your powers and abilities through over 50 quests across a distinct and visually stylized world. Discover and raise loyal pets that will fight by your side in this unique action RPG. Customize your appearance as you gain new armor and weapons from wooden sticks to elemental swords.",
+    "themes": [
+        "Fantasy"
+    ],
+    "updated_at": "2025-02-18 14:16:13",
+    "url": "https://www.igdb.com/games/castaway--1",
+    "checksum": "eefa5410-7180-907a-5852-1c208f781841",
+    "game_type": "Unknown",
+    "franchises": [],
+    "keywords": [],
+    "developers": [
+        "likwid"
+    ],
+    "publishers": [],
+    "language_supports": [],
+    "age_ratings": [],
+    "alternative_names": []
+}

@@ -1,0 +1,72 @@
+{
+    "id": 239142,
+    "age_ratings": [
+        "Seven",
+        "Unknown"
+    ],
+    "alternative_names": [
+        "Evercade Arcade Cartridge 09"
+    ],
+    "category": "Bundle",
+    "created_at": "2023-02-21 08:36:27",
+    "external_games": [
+        "Toaplan Arcade 2"
+    ],
+    "first_release_date": "2023-04-28 00:00:00",
+    "game_modes": [
+        "Single player",
+        "Co-operative"
+    ],
+    "genres": [
+        "Shooter",
+        "Platform",
+        "Sport",
+        "Adventure"
+    ],
+    "keywords": [
+        "bundle",
+        "physical release"
+    ],
+    "name": "Toaplan Arcade 2",
+    "platforms": [
+        "Evercade"
+    ],
+    "player_perspectives": [
+        "Bird view / Isometric",
+        "Side view"
+    ],
+    "release_dates": [
+        "Apr 28, 2023"
+    ],
+    "similar_games": [
+        "Borderlands 3",
+        "Forgotton Anne",
+        "Planet Alpha",
+        "Immortal: Unchained",
+        "Crackle Cradle",
+        "Eternity: The Last Unicorn",
+        "Wolfenstein: Youngblood",
+        "Gene Rain",
+        "Call of Duty: Mobile",
+        "Rebel Galaxy Outlaw"
+    ],
+    "slug": "toaplan-arcade-2",
+    "summary": "Enjoy some of Toaplan's finest arcade titles with this new collection of 7 games for Evercade.\n\nIncludes:\n- Fire Shark\n- Twin Cobra\n- Twin Hawk\n- Hellfire\n- Rally Bike\n- Wardner\n- Demon's World",
+    "themes": [
+        "Warfare",
+        "Action",
+        "Fantasy",
+        "Science fiction"
+    ],
+    "updated_at": "2025-02-18 20:29:57",
+    "url": "https://www.igdb.com/games/toaplan-arcade-2",
+    "checksum": "a22abda5-0f76-c9ac-45a2-ef72eb6eb4af",
+    "game_type": "Expansion",
+    "franchises": [],
+    "game_engines": [],
+    "developers": [],
+    "publishers": [
+        "Blaze Entertainment"
+    ],
+    "language_supports": []
+}

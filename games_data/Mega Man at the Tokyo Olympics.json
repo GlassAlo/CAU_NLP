@@ -1,0 +1,63 @@
+{
+    "id": 334629,
+    "category": "Mod",
+    "created_at": "2025-03-06 12:19:42",
+    "game_modes": [
+        "Single player"
+    ],
+    "genres": [
+        "Shooter",
+        "Platform"
+    ],
+    "keywords": [
+        "unofficial"
+    ],
+    "name": "Mega Man at the Tokyo Olympics",
+    "parent_game": "Mega Man 3 Improvement",
+    "platforms": [
+        "Nintendo Entertainment System"
+    ],
+    "player_perspectives": [
+        "Side view"
+    ],
+    "release_dates": [
+        "TBD"
+    ],
+    "similar_games": [
+        "Far Cry",
+        "Challenger",
+        "Planet Alpha",
+        "Immortal: Unchained",
+        "Crackle Cradle",
+        "Earth Defense Force: Iron Rain",
+        "Wolfenstein: Youngblood",
+        "Gene Rain",
+        "Rebel Galaxy Outlaw",
+        "PlanetSide Arena"
+    ],
+    "slug": "mega-man-at-the-tokyo-olympics",
+    "themes": [
+        "Action",
+        "Science fiction"
+    ],
+    "updated_at": "2025-03-06 18:36:32",
+    "url": "https://www.igdb.com/games/mega-man-at-the-tokyo-olympics",
+    "checksum": "8c3a6ad2-1dc5-0ed4-bdc8-11078356fcd7",
+    "collections": [
+        11386
+    ],
+    "game_type": "Standalone Expansion",
+    "franchises": [],
+    "game_engines": [],
+    "developers": [
+        "insectduel"
+    ],
+    "publishers": [
+        "insectduel"
+    ],
+    "language_supports": [],
+    "external_games": [],
+    "age_ratings": [],
+    "alternative_names": [],
+    "first_release_date": null
+}

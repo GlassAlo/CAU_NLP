@@ -1,0 +1,60 @@
+{
+    "id": 157761,
+    "category": "DLC",
+    "created_at": "2021-07-15 08:45:53",
+    "external_games": [
+        "Microsoft Flight Simulator X: Steam Edition - Cessna C208B Grand Caravan"
+    ],
+    "first_release_date": "2018-05-01 00:00:00",
+    "game_modes": [
+        "Single player"
+    ],
+    "genres": [
+        "Simulator"
+    ],
+    "name": "Microsoft Flight Simulator X: Steam Edition - Cessna C208B Grand Caravan",
+    "parent_game": "Microsoft Flight Simulator X: Steam Edition",
+    "platforms": [
+        "PC (Microsoft Windows)"
+    ],
+    "player_perspectives": [
+        "First person",
+        "Third person"
+    ],
+    "release_dates": [
+        "May 01, 2018"
+    ],
+    "similar_games": [
+        "Sovereignty: Crown of Kings",
+        "TransOcean: The Shipping Company",
+        "Bronze Age",
+        "SuperPuzzleGalaxy",
+        "WildCraft: Wild Sim Online",
+        "Energy Joe",
+        "Simstory: Live As You Wish",
+        "Diesel Brothers: The Game",
+        "Business Magnate",
+        "Viva Project"
+    ],
+    "slug": "microsoft-flight-simulator-x-steam-edition-cessna-c208b-grand-caravan",
+    "summary": "Developed by Carenado, the FSX: Steam Edition rendition of the Cessna C208B Grand Caravan is a hugely detailed and accurate aircraft. It comes in seven paint schemes, features accurate flight dynamics and realistic instruments including autopilot, custom weather radar and an original GNS 430.",
+    "updated_at": "2024-10-14 18:20:03",
+    "url": "https://www.igdb.com/games/microsoft-flight-simulator-x-steam-edition-cessna-c208b-grand-caravan",
+    "checksum": "43345b69-b4fd-370e-cbaa-da25d689cabe",
+    "language_supports": [
+        "English"
+    ],
+    "game_type": "Main Game",
+    "themes": [],
+    "franchises": [],
+    "game_engines": [],
+    "keywords": [],
+    "developers": [
+        "Carenado"
+    ],
+    "publishers": [
+        "Dovetail Games"
+    ],
+    "age_ratings": [],
+    "alternative_names": []
+}

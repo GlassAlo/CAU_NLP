@@ -1,0 +1,76 @@
+{
+    "id": 314930,
+    "category": "DLC",
+    "created_at": "2024-08-27 14:09:31",
+    "external_games": [
+        "PowerWash Simulator: Shrek Special Pack"
+    ],
+    "first_release_date": "2024-10-10 00:00:00",
+    "franchises": [
+        "Shrek"
+    ],
+    "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+    ],
+    "genres": [
+        "Simulator",
+        "Indie"
+    ],
+    "hypes": 2,
+    "multiplayer_modes": [
+        30328
+    ],
+    "name": "PowerWash Simulator: Shrek Special Pack",
+    "parent_game": "PowerWash Simulator",
+    "platforms": [
+        "PlayStation 5",
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "Xbox Series X|S",
+        "Xbox One",
+        "Nintendo Switch"
+    ],
+    "player_perspectives": [
+        "First person"
+    ],
+    "release_dates": [
+        "Oct 10, 2024",
+        "Oct 10, 2024",
+        "Oct 10, 2024",
+        "Oct 10, 2024",
+        "Oct 10, 2024",
+        "Oct 10, 2024"
+    ],
+    "slug": "powerwash-simulator-shrek-special-pack",
+    "summary": "Playtime is ogre. Get to work cleaning up five fairy tale maps inspired by DreamWorks Animation’s Shrek. It’ll take more than pixie dust to restore these iconic locales to their former lustre, but thankfully, happily ever after is in your hands!\n\nLike onions, dirt has layers. And boy, this particular brew of filth is potent enough to rival even the Fairy Godmother’s strongest concoctions. A sprinkle of soap, a touch of elbow grease and a large dose of ‘DING’s make for the perfect antidote potion! Wash it all down with a swish of high-pressure water and you’ll have these enchanting locations looking as spotless as the Magic Mirror.",
+    "updated_at": "2025-02-18 19:30:52",
+    "url": "https://www.igdb.com/games/powerwash-simulator-shrek-special-pack",
+    "checksum": "d0bd39db-ade2-623a-6a86-8f7adcb5cf87",
+    "language_supports": [
+        "English",
+        "Korean",
+        "Russian",
+        "French",
+        "German",
+        "Spanish (Spain)",
+        "Japanese",
+        "Chinese (Simplified)",
+        "Chinese (Traditional)",
+        "Italian"
+    ],
+    "game_type": "Main Game",
+    "themes": [],
+    "game_engines": [],
+    "keywords": [],
+    "similar_games": [],
+    "developers": [
+        "FuturLab"
+    ],
+    "publishers": [
+        "Square Enix"
+    ],
+    "age_ratings": [],
+    "alternative_names": []
+}

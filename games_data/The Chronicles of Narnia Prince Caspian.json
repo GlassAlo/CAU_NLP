@@ -1,0 +1,106 @@
+{
+    "id": 4763,
+    "age_ratings": [
+        "Twelve",
+        "T"
+    ],
+    "aggregated_rating": 50.0,
+    "aggregated_rating_count": 1,
+    "alternative_names": [
+        "Die Chroniken von Narnia: Prinz Kaspian von Narnia (German title)",
+        "Die Chroniken von Narnia: Prinz Kaspian von Narnia"
+    ],
+    "category": "Main Game",
+    "created_at": "2014-02-01 13:47:58",
+    "external_games": [
+        "The Chronicles of Narnia: Prince Caspian"
+    ],
+    "first_release_date": "2008-05-15 00:00:00",
+    "franchise": 188,
+    "franchises": [
+        "The Chronicles of Narnia"
+    ],
+    "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Split screen"
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "keywords": [
+        "ogres",
+        "mythology",
+        "licensed game",
+        "elementals",
+        "roman mythology",
+        "playstation trophies",
+        "rpg elements",
+        "tie-in",
+        "minotaurs",
+        "human"
+    ],
+    "multiplayer_modes": [
+        8564,
+        1686
+    ],
+    "name": "The Chronicles of Narnia: Prince Caspian",
+    "platforms": [
+        "PC (Microsoft Windows)",
+        "PlayStation 2",
+        "PlayStation 3",
+        "Xbox 360",
+        "Wii"
+    ],
+    "player_perspectives": [
+        "Third person"
+    ],
+    "rating": 60.00675657613714,
+    "rating_count": 12,
+    "release_dates": [
+        "May 15, 2008",
+        "May 15, 2008",
+        "May 15, 2008",
+        "May 15, 2008",
+        "May 15, 2008"
+    ],
+    "similar_games": [
+        "The Witcher 3: Wild Hunt",
+        "Middle-earth: Shadow of Mordor",
+        "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "Child of Light",
+        "The Lord of the Rings: Conquest",
+        "The Lord of the Rings: War of the Ring",
+        "Aarklash: Legacy",
+        "Tales of Berseria",
+        "Dragon: Marked for Death",
+        "Eternity: The Last Unicorn"
+    ],
+    "slug": "the-chronicles-of-narnia-prince-caspian",
+    "summary": "The Chronicles of Narnia: Prince Caspian is an action-adventure fantasy video game.",
+    "themes": [
+        "Action",
+        "Fantasy"
+    ],
+    "total_rating": 55.00337828806857,
+    "total_rating_count": 13,
+    "updated_at": "2024-11-09 13:33:56",
+    "url": "https://www.igdb.com/games/the-chronicles-of-narnia-prince-caspian",
+    "checksum": "031ac6c3-5cb3-bb1b-964d-7fa831925970",
+    "ports": [
+        200910
+    ],
+    "collections": [
+        4979
+    ],
+    "game_type": "Unknown",
+    "game_engines": [],
+    "developers": [
+        "Traveller's Tales"
+    ],
+    "publishers": [
+        "Disney Interactive Studios",
+        "Noviy Disk"
+    ],
+    "language_supports": []
+}

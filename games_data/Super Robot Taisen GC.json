@@ -1,0 +1,93 @@
+{
+    "id": 4189,
+    "age_ratings": [
+        "Three"
+    ],
+    "alternative_names": [
+        "Super Robot Wars GC"
+    ],
+    "category": "Main Game",
+    "created_at": "2014-01-25 21:22:33",
+    "external_games": [
+        "Super Robot Taisen GC"
+    ],
+    "first_release_date": "2004-12-16 00:00:00",
+    "franchises": [
+        "Gundam",
+        "Super Robot Wars"
+    ],
+    "game_modes": [
+        "Single player"
+    ],
+    "genres": [
+        "Fighting",
+        "Shooter",
+        "Role-playing (RPG)"
+    ],
+    "keywords": [
+        "robots",
+        "death match",
+        "mech",
+        "online",
+        "team deathmatch",
+        "anime",
+        "optional touch control",
+        "polygonal 3d",
+        "touch controls"
+    ],
+    "name": "Super Robot Taisen GC",
+    "platforms": [
+        "Nintendo GameCube"
+    ],
+    "player_perspectives": [
+        "Third person"
+    ],
+    "rating": 56.0,
+    "rating_count": 0,
+    "release_dates": [
+        "Dec 16, 2004"
+    ],
+    "similar_games": [
+        "Cyberpunk 2077",
+        "Rose Online",
+        "Borderlands 3",
+        "Death Stranding",
+        "Star Control: Origins",
+        "Immortal: Unchained",
+        "SoulWorker",
+        "Border Break: Sega Network Robot Wars",
+        "Gene Rain",
+        "Rebel Galaxy Outlaw"
+    ],
+    "slug": "super-robot-taisen-gc",
+    "summary": "Super Robot Taisen GC is the first and only Nintendo GameCube Super Robot Wars title.\nIt would later be ported to the Xbox 360 under the title Super Robot Wars XO, which had an online mode called \"Super Robot Competition\".\n\nThis game received an English fan translation in 2021.",
+    "themes": [
+        "Action",
+        "Science fiction"
+    ],
+    "total_rating": 56.0,
+    "total_rating_count": 0,
+    "updated_at": "2025-02-19 03:10:15",
+    "url": "https://www.igdb.com/games/super-robot-taisen-gc",
+    "checksum": "998035a9-cad7-9896-afc2-b2010667baff",
+    "expanded_games": [
+        143417
+    ],
+    "language_supports": [
+        "Japanese"
+    ],
+    "game_localizations": [
+        3762
+    ],
+    "collections": [
+        682
+    ],
+    "game_type": "Unknown",
+    "game_engines": [],
+    "developers": [
+        "Banpresto"
+    ],
+    "publishers": [
+        "Banpresto"
+    ]
+}

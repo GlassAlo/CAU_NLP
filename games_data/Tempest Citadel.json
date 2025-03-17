@@ -1,0 +1,62 @@
+{
+    "id": 75106,
+    "category": "Main Game",
+    "created_at": "2017-10-29 11:45:35",
+    "external_games": [
+        "Tempest Citadel"
+    ],
+    "first_release_date": "2018-04-17 00:00:00",
+    "game_modes": [
+        "Single player"
+    ],
+    "genres": [
+        "Simulator",
+        "Strategy",
+        "Indie"
+    ],
+    "name": "Tempest Citadel",
+    "platforms": [
+        "PC (Microsoft Windows)"
+    ],
+    "rating": 50.0,
+    "rating_count": 0,
+    "release_dates": [
+        "Apr 17, 2018"
+    ],
+    "similar_games": [
+        "Unclaimed World",
+        "Project Aura",
+        "Another Brick in the Mall",
+        "Tavern Tycoon",
+        "Earth Space Colonies",
+        "Supreme Ruler Ultimate",
+        "Rise of Industry",
+        "Mashinky",
+        "Bronze Age",
+        "Ancient Cities"
+    ],
+    "slug": "tempest-citadel",
+    "summary": "Assume the role of an enigmatic Captain from Terra as he embarks on a mission to explore a deadly world that promises wondrous and terrible power. Tempest Citadel is a strategy game set on a storm-ruled planet. Build a mighty Citadel in the clouds and lead your crew into battle.",
+    "total_rating": 50.0,
+    "total_rating_count": 0,
+    "updated_at": "2025-03-09 08:40:06",
+    "url": "https://www.igdb.com/games/tempest-citadel",
+    "checksum": "de69f668-8626-ca73-d7f8-dfb8ec2b7c71",
+    "language_supports": [
+        "English"
+    ],
+    "game_type": "Unknown",
+    "themes": [],
+    "player_perspectives": [],
+    "franchises": [],
+    "game_engines": [],
+    "keywords": [],
+    "developers": [
+        "Aartform Games"
+    ],
+    "publishers": [
+        "Aartform Games"
+    ],
+    "age_ratings": [],
+    "alternative_names": []
+}

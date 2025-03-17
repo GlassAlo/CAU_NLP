@@ -1,0 +1,78 @@
+{
+    "id": 56419,
+    "alternative_names": [
+        "ジェノサイド",
+        "Jenosaido"
+    ],
+    "category": "Main Game",
+    "created_at": "2017-09-01 14:58:53",
+    "external_games": [
+        "Genocide"
+    ],
+    "first_release_date": "1989-07-23 00:00:00",
+    "game_modes": [
+        "Single player"
+    ],
+    "genres": [
+        "Platform",
+        "Strategy"
+    ],
+    "keywords": [
+        "modern military",
+        "cyberpunk",
+        "mech",
+        "side-scrolling",
+        "modern warfare"
+    ],
+    "name": "Genocide",
+    "platforms": [
+        "Turbografx-16/PC Engine CD",
+        "Sharp X68000"
+    ],
+    "player_perspectives": [
+        "Side view"
+    ],
+    "release_dates": [
+        "Jul 23, 1989",
+        "1992"
+    ],
+    "similar_games": [
+        "Breach & Clear",
+        "Challenger",
+        "Star Control: Origins",
+        "Warfare Reloaded",
+        "Planet Alpha",
+        "Black Squad",
+        "Crackle Cradle",
+        "MaskGun",
+        "Girls' Frontline",
+        "Earth Defense Force: Iron Rain"
+    ],
+    "slug": "genocide",
+    "storyline": "In the year 2121, the world was reaching the breaking point and so all the countries and states joined together in a rare case of non-partisanship to avoid self-destruction, with leading scientists around the world forming together to create a super computer that would create order and regulate the world through a divine plan that would set the world back on the proper path.\n\nOver the course of 50 years, their combined efforts would finally create a computer with a sophisticated central processing unit that was thought to do no wrong, known as the \"Magnetic Extrasensory perception System Incorruptible A-class\" unit, codenamed \"MESIA\" (and read as \"Messiah\" in Katakana). Regulating every major facet of life throughout the world from politics and security to economics, MESIA was thought to be the savior of mankind. Over the years however, MESIA would have detractors who did not favor the path in which it set for man. This opposition of skilled intellectuals, warriors, and scientists, known as the \"OROPPAS\" (or opposition), would eventually corrupt MESIA and make it become self-aware, where it sought to eradicate all mankind.\n\nIn a desperate bid to stop OROPPAS and subdue MESIA, everyone poured their remaining resources into an experimental, high-quality battle armour complete with a sophisticated A.I. known as \"Randy\", a powerful saber which cuts through nearly anything, and the most skilled pilot that they could elect, Ken Ryugasaki. Now, in the year 2230 AD, you must trudge through towns, jungles, and wasteland defeating mechanical menace, killing mutated creatures, and making your way to MESIA to defeat \"The Supreme Guardian\".",
+    "summary": "A side-scrolling mecha-themed action game.",
+    "themes": [
+        "Action",
+        "Science fiction"
+    ],
+    "updated_at": "2025-02-18 19:01:50",
+    "url": "https://www.igdb.com/games/genocide",
+    "checksum": "ab7a1648-d8c6-221d-8290-95d5af9d6dd7",
+    "game_localizations": [
+        8443
+    ],
+    "collections": [
+        3104
+    ],
+    "game_type": "Unknown",
+    "franchises": [],
+    "game_engines": [],
+    "developers": [
+        "ZOOM"
+    ],
+    "publishers": [
+        "ZOOM"
+    ],
+    "language_supports": [],
+    "age_ratings": []
+}

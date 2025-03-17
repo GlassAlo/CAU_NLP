@@ -1,0 +1,89 @@
+{
+    "id": 133278,
+    "age_ratings": [
+        "M"
+    ],
+    "alternative_names": [
+        "Mortal Kombat 11 Kombat Pack"
+    ],
+    "category": "Bundle",
+    "created_at": "2020-05-06 22:09:13",
+    "external_games": [
+        "Mortal Kombat 11: Kombat Pack"
+    ],
+    "first_release_date": "2019-04-23 00:00:00",
+    "franchises": [
+        "Mortal Kombat",
+        "Spawn",
+        "Terminator",
+        "Batman"
+    ],
+    "game_modes": [
+        "Single player",
+        "Multiplayer"
+    ],
+    "genres": [
+        "Fighting"
+    ],
+    "keywords": [
+        "bundle"
+    ],
+    "name": "Mortal Kombat 11: Kombat Pack",
+    "platforms": [
+        "PlayStation 4",
+        "PC (Microsoft Windows)",
+        "Google Stadia",
+        "Xbox One",
+        "Nintendo Switch"
+    ],
+    "player_perspectives": [
+        "Side view"
+    ],
+    "release_dates": [
+        "Apr 23, 2019",
+        "Apr 23, 2019",
+        "Apr 23, 2019",
+        "Apr 23, 2019",
+        "Nov 19, 2019"
+    ],
+    "similar_games": [
+        "Dragon Ball Z: Budokai Tenkaichi 3",
+        "Garou: Mark of the Wolves",
+        "My Hero Academia: Battle for All",
+        "Zoids Wild: Blast Unleashed",
+        "Anima: Gate of Memories - The Nameless Chronicles",
+        "Dead or Alive 6",
+        "Jump Force",
+        "Samurai Shodown",
+        "Havocado",
+        "Ben 10: Battle Ready"
+    ],
+    "slug": "mortal-kombat-11-kombat-pack",
+    "summary": "\"The Kombat Pack is the best way to upgrade your Mortal Kombat Standard Edition.\n\nThe Kombat Pack includes:\n- 6 new add-on playable characters including Shang Tsung, Nightwolf, Terminator T-800, Sindel, The Joker and Spawn\n- 1 week early access to all add-on characters\n- Skins & gear sets with each add-on character\n- 6 themed skin packs including the Klassic Arcade Ninjas, Klassic Arcade Fighters and more\"",
+    "themes": [
+        "Action"
+    ],
+    "updated_at": "2025-03-05 18:19:27",
+    "url": "https://www.igdb.com/games/mortal-kombat-11-kombat-pack",
+    "checksum": "5e12cb17-9ac7-1ab2-e256-cd976150069e",
+    "language_supports": [
+        "English",
+        "English",
+        "English",
+        "French",
+        "French",
+        "French",
+        "Italian",
+        "Italian",
+        "Italian",
+        "German"
+    ],
+    "game_type": "Expansion",
+    "game_engines": [],
+    "developers": [
+        "NetherRealm Studios"
+    ],
+    "publishers": [
+        "Warner Bros. Interactive Entertainment"
+    ]
+}

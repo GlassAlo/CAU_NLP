@@ -1,0 +1,59 @@
+{
+    "id": 78399,
+    "category": "Main Game",
+    "created_at": "2017-12-17 18:47:52",
+    "external_games": [
+        "Hoi Hoi"
+    ],
+    "genres": [
+        "Puzzle",
+        "Simulator",
+        "Strategy"
+    ],
+    "keywords": [
+        "tower defense",
+        "turn-based",
+        "soldier",
+        "traps",
+        "grid-based movement",
+        "hexagon",
+        "cartoony",
+        "students",
+        "character select screen",
+        "combat dialogue"
+    ],
+    "name": "Hoi Hoi",
+    "similar_games": [
+        "Imagine Earth",
+        "Unclaimed World",
+        "Villagers",
+        "Another Brick in the Mall",
+        "TransOcean: The Shipping Company",
+        "Mashinky",
+        "Bronze Age",
+        "Bad North",
+        "Ancient Cities",
+        "Automachef"
+    ],
+    "slug": "hoi-hoi",
+    "summary": "A turn-based strategy-puzzle game released by Koei for the FM-7 and PC-88 in 1983, later remade as Stop That Roach for the Game Boy in 1994. The gameplay is similar to later tower defense games, with the goal being to protect confectionaries from cockroaches.",
+    "themes": [
+        "Comedy"
+    ],
+    "updated_at": "2024-09-27 15:12:25",
+    "url": "https://www.igdb.com/games/hoi-hoi",
+    "checksum": "31efa5bc-5178-f527-1611-c34136e6c903",
+    "game_type": "Unknown",
+    "platforms": [],
+    "game_modes": [],
+    "player_perspectives": [],
+    "franchises": [],
+    "game_engines": [],
+    "developers": [],
+    "publishers": [],
+    "release_dates": [],
+    "language_supports": [],
+    "age_ratings": [],
+    "alternative_names": [],
+    "first_release_date": null
+}

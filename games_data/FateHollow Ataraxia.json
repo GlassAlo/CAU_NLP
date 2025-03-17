@@ -1,0 +1,90 @@
+{
+    "id": 12329,
+    "age_ratings": [
+        "Unknown"
+    ],
+    "alternative_names": [
+        "フェイトホロウアタラクシア"
+    ],
+    "category": "Expanded Game",
+    "created_at": "2015-09-05 13:56:46",
+    "external_games": [
+        "Fate/Hollow Ataraxia"
+    ],
+    "first_release_date": "2014-11-27 00:00:00",
+    "franchises": [
+        "Fate"
+    ],
+    "game_engines": [
+        "KiriKiri"
+    ],
+    "game_modes": [
+        "Single player"
+    ],
+    "genres": [
+        "Adventure",
+        "Visual Novel"
+    ],
+    "keywords": [
+        "magic",
+        "nsfw version exists"
+    ],
+    "name": "Fate/Hollow Ataraxia",
+    "parent_game": "Fate/Hollow Ataraxia",
+    "platforms": [
+        "PlayStation Vita"
+    ],
+    "player_perspectives": [
+        "First person",
+        "Text"
+    ],
+    "rating": 96.46940198172223,
+    "rating_count": 14,
+    "release_dates": [
+        "Nov 27, 2014"
+    ],
+    "similar_games": [
+        "Necrobarista",
+        "GreedFall",
+        "Immortal: Unchained",
+        "The Elder Scrolls VI",
+        "Eternity: The Last Unicorn",
+        "Warhammer: Chaosbane",
+        "The Elder Scrolls: Blades",
+        "Torchlight III",
+        "Hytale",
+        "Pokémon Shield"
+    ],
+    "slug": "fate-slash-hollow-ataraxia",
+    "storyline": "The plot of Fate/hollow ataraxia is based half a year after the events of Fate/stay night. Like its preceding counterpart, the story is set in Fuyuki City. Bazett Fraga McRemitz, a member of the Mages' Association and a master in the Fifth Holy Grail War, wakes on the fourth day of the Fifth Holy Grail war with a new servant, Avenger, and no memory of what happened to her beforehand. She and Avenger set off to fight and win the Holy Grail War.\n\nMeanwhile, Shirō Emiya lives a peaceful life with all of his friends from the Fifth Holy Grail War. After one of her experiments changes time and space, Rin Tohsaka leaves for the Mages' Association in England to fix things. The Servants sense a new danger while dark creatures appear soon afterward. Shirō, as a precaution, sets off to ensure nobody is in danger and instead finds himself frequently meeting a mysterious girl, Caren Ortensia.\n\nBoth Bazett and Shirō find themselves in time loop that lasts four days, beginning of the fourth day of the Fifth Holy Grail War. Each time they die or survive four days, they always awake on the first day of the loop, aware of what has happened to them since the first time loop began. Determined to end the loop, Bazett, Avenger, and Shirō fight to discover the truth behind what is causing the endless four days.",
+    "summary": "Fate/Hollow Ataraxia is a Japanese visual novel game and the sequel to Fate/Stay Night. The word ataraxia in the title is a Greek term for tranquility, giving the title the combined meaning of \"empty (or false) tranquility\". The plot of Fate/Hollow Ataraxia is based half a year after the events of Fate/Stay Night. Like its preceding counterpart, the story is set in Fuyuki City. Bazett Fraga McRemitz, a member of the Mages' Association and a master in the Fifth Holy Grail War, wakes on the fourth day of the Fifth Holy Grail War with a new servant, Avenger, and no memory of what happened to her beforehand. She and the Avenger set off to fight and win the Holy Grail War.",
+    "themes": [
+        "Fantasy"
+    ],
+    "total_rating": 96.46940198172223,
+    "total_rating_count": 14,
+    "updated_at": "2025-02-18 20:29:33",
+    "url": "https://www.igdb.com/games/fate-slash-hollow-ataraxia",
+    "checksum": "bd4f88e1-5326-9a2d-90ad-fab27524bd71",
+    "remasters": [
+        312302
+    ],
+    "language_supports": [
+        "Japanese",
+        "Japanese",
+        "Japanese"
+    ],
+    "game_localizations": [
+        5115
+    ],
+    "collections": [
+        1635
+    ],
+    "game_type": "Remaster",
+    "developers": [
+        "TYPE-MOON"
+    ],
+    "publishers": [
+        "TYPE-MOON"
+    ]
+}

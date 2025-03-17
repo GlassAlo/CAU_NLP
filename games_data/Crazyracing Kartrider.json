@@ -1,0 +1,85 @@
+{
+    "id": 91272,
+    "age_ratings": [
+        "Unknown"
+    ],
+    "alternative_names": [
+        "跑跑卡丁車",
+        "跑跑卡丁车",
+        "Kartrider"
+    ],
+    "category": "Main Game",
+    "created_at": "2018-03-15 14:59:12",
+    "external_games": [
+        "Crazyracing Kartrider"
+    ],
+    "first_release_date": "2004-06-01 00:00:00",
+    "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+    ],
+    "genres": [
+        "Racing",
+        "Arcade"
+    ],
+    "hypes": 1,
+    "multiplayer_modes": [
+        17682
+    ],
+    "name": "Crazyracing Kartrider",
+    "platforms": [
+        "PC (Microsoft Windows)"
+    ],
+    "player_perspectives": [
+        "Third person"
+    ],
+    "rating": 80.452538735215,
+    "rating_count": 10,
+    "release_dates": [
+        "Oct 01, 2006",
+        "May 01, 2007",
+        "Apr 19, 2012",
+        "Jun 01, 2004"
+    ],
+    "similar_games": [
+        "Score! Hero",
+        "Rise: Race the Future",
+        "Rico",
+        "Forza Horizon 4",
+        "Pigeon Pop",
+        "Team Sonic Racing",
+        "Sky Gamblers: Storm Raiders 2",
+        "Havocado",
+        "Grid",
+        "Aquapark.io"
+    ],
+    "slug": "crazyracing-kartrider",
+    "summary": "Crazyracing Kartrider is an online multiplayer racing game serviced by NEXON. KartRider not only features fictitious fantasy vehicles but also branded game models based on real-life cars, developed from collaboration with companies such as BMW Korea. About 25% of South Koreans have played the game at least once.",
+    "themes": [
+        "Action"
+    ],
+    "total_rating": 80.452538735215,
+    "total_rating_count": 10,
+    "updated_at": "2025-02-18 21:57:57",
+    "url": "https://www.igdb.com/games/crazyracing-kartrider",
+    "checksum": "620979d5-1dd1-4055-0c41-9fafeb2950e0",
+    "game_localizations": [
+        20606
+    ],
+    "game_type": "Unknown",
+    "franchises": [],
+    "game_engines": [],
+    "keywords": [],
+    "developers": [
+        "Nexon",
+        "Nexon Korea"
+    ],
+    "publishers": [
+        "Gamania",
+        "Nexon",
+        "Nexon Korea",
+        "Tiancity"
+    ],
+    "language_supports": []
+}

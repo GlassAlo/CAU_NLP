@@ -1,0 +1,78 @@
+{
+    "id": 3675,
+    "age_ratings": [
+        "T"
+    ],
+    "category": "Main Game",
+    "created_at": "2014-01-09 17:41:40",
+    "external_games": [
+        "Shrek Extra Large"
+    ],
+    "first_release_date": "2002-10-31 00:00:00",
+    "franchise": 84,
+    "franchises": [
+        "Shrek"
+    ],
+    "game_modes": [
+        "Single player",
+        "Split screen"
+    ],
+    "genres": [
+        "Platform",
+        "Adventure"
+    ],
+    "keywords": [
+        "licensed game",
+        "action-adventure",
+        "human",
+        "medieval"
+    ],
+    "name": "Shrek Extra Large",
+    "platforms": [
+        "Nintendo GameCube"
+    ],
+    "player_perspectives": [
+        "Third person"
+    ],
+    "rating": 44.0,
+    "rating_count": 3,
+    "release_dates": [
+        "Oct 31, 2002"
+    ],
+    "similar_games": [
+        "Marvel's Avengers",
+        "Tanzia",
+        "Wanderlust Adventures",
+        "Zezenia Online",
+        "The Black Death",
+        "Colony Survival",
+        "Children of Morta",
+        "Medieval Kingdom Wars",
+        "Pikuniku",
+        "Omensight"
+    ],
+    "slug": "shrek-extra-large",
+    "summary": "Shrek: Extra Large is packed with 10 levels, twisted fairy tale characters, cutscenes, and action-packed gameplay. Play as your favorite characters from the movie Shrek or as new fairy tale characters. In order to rescue Princess Fiona, you must explore 10 different fairy tale lands and compete in more than 50 missions. Your character can perform a variety of power moves such as punch, kick, grab, super-flatulance, and belch. When you're not in combat, you can watch 15 brand-new cutscenes.",
+    "themes": [
+        "Action",
+        "Historical"
+    ],
+    "total_rating": 44.0,
+    "total_rating_count": 3,
+    "updated_at": "2025-02-18 19:30:52",
+    "url": "https://www.igdb.com/games/shrek-extra-large",
+    "checksum": "64266a05-0877-0263-23cd-99294b6fc724",
+    "collections": [
+        3073
+    ],
+    "game_type": "Unknown",
+    "game_engines": [],
+    "developers": [
+        "Digital Illusions CE"
+    ],
+    "publishers": [
+        "TDK Mediactive"
+    ],
+    "language_supports": [],
+    "alternative_names": []
+}
