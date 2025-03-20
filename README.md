@@ -11,10 +11,8 @@ The `fetcher.py` script retrieves video game data from [IGDB](https://www.igdb.c
 
 - Retrieves an OAuth access token from the Twitch API.
 - Uses the IGDB wrapper to make requests to the IGDB API.
-- Retrieves video game data, including alternative names, involved companies, release dates, language supports, external games, age ratings, and more.
-- Replaces IDs with readable names for genres, platforms, game modes, themes, player perspectives, franchises, game engines, keywords, and similar games.
-- Converts Unix timestamps to readable dates.
-- Saves game data in JSON files in a specified directory.
+- Retrieves video game summaries from the IGDB API.
+- Saves game summary files in a specified directory.
 
 ## Dependencies
 
@@ -49,7 +47,7 @@ To get information about the arguments, run:
 python fetcher.py --limit <> --directory <> --random <>
 ```
 
-3. JSON files containing game data will be created in the `games_data` directory.
+3. The files containing the summary of the games will be saved in the specified directory.
 
 ## Source
 
