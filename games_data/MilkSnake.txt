@@ -1,0 +1,1 @@
+A snake game for Mac OS X, played on continuous non-euclidean surfaces.

@@ -1,0 +1,1 @@
+A "memento mori" game in which the player travels from young adulthood to death within 5 minutes while carving their own path.

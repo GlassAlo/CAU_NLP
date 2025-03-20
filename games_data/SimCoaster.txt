@@ -1,0 +1,9 @@
+SimCoaster is the third and final game in the Theme Park series
+It uses the same graphic engine as the previous game Theme Park World
+It is a theme park management game where players build their own theme park and attract as much visitors as possible
+This time there are also grandparents of the little visitors who need to be entertained.
+
+This version focuses more on the management side of running a park
+It contains various types of business related to campaigns and objectives, such as bringing in a certain number of guests to a ride
+By completing these challenges, promotions can be gained
+As with the previous game in the series, players can walk around in their park in a first-person mode and go on the rides.

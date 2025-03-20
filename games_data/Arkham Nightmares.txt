@@ -1,0 +1,5 @@
+Arkham Nightmares is an adventure game with rogue-like elements
+You play Prof
+Liebwerk the head physician of the Lovecraftian Arkham Sanatorium
+Your task is to complete your journal with all the stories from the crazy inmates
+But before they will tell you anything you have to win their trust.

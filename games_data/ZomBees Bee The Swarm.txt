@@ -1,0 +1,1 @@
+ZomBees is a mobile application that allows players to engage in a zombie action game, while also donating money to charity.

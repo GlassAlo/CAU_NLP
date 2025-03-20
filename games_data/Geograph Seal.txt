@@ -1,0 +1,2 @@
+Exact's Geograph Seal, released for the Sharp X68000 computer in 1994, is a precursor to Jumping Flash! Rendered in 3D polygons, it was the earliest first-person shooter with platforming mechanics
+It also allowed the player to aim the weapon, and took place in free-roaming outdoor environments rather than the corridor labyrinths of contemporary FPS games like Doom.

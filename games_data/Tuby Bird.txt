@@ -1,0 +1,2 @@
+Tuby Bird is a clone of the Activision title, Dolphin
+The difference in this game is that, instead of playing as a dolphin trying to avoid a squid, you play as a small bird while trying to avoid a bird of prey.

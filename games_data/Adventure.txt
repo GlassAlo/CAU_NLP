@@ -1,0 +1,9 @@
+Adventure is a video game for the Atari 2600 video game console, released in 1980
+In the game, the player controls a square avatar whose quest is to hunt an open world environment for a magical chalice, returning it to the golden castle
+The game world is populated by roaming enemies: dragons, which can eat the avatar; and a bat, which randomly steals and hides items around the game world.
+
+Adventure was designed and programmed by Atari employee Warren Robinett, and published by Atari, Inc
+At the time, Atari programmers were generally given full control on the creative direction and development cycle for their games, and this required them to plan for their next game as they neared completion of their current one to stay productive.
+
+Robinett submitted the source code for Adventure to Atari management in June 1979 and soon left Atari
+Atari released the game in early 1980.

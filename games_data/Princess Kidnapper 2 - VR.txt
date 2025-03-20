@@ -1,0 +1,7 @@
+The madman is coming back, kidnap the princess, wipe out her army and break her love apart
+ 
+ 
+This game is a pure archery madness
+The player can use multiple weapons to either kill the enemy or change the environment
+Implement the best strategy to fight your way through waves of king’s army
+If you succeed in defeating the army, the princess will be yours, so fight it!

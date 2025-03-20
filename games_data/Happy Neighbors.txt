@@ -1,0 +1,3 @@
+Happy Neighbors is an ambient logic puzzle game
+Your goal is simple: divide the land equally between the neighbors
+Enjoy!

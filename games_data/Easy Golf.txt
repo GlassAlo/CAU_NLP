@@ -1,0 +1,2 @@
+Easy Golf is an XNA community game available over Xbox Live Marketplace
+It is a golf game with a simple course editor.

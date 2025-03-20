@@ -1,0 +1,3 @@
+Zigfrak is a space-based action RPG, featuring missions, exploration, and crafting
+With an emphasis on loot and over-the-top items, it's not a traditional space sim
+Enemy ships explode like loot piñatas, spewing forth useful pickups.

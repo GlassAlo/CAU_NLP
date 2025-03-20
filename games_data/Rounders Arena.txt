@@ -1,0 +1,5 @@
+Rounders (Arena) is a 2D 01-04 Player (Local) Arena Platformer Game.
+
+Inspired by the "Easy to learn, hard to master'' mechanics from the old games.
+
+Join the team, and prove yourself worthy of the 'True Rounder' title.

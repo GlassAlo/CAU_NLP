@@ -1,0 +1,4 @@
+Knight Fighters is a 2D side-scroll platormer with fighting action
+The Ancient Knight can attack with sword strikes, punches, kicks and even chain combos, both at the ground or the air
+He can also jump to avoid obstacles
+Be prepared!

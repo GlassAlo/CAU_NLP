@@ -1,0 +1,4 @@
+Age of Sail II simulates naval warfare from 1775 to 1820 with a real-time 3-D sailing and combat model
+Over 1,200 historical ships and 100 historical American and British scenarios are available, including: Copenhagen, the Battle of the Nile, Trafalgar, Cape St
+Vincent, and Camperdown
+A full, floating 3-D camera allows complete control of your fleet, and the 3-D accelerated graphics reveal accurately rendered ships and beautiful landscapes

@@ -1,0 +1,3 @@
+"Endless Escape" is a maze game that lets you escape from a castle full of mazes, dodging traps
+Look around while moving yourself, as there are traps that will come out from nowhere
+Life or death depends on your choices.

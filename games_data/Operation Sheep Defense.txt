@@ -1,0 +1,4 @@
+Operation Sheep Defense is a fast paced tower defense game
+Featuring dynamic levels and intelligent enemy behavior
+Shape the enemy path or defend maze-like levels
+Levels are short and intense.

@@ -1,0 +1,6 @@
+Kingdom of Kroz is the first game in the Kroz series created by Scott Miller
+It is also the first game released by Apogee Software.
+
+A text-mode action/puzzle game
+You have to get to the exit on each level, which is made more difficult by obstacles such as trees (which can be destroyed) and monsters
+Various puzzles (in the form of one-off objects) are also used.

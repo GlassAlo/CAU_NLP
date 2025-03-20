@@ -1,0 +1,7 @@
+SkiFree is a casual single-player sports simulator wherein the player uses the keyboard or the mouse to control a skier across a white background representing snow on a mountainside
+The object of the game is to ski down an endless slope and avoid the obstacles (trees, stumps, dogs, etc.) The player can also opt to partake in three modes: slalom, freestyle, and tree slalom
+In slalom, players must properly ski around flags in an attempt to complete the run with the shortest time possible
+Tree slalom adds obstacles to the slalom run
+In freestyle, players ski downhill and jump off ramps while racking up points by performing tricks
+Deductions are imposed for colliding into obstacles or failing to land properly after a stunt
+When the player passes the 2,000-meter mark, the Abominable Snowman appears and starts to chase the player, eating them if it catches them.

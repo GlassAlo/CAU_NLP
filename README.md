@@ -39,7 +39,7 @@ To get information about the arguments, run:
     python fetcher.py --help
     ```
 
-- To fetch data for a specific number of games, use the `--limit` argument.
+- To fetch data for a specific number of games, use the `--limit` argument. If no summary is found for a game, the game will be skipped but will still count towards the limit.
 - To save the data in a specific directory, use the `--directory` argument.
 - To fetch data for random games, use the `--random` argument.:
 

@@ -1,0 +1,1 @@
+A first person gallery shooter where players shoot down flying saucers attempting to destroy the United States Capitol.

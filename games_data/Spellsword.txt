@@ -1,0 +1,2 @@
+Spellsword is an arcade-style fantasy action RPG for iOS platforms
+Borrowing from games such as Super Crate Box, players collect spell cards and try to survive as long as possible against waves of fantasy enemies.

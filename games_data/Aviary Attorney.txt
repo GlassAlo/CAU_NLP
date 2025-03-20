@@ -1,0 +1,2 @@
+Aviary Attorney is an adventure game in the style of the Ace Attorney series
+The player takes the role of a defence lawyer, and must investigate crimes and then defend their clients in court.

@@ -1,0 +1,2 @@
+Pellet Quest is a java-based adventure game in the style of Pac-Man
+Players collect pellets to gain experience and level up while progressing deeper and deeper into a multilevel dungeon.

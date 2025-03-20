@@ -1,0 +1,3 @@
+A roadblasters style driving game
+You drive in a post-apocalyptic wasteland in your armour-plated car
+You earn money by transporting goods from place to place, but watch out for other overlanders trying to stop you.

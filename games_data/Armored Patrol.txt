@@ -1,0 +1,1 @@
+A 3-D tank battle simulation written by Wayne Westmoreland and Terry Gilman and published by Adventure International.

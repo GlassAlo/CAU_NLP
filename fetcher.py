@@ -61,10 +61,13 @@ def save_games_to_files(games, directory='games_data'):
         os.makedirs(directory)
     for game in games:
         game_name = sanitize_filename(game.get('name', 'Unknown_Game'))
-        filename = os.path.join(directory, f'{game_name}.json')
+        filename = os.path.join(directory, f'{game_name}.txt')
         with open(filename, 'w', encoding='utf-8') as file:
             summary = game.get('summary', 'No summary available.')
             summary = '\n'.join(summary.split('. '))
+            if "No summary" in summary:
+                print(f"Skipping game {game_name} due to lack of summary.")
+                continue
             file.write(summary)
             print(f"Game data saved to {filename}")
 
@@ -78,4 +81,11 @@ if __name__ == '__main__':
 
     games_data = get_games_data(limit=args.limit, random=args.random)
     save_games_to_files(games_data)
+
+    for root, _, files in os.walk(args.directory):
+        for file in files:
+            file_path = os.path.join(root, file)
+            if os.path.getsize(file_path) == 0:
+                print(f"Deleting empty file: {file_path}")
+                os.remove(file_path)
     print("Games data saved successfully!")

@@ -1,0 +1,1 @@
+Squad based WW2 combat adapted from the Avalon Hill board game.

@@ -1,0 +1,3 @@
+XON is a puzzle adventure game inspired by games like Myst and Riven.
+
+Explore a unique world and reveal its mysteries...

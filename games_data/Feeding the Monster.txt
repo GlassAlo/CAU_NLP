@@ -1,0 +1,2 @@
+A simple and fun arcade game where your goal is to collect falling objects
+The cute monster is very hungry and you must feed it, but beware of bombs, otherwise your adorable furry friend may die!

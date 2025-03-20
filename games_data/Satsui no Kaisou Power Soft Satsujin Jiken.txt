@@ -1,0 +1,11 @@
+A murder mystery graphic adventure game for the Famicom
+It was never released outside of Japan.
+
+Satsui no Kaisou: Soft House Satsujin Jiken ("Hierarchy Of Murderous Intent: The Software House Serial Murders") is a menu-based adventure game by Hyperware in which the player is a young man attempting to solve the murder of a successful software developer
+Like in many Famicom adventure games, the player can gather clues by examining sites of interest, talking to various people and keeping track of the information they've gathered
+As the case continues, more people working for the titular game company start dying and the player is given more murders to solve.
+
+Time is an important factor in the game as talking to right people and being in the right places at the right moments will prove instrumental towards solving the mystery
+The President of the game company only gives the protagonist three days to solve the case before they get the police involved, giving the player a strict deadline
+The game's writer will introduce himself just before the player is asked to identify the culprit, and provide the game's final opportunity to save
+The game also has multiple endings, depending on what the player does after the murderer has been identified.

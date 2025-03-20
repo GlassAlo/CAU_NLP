@@ -1,0 +1,1 @@
+A spiritual successor to Stair Dismount; rather than pushing a character down a staircase, players try to cause as much damage to a character whilst involved in a truck crash.

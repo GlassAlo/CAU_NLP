@@ -1,0 +1,2 @@
+FPS - Fun Puzzle Shooter is a first person game with a totally different proposal
+Here the objective is not to kill other creatures, but to hit the correct targets to finish the levels.

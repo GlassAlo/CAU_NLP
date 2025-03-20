@@ -1,0 +1,1 @@
+Perfect Stride is a first person skateboarding game for Windows & OSX based on old school FPS movement exploits (Quake jumping, Tribes skiing, CS surfing)

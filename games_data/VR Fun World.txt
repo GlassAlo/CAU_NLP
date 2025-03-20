@@ -1,0 +1,3 @@
+VR Fun World includes 16 mini-games
+Some of which are about shooting targets, others require physical interactions e.g throwing, hitting or collecting items
+Besides the Steam leaderboard, a local highscore for each game keeps the competition fierce at your next game night.

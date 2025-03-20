@@ -1,0 +1,3 @@
+Brick Inventions is a physics based building game
+It combines simple blocks with realistic physics so that everything in the game can be completely destroyed
+Build awesome structures, invent machines, master difficult challenges or play exciting multiplayer battles against your friends –

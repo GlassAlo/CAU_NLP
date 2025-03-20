@@ -1,0 +1,4 @@
+Bust-A-Move (also known as Puzzle Bobble) is a real-time puzzle game in which the player controls a device called "pointer" at the bottom of the screen, aiming and releasing randomly colored bubbles upwards
+Depending on the aiming, the bubbles may float up directly or bounce off the walls, changing their trajectory
+The goal is to aim the bubbles in such a way that they will touch identically colored ones
+When such bubbles form a group of three or more, they pop and disappear from the screen.
