@@ -1,0 +1,97 @@
+Language: Cpp
+ColumnLimit: 120
+ReflowComments: true
+AlignAfterOpenBracket: Align
+AllowAllArgumentsOnNextLine: false
+AllowAllParametersOfDeclarationOnNextLine: true
+IndentWrappedFunctionNames: false
+AccessModifierOffset: 0
+IndentAccessModifiers: true
+BinPackArguments: true
+BinPackParameters: true
+AlignOperands: Align
+BreakBeforeBraces: Custom
+
+BraceWrapping:
+    AfterCaseLabel: false
+    AfterClass: true
+    AfterControlStatement: Never
+    AfterEnum: true
+    AfterFunction: true
+    AfterNamespace: false
+    AfterStruct: true
+    AfterUnion: true
+    AfterExternBlock: true
+    BeforeCatch: false
+    BeforeElse: false
+    BeforeLambdaBody: false
+    BeforeWhile: false
+    IndentBraces: false
+    SplitEmptyFunction: false
+    SplitEmptyRecord: false
+    SplitEmptyNamespace: false
+
+AlwaysBreakAfterReturnType: None
+
+TabWidth: 4
+UseTab: Never
+IndentPPDirectives: BeforeHash
+AlignConsecutiveAssignments: false
+AlignConsecutiveDeclarations: false
+Cpp11BracedListStyle: true
+PointerAlignment: Right
+SpacesInCStyleCastParentheses: false
+SpaceAfterCStyleCast: true
+SpaceAfterLogicalNot: false
+SpaceBeforeAssignmentOperators: true
+SpaceBeforeParens: ControlStatements
+SpaceInEmptyParentheses: false
+SpacesInAngles: false
+SpacesInParentheses: false
+SpacesInSquareBrackets: false
+SpacesInContainerLiterals: false
+SpaceBeforeInheritanceColon: true
+SpaceAfterTemplateKeyword: false
+IndentCaseLabels: true
+NamespaceIndentation: All
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLambdasOnASingleLine: None
+AllowShortLoopsOnASingleLine: false
+AllowShortBlocksOnASingleLine: false
+AllowShortCaseLabelsOnASingleLine: false
+KeepEmptyLinesAtTheStartOfBlocks: false
+MaxEmptyLinesToKeep: 1
+AlignConsecutiveMacros: true
+AlignEscapedNewlines: Left
+AlignTrailingComments: true
+BreakStringLiterals: true
+BreakBeforeBinaryOperators: NonAssignment
+BreakBeforeTernaryOperators: true
+BreakConstructorInitializers: BeforeColon
+BreakInheritanceList: AfterColon
+PackConstructorInitializers: Never
+SortIncludes: true
+IncludeBlocks: Merge
+IncludeCategories:
+    - Regex: '^"[[:alnum:]./]+"' # Any "my_header.h"
+      Priority: 3
+    - Regex: '<criterion/[a-z]+\.h>' # Criterion headers
+      Priority: 2
+    - Regex: "<[[:alnum:]./]+>" # System/Standard libs
+      Priority: 1
+
+# Sort 'using' declarations
+SortUsingDeclarations: true
+
+BasedOnStyle: LLVM
+AlwaysBreakBeforeMultilineStrings: true
+ContinuationIndentWidth: 4
+IndentWidth: 4
+PenaltyBreakAssignment: 0
+SpaceBeforeCpp11BracedList: true
+SpaceBeforeRangeBasedForLoopColon: true
+AlwaysBreakTemplateDeclarations: Yes
+
+# To totally disable format
+DisableFormat: "false"

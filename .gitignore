@@ -1,1 +1,54 @@
 .env
+compile_commands.json
+.xmake/
+build/
+bin/
+
+# Build directories and binary files
+build/
+out/
+cmake-build-*/
+conan-cache/
+CMakeCache.txt
+.cache
+libpatat*
+patat*
+log.txt
+*gcno
+tests
+compile_commands.json
+
+# User spesific settings
+CMakeUserPresets.json
+
+# IDE files
+.vs/
+.idea/
+.vscode/
+Testing/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.swp
+*~
+_ReSharper*
+*.log
+
+# OS Generated Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.Trash-*
+$RECYCLE.BIN/
+.TemporaryItems
+ehthumbs.db
+Thumbs.db
+.xmake
+bin
+
+/documentation
+doxyfile
