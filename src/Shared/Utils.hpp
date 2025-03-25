@@ -1,5 +1,5 @@
 /*
-** File: Main.cpp                                                              *
+** File: Utils.hpp                                                             *
 ** Project: CAU_NLP                                                            *
 ** Created Date: Sa Mar 2025                                                   *
 ** Author: GlassAlo                                                            *
@@ -7,30 +7,26 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Sun Mar 23 2025                                              *
+** Last Modified: Tue Mar 25 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
 ** -----                                                                       *
 ** HISTORY:                                                                    *
-** Date      	By	Comments *
-** ----------	---
-*---------------------------------------------------------  *
+** Date      	By	Comments                                                   *
+** ----------	---	---------------------------------------------------------  *
 */
 
-#include "DocumentHandler.hpp"
-#include "MatrixCreator.hpp"
-#include "Sanitizer.hpp"
+#pragma once
+#include <string>
+#include <vector>
 
-int main()
-{
-    auto *sanitizer = new Document::Sanitizer("./UselessWords.txt");
-    Matrix::MatrixCreator::DocumentList documentList = {
-        Document::DocumentHandler("./games_data/Automobili Lamborghini.txt", sanitizer)};
-    Matrix::MatrixCreator matrixCreator;
-    matrixCreator.createMatrix(documentList);
-    std::cout << matrixCreator << '\n';
-
-    delete sanitizer;
-    return 0;
-}
+namespace Shared {
+    class Utils
+    {
+        public:
+            static auto tokenize(const std::string &line) -> std::vector<std::string>;
+            static auto getDocumentContent(const std::string &aPath) -> std::string;
+            static auto openFolder(const std::string &path = ".") -> std::vector<std::string>;
+    };
+} // namespace Shared

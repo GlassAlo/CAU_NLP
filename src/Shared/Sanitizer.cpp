@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Sun Mar 23 2025                                              *
+** Last Modified: Tue Mar 25 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -22,7 +22,7 @@
 #include <boost/range/algorithm/remove_if.hpp>
 #include <boost/range/algorithm_ext/erase.hpp>
 
-Document::Sanitizer::Sanitizer(const std::string &aPath)
+Shared::Sanitizer::Sanitizer(const std::string &aPath)
 {
     std::string fileContent;
     std::vector<std::string> tokens;
@@ -33,12 +33,12 @@ Document::Sanitizer::Sanitizer(const std::string &aPath)
     _badWords = tokens;
 }
 
-auto Document::Sanitizer::getBadWords() const -> const std::vector<std::string> &
+auto Shared::Sanitizer::getBadWords() const -> const std::vector<std::string> &
 {
     return _badWords;
 }
 
-auto Document::Sanitizer::sanitizeTokenList(std::vector<std::string> &aTokens) const -> void
+auto Shared::Sanitizer::sanitizeTokenList(std::vector<std::string> &aTokens) const -> void
 {
     for (auto &token : aTokens) {
         removePonctuation(token);
@@ -51,12 +51,12 @@ auto Document::Sanitizer::sanitizeTokenList(std::vector<std::string> &aTokens) c
     }
 }
 
-auto Document::Sanitizer::removePonctuation(std::string &aToken) -> void
+auto Shared::Sanitizer::removePonctuation(std::string &aToken) -> void
 {
     aToken.erase(boost::range::remove_if(aToken, ispunct), aToken.end());
 }
 
-auto Document::Sanitizer::stem(std::string &token) -> void
+auto Shared::Sanitizer::stem(std::string &token) -> void
 {
     if (token.size() > 4 && token.substr(token.size() - 3) == "ing") {
         token.erase(token.size() - 3);

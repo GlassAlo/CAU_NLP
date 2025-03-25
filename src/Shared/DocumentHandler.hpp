@@ -1,5 +1,5 @@
 /*
-** File: Sanitizer.hpp                                                         *
+** File: DocumentHandler.hpp                                                          *
 ** Project: CAU_NLP                                                            *
 ** Created Date: Sa Mar 2025                                                   *
 ** Author: GlassAlo                                                            *
@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Sun Mar 23 2025                                              *
+** Last Modified: Tue Mar 25 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -21,29 +21,32 @@
 
 #include <string>
 #include <vector>
+#include <unordered_map>
 
-namespace Document {
-    class Sanitizer
+namespace Shared {
+    class Sanitizer;
+} // namespace Shared
+
+namespace Shared {
+    class DocumentHandler
     {
         private:
-            std::vector<std::string> _badWords;
+            const Shared::Sanitizer *_sanitizer;
+            std::vector<std::string> _tokens;
+            std::unordered_map<std::string, int> _uniqueTokensIndices;
+            const std::string _documentId;
 
         public:
-            explicit Sanitizer(const std::string &path);
-            ~Sanitizer() = default;
+            explicit DocumentHandler(const std::string &path, std::string name, const Shared::Sanitizer *sanitizer);
+            ~DocumentHandler() = default;
 
             // Rule of Five: Explicitly define or delete special member functions
-            Sanitizer(const Sanitizer &) = default;                // Copy constructor
-            Sanitizer &operator=(const Sanitizer &) = default;     // Copy assignment operator
-            Sanitizer(Sanitizer &&) noexcept = default;            // Move constructor
-            Sanitizer &operator=(Sanitizer &&) noexcept = default; // Move assignment operator
+            DocumentHandler(const DocumentHandler &) = default;               // Copy constructor
+            DocumentHandler &operator=(const DocumentHandler &) = delete;     // Copy assignment operator
+            DocumentHandler(DocumentHandler &&) noexcept = default;           // Move constructor
+            DocumentHandler &operator=(DocumentHandler &&) noexcept = delete; // Move assignment operator
 
-            // Member functions
-            [[nodiscard]] auto getBadWords() const -> const std::vector<std::string> &;
-            auto sanitizeTokenList(std::vector<std::string> &tokens) const -> void;
-
-        private:
-            static auto removePonctuation(std::string &token) -> void;
-            static auto stem(std::string &token) -> void;
+            auto getTokens() const -> const std::vector<std::string> &;
+            auto getDocumentId() const -> const std::string &;
     };
-} // namespace Document
+} // namespace Shared

@@ -1,13 +1,13 @@
 /*
-** File: Utils.cpp                                                             *
+** File: MatrixCreator.cpp                                                     *
 ** Project: CAU_NLP                                                            *
-** Created Date: Sa Mar 2025                                                   *
+** Created Date: Su Mar 2025                                                   *
 ** Author: GlassAlo                                                            *
 ** Email: ofourpatat@gmail.com                                                 *
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Sun Mar 23 2025                                              *
+** Last Modified: Tue Mar 25 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -17,40 +17,34 @@
 ** ----------	---	---------------------------------------------------------  *
 */
 
-#include "Utils.hpp"
-#include <boost/algorithm/string.hpp>
-#include <fstream>
-#include <sstream>
+#include "MatrixCreator.hpp"
+#include "DocumentHandler.hpp"
 
-auto Shared::Utils::tokenize(const std::string &aLine) -> std::vector<std::string>
+void Shared::MatrixCreator::createMatrix(DocumentList &aDocumentHandlerList)
 {
-    std::istringstream stream(aLine);
-    std::string token;
-    std::vector<std::string> tokens;
+    for (const auto &doc : aDocumentHandlerList) {
+        const auto &tokens = doc.getTokens();
+        const auto &docName = doc.getDocumentId();
 
-    while (stream >> token) {
-        tokens.push_back(token);
+        for (const auto &token : tokens) {
+            _matrix[docName][token]++;
+        }
     }
-    return tokens;
 }
 
-auto Shared::Utils::getDocumentContent(const std::string &aPath) -> std::string
+auto Shared::MatrixCreator::getMatrix() const -> const Matrix &
 {
-    std::string fullContent;
-    std::string line;
-    std::ifstream file(aPath);
+    return _matrix;
+}
 
-    if (!file.is_open()) {
-        throw std::runtime_error("Unable to open file at path: " + aPath);
+std::ostream &Shared::operator<<(std::ostream &aOs, const MatrixCreator &aMatrixCreator)
+{
+    for (const auto &row : aMatrixCreator.getMatrix()) {
+        aOs << row.first << ": ";
+        for (const auto &col : row.second) {
+            aOs << col.first << " -> " << col.second << ", ";
+        }
+        aOs << '\n';
     }
-
-    while (std::getline(file, line)) {
-        boost::algorithm::to_lower(line);
-        fullContent += line + " ";
-    }
-    if (file.is_open()) {
-        file.close();
-    }
-
-    return fullContent;
+    return aOs;
 }

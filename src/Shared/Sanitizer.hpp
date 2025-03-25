@@ -1,5 +1,5 @@
 /*
-** File: Utils.hpp                                                             *
+** File: Sanitizer.hpp                                                         *
 ** Project: CAU_NLP                                                            *
 ** Created Date: Sa Mar 2025                                                   *
 ** Author: GlassAlo                                                            *
@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Sun Mar 23 2025                                              *
+** Last Modified: Tue Mar 25 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -18,14 +18,32 @@
 */
 
 #pragma once
+
 #include <string>
 #include <vector>
 
 namespace Shared {
-    class Utils
+    class Sanitizer
     {
+        private:
+            std::vector<std::string> _badWords;
+
         public:
-            static auto tokenize(const std::string &line) -> std::vector<std::string>;
-            static auto getDocumentContent(const std::string &aPath) -> std::string;
+            explicit Sanitizer(const std::string &path);
+            ~Sanitizer() = default;
+
+            // Rule of Five: Explicitly define or delete special member functions
+            Sanitizer(const Sanitizer &) = default;                // Copy constructor
+            Sanitizer &operator=(const Sanitizer &) = default;     // Copy assignment operator
+            Sanitizer(Sanitizer &&) noexcept = default;            // Move constructor
+            Sanitizer &operator=(Sanitizer &&) noexcept = default; // Move assignment operator
+
+            // Member functions
+            [[nodiscard]] auto getBadWords() const -> const std::vector<std::string> &;
+            auto sanitizeTokenList(std::vector<std::string> &tokens) const -> void;
+
+        private:
+            static auto removePonctuation(std::string &token) -> void;
+            static auto stem(std::string &token) -> void;
     };
 } // namespace Shared

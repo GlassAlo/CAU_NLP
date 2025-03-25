@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Sun Mar 23 2025                                              *
+** Last Modified: Tue Mar 25 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -24,20 +24,21 @@
 #include <vector>
 #include <unordered_map>
 
-namespace Document {
+namespace Shared {
     class DocumentHandler;
-} // namespace Document
+} // namespace Shared
 
-namespace Matrix {
+namespace Shared {
     class MatrixCreator
     {
         public:
-            using Matrix = std::vector<std::vector<int>>;
-            using UniqueTokensIndices = std::unordered_map<std::string, int>;
-            using DocumentList = std::vector<Document::DocumentHandler>;
+            using occurences = int;
+            using Token = std::string;
+            using DocumentName = std::string;
+            using Matrix = std::unordered_map<DocumentName, std::unordered_map<Token, occurences>>;
+            using DocumentList = std::vector<Shared::DocumentHandler>;
 
         private:
-            UniqueTokensIndices _uniqueTokensIndices;
             Matrix _matrix;
 
         public:
@@ -57,4 +58,4 @@ namespace Matrix {
     };
 
     std::ostream &operator<<(std::ostream &aOs, const MatrixCreator &aMatrixCreator);
-} // namespace Matrix
+} // namespace Shared

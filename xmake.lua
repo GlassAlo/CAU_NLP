@@ -10,5 +10,4 @@ end
 set_languages("cxx23")
 add_rules("mode.debug", "mode.release")
 
-includes("boolean_src")
-includes("vector_src")
+includes("src")
