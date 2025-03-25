@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Tue Mar 25 2025                                              *
+** Last Modified: Wed Mar 26 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -25,6 +25,10 @@
 
 auto Shared::Utils::tokenize(const std::string &aLine) -> std::vector<std::string>
 {
+    if (aLine.empty()) {
+        return {};
+    }
+
     std::istringstream stream(aLine);
     std::string token;
     std::vector<std::string> tokens;

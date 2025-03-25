@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Tue Mar 25 2025                                              *
+** Last Modified: Wed Mar 26 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -22,6 +22,7 @@
 #include <string>
 #include <vector>
 #include "MatrixCreator.hpp"
+#include "QueryHandler.hpp"
 #include <unordered_map>
 
 namespace Shared {
@@ -42,6 +43,7 @@ namespace Boolean {
 
         public:
             explicit InvertedIndex(Shared::MatrixCreator &aMatrix);
+            InvertedIndex() = default;
             ~InvertedIndex() = default;
 
             // Rule of Five
@@ -51,7 +53,17 @@ namespace Boolean {
             InvertedIndex &operator=(InvertedIndex &&) noexcept = default; // Move assignment operator
 
             // Member functions
+            auto createInvertedIndex(Shared::MatrixCreator &aMatrix) -> void;
             auto getInvertedMap() const -> const InvertedMap &;
+            auto getQueryResults(QueryHandler::Query &aQuery) -> DocumentWithOcc;
+
+            auto dumpInvertedMap() const -> void;
+            auto loadInvertedMap(const std::string &aPath) -> bool;
+
+        private:
+            static auto getIntersection(const DocumentWithOcc &aDoc1, const DocumentWithOcc &aDoc2) -> DocumentWithOcc;
+            static auto getUnion(const DocumentWithOcc &aDoc1, const DocumentWithOcc &aDoc2) -> DocumentWithOcc;
+            static auto getDifference(const DocumentWithOcc &aDoc1, const DocumentWithOcc &aDoc2) -> DocumentWithOcc;
     };
 
     // Override the << operator for InvertedIndex

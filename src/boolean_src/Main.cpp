@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Tue Mar 25 2025                                              *
+** Last Modified: Wed Mar 26 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -26,21 +26,46 @@
 
 constexpr std::string folderName = "./games_data";
 
+namespace {
+    auto createInvertedIndex(Boolean::InvertedIndex &aInvertedIndex) -> void
+    {
+        auto *sanitizer = new Shared::Sanitizer("./UselessWords.txt");
+        auto files = Shared::Utils::openFolder(folderName);
+        Shared::MatrixCreator::DocumentList documentList;
+
+        for (const auto &file : files) {
+            documentList.emplace_back("games_data/" + file, file, sanitizer);
+        }
+
+        Shared::MatrixCreator matrixCreator;
+        matrixCreator.createMatrix(documentList);
+
+        aInvertedIndex.createInvertedIndex(matrixCreator);
+
+        delete sanitizer;
+    }
+} // namespace
+
 int main()
 {
-    auto *sanitizer = new Shared::Sanitizer("./UselessWords.txt");
-    auto files = Shared::Utils::openFolder(folderName);
-    Shared::MatrixCreator::DocumentList documentList;
-
-    for (const auto &file : files) {
-        documentList.emplace_back("games_data/" + file, file, sanitizer);
+    Boolean::InvertedIndex invertedIndex;
+    if (!invertedIndex.loadInvertedMap("inverted_map_dump.txt")) {
+        createInvertedIndex(invertedIndex);
+        invertedIndex.dumpInvertedMap();
+    } else {
+        auto query = Boolean::QueryHandler::getQuery("Would you like to refresh the inverted index? (y/n): ");
+        if (query[0] == "y") {
+            createInvertedIndex(invertedIndex);
+            invertedIndex.dumpInvertedMap();
+        }
     }
 
-    Shared::MatrixCreator matrixCreator;
-    matrixCreator.createMatrix(documentList);
+    auto query = Boolean::QueryHandler::getQuery();
+    auto results = invertedIndex.getQueryResults(query);
 
-    Boolean::InvertedIndex invertedIndex(matrixCreator);
+    for (const auto &result : results) {
+        std::cout << result << '\n';
+    }
 
-    delete sanitizer;
     return 0;
 }

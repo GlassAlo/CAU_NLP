@@ -3,7 +3,7 @@ compile_commands.json
 .xmake/
 build/
 bin/
-test
+test**
 
 # Build directories and binary files
 build/

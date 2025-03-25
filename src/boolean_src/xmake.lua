@@ -1,4 +1,3 @@
-add_requires("boost", {system = false})
 -- Create the IR project
 target("boolean-IR")
 
@@ -20,6 +19,7 @@ target("boolean-IR")
 
     -- Add the boost library
     add_packages("boost")
+    add_packages("nlohmann_json")
 
     -- Set the warnings to all (-Wall)
     set_warnings("allextra", "pedantic", "more")
