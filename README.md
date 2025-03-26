@@ -1,54 +1,63 @@
-# NLP Project - Game Data Fetcher
+# Iformation Retrieval
 
-## GitHub Repository
-https://github.com/GlassAlo/CAU_NLP#
+## Contents
 
-## Description
+- [Requirements](#requirements)
+- [Dependencies](#dependencies)
+- [Communication](#communication)
+- [Installation](#installation)
+  - [SSH](#ssh)
+  - [HTTPS](#https)
+- [Compilation](#compilation)
+    - [Using XMake](#using-xmake)
+- [Documentation](#documentation)
+- [Credits](#credits)
 
-The `fetcher.py` script retrieves video game data from [IGDB](https://www.igdb.com/) and creates files for each retrieved game. These files can then be used to perform information retrieval on this data corpus.
+## Requirements
 
-## Features
+- [GCC](https://gcc.gnu.org/) 13.2+ is required
+- [CMake](https://cmake.org/) 3.16+ is required
+- [XMake](https://xmake.io/) 2.5+ is required
+- [Git](https://git-scm.com/) 2.25+ is required&
 
-- Retrieves an OAuth access token from the Twitch API.
-- Uses the IGDB wrapper to make requests to the IGDB API.
-- Retrieves video game summaries from the IGDB API.
-- Saves game summary files in a specified directory.
+## Dependencies (automatically installed)
 
-## Dependencies
+- [Boost](https://www.boost.org/)
+- [Nlohmann JSON](https://github.com/nlohmann/json)
 
-- `requests`
-- `python-dotenv`
-- `igdb-api-v4`
+## Communication
 
-You can install the dependencies using pip:
-```sh
-pip install requests python-dotenv igdb-api-v4
-```
-## Usage
+- If you have a bug or an issue, please contact us.
+- If you want to contribute, please contact us.
 
-1. Make sure you have a `.env` file with your Twitch client ID and client secret (https://dev.twitch.tv/console/apps):
-    ```
-    CLIENT_ID = 'your_client_id'
-    CLIENT_SECRET = 'your_client_secret'
-    ```
+## Installation
 
-2. Run the `fetcher.py` script:
-To get information about the arguments, run:
+### SSH
 
-    ```sh
-    python fetcher.py --help
-    ```
-
-- To fetch data for a specific number of games, use the `--limit` argument. If no summary is found for a game, the game will be skipped but will still count towards the limit.
-- To save the data in a specific directory, use the `--directory` argument.
-- To fetch data for random games, use the `--random` argument.:
-
-```sh
-python fetcher.py --limit <> --directory <> --random <>
+```bash
+git clone git@github.com:GlassAlo/CAU_NLP.git
 ```
 
-3. The files containing the summary of the games will be saved in the specified directory.
+### HTTPS
 
-## Source
+```bash
+git clone https://github.com/GlassAlo/CAU_NLP.git
+```
 
-[IGDB](https://www.igdb.com/)
+
+## Compilation
+
+### Using XMake
+
+```bash
+xmake
+```
+
+## Documentation
+- [fetcher](doc/fetcher.md)
+- [boolean_search](doc/boolean_search.md)
+- [vector_search](doc/vector_search.md)
+
+## Credits
+
+- Maxence Labourel
