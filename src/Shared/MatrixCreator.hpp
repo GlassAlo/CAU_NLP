@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Tue Mar 25 2025                                              *
+** Last Modified: Wed Mar 26 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -32,11 +32,14 @@ namespace Shared {
     class MatrixCreator
     {
         public:
-            using occurences = int;
+            using occurences = double;
             using Token = std::string;
             using DocumentName = std::string;
             using Matrix = std::unordered_map<DocumentName, std::unordered_map<Token, occurences>>;
             using DocumentList = std::vector<Shared::DocumentHandler>;
+            using DocumentWithOcc = std::vector<DocumentName>;
+            using InvertedMap = std::unordered_map<Token, DocumentWithOcc>;
+            using InvIndexFreq = std::unordered_map<Token, double>;
 
         private:
             Matrix _matrix;
@@ -52,9 +55,17 @@ namespace Shared {
             MatrixCreator &operator=(MatrixCreator &&) noexcept = default; // Move assignment operator
 
             // Member functions
-            auto createMatrix(DocumentList &ADocumentHandlerList) -> void;
+            auto createMatrix(const DocumentList &aDocumentHandlerList) -> void;
+            auto setTokensWeight(const DocumentList &aDocumentHandlerList) -> void;
 
             auto getMatrix() const -> const Matrix &;
+
+            auto dumpMatrix() const -> void;
+
+            auto loadMatrix(const std::string &aPath) -> bool;
+
+        private:
+            auto getInvIndexFreq(const DocumentList &aDocumentHandlerLists) -> InvIndexFreq;
     };
 
     std::ostream &operator<<(std::ostream &aOs, const MatrixCreator &aMatrixCreator);

@@ -6,12 +6,20 @@ target("vector-IR")
 
     -- Add the source files
     add_files("**.cpp")
+    add_files("../Shared/**.cpp")
 
     -- Add the -std=c++23 flag
     add_cxxflags("-std=c++23", "-lstdc++")
 
     -- Set the target directory to bin/tests
-    set_targetdir("../bin")
+    set_targetdir("../../bin")
+
+    add_includedirs("../Shared")
+    add_headerfiles("../Shared/*.h**")
+
+    -- Add the boost library
+    add_packages("boost")
+    add_packages("nlohmann_json")
 
     -- Set the warnings to all (-Wall)
     set_warnings("allextra", "pedantic", "more")

@@ -54,7 +54,7 @@ int main()
         invertedIndex.dumpInvertedMap();
     } else {
         auto query = Boolean::QueryHandler::getQuery("Would you like to refresh the inverted index? (y/n): ");
-        if (query[0] == "y") {
+        if (!query.empty() && query[0] == "y") {
             createInvertedIndex(invertedIndex);
             invertedIndex.dumpInvertedMap();
         }
