@@ -1,4 +1,4 @@
-# Iformation Retrieval
+# Information Retrieval
 
 ## Contents
 
