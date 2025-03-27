@@ -1,0 +1,2 @@
+The Note is an action adventure survival horror title, you move around the levels in a first person view and can interact with almost everything in the rooms
+Curtains can be opened, fireplaces can be lit (granted, if you have any wood) and items such as paintings can be examined for additional info.

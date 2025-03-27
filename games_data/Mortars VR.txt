@@ -1,0 +1,4 @@
+An online multiplayer VR artillery shooter
+Operate your cannon tower and destroy other players to grow taller
+Dominate and become the tallest tower in the arena
+Play online or offline with bots!

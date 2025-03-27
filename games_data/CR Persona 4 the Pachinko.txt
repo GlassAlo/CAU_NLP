@@ -1,0 +1,1 @@
+A PC and mobile game version of the "CR Persona 4 the Pachinko" pachinko machine.

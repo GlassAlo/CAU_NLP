@@ -1,0 +1,10 @@
+In this simulation/role-playing game, you must use the robotic pixie Tinker to educate a robot boy named Pino
+You can move Tinker around, examining objects and collecting them in an adventure-like fashion
+Pino will automatically follow you to the direction you are facing, but will continue walking until you stop him
+He will also pick objects and make his own "experiments" with them
+Your goal is to train Pino in various disciplines
+His stats can be raised in a RPG style: reading books increases his intelligence, throwing a ball increases his dexterity, and so on
+By praising or scolding Pino you will gradually make him understand what should be done and what not.
+
+The game features animations by Anime studios Mint and Omnibus Promotions
+With direction from Takashi Yoneda and late anime director Umanosuke Iida.

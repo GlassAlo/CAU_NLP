@@ -1,0 +1,3 @@
+A boxing fitness game released by Konami for the arcades in 2001
+It is a motion-controlled boxing game, like the boxing mini-game in Wii Sports
+Mocap Boxing also calculated calories lost, like Wii Fit.

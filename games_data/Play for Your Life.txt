@@ -1,0 +1,9 @@
+The player controls a robot with a bat attempting to hit a ball at a circular target on the opposing wall
+Alternatively the player may try to kill his opponent by hitting him with the ball or bat
+The computer-controlled opposing player is trying to do the same.
+
+As the game progresses more balls are brought into play, up to a limit of four
+A round is won when one player scores three goals or kills his opponent.
+
+There are 26 levels of varying difficulty
+Later levels feature movable barriers and various other obstacles to complicate play.

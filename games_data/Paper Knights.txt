@@ -1,0 +1,1 @@
+Paper Knights is an artistic stylized RTS (Real Time Strategy) game which puts the player in charge of controlling tiny paper armies and deciding about their next moves in battles and sieges.

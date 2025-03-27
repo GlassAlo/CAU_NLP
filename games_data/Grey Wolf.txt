@@ -1,0 +1,4 @@
+A WWII submarine simulation game that is played from the German Perspective
+Released in 1994, it's quite an early interactive experience with Myst like navigation of the submarine
+The ship is based on the German Type VII U-boat
+Enemy types include destroyers and cargo ships.

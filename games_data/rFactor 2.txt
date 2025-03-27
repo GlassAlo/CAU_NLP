@@ -1,0 +1,3 @@
+rFactor 2 is a realistic, easily extendable racing simulation that offers the latest in vehicle and race customization, great graphics, outstanding multiplayer and the height of racing realism
+It features mixed class road racing with ultra realistic dynamics, an immersive sound environment and stunning graphics
+You can race against both AI and other drivers in multi-player mode.

@@ -1,0 +1,1 @@
+This is a 2D side-scrolling cute MMORPG similar to Maple Story.

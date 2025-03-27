@@ -1,0 +1,7 @@
+Hogs of War is a turn-based tactics game where players take turns controlling individual members of their squad of hogs to engage in combat with the opposition, similar to Worms
+Each turn, a player takes control of a single squad member in a third-person perspective to move around the map, including jumping over terrain and swimming over bodies of water, yet can only engage in combat when stationary
+Each turn has a set time limit and ends if the timer counts down to zero, the player skips their turn, a weapon or ability is used or if they have accidentally injured themselves such as walking into a mine field or falling from a high surface
+Other hazards include bodies of water that, while they can be swam in, is damaging to nearly all types of soldiers and drains health as they swim
+If a teammate is knocked into water by an opponent, they will automatically swim to the nearby shore line
+While difficult, it is also possible to knock hogs off the map resulting in instant death
+If all health is gone and the player is on land, they will fall over with a last comical remark before exploding.

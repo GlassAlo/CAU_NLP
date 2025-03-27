@@ -1,0 +1,4 @@
+Impulse: Space Combat is a first person, realistic, action game
+In Impulse, physics play a major role in determining which team will be left standing
+All movement and interaction is controlled using physics
+When your ship is hit with a projectile you will feel the impact!

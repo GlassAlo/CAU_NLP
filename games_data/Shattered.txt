@@ -1,0 +1,4 @@
+Shattered is a first-person game made by developer Devin Eastmond
+Inspired by Mark Hadley's Slender: The Eight Pages, it explores genres of horror, fantasy, action, and survival
+It follows the experiences of a brave villager who attempts to save his homeland from the threat of nocturnal zombies
+When confronted by this menace, will you have courage and continue with the mission, or will you abandon all hope in an attempt to save your own life?

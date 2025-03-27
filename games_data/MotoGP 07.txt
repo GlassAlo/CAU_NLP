@@ -1,0 +1,7 @@
+MotoGP '07 features complete rider and team data, new 800cc MotoGP bikes and all 18 circuit of the 2007 MotoGP season
+The title also features interactive track-side crowds, on-line tournament features, on-line "pink slip" racing, and a revamped Extreme mode
+The revamped Extreme mode allows for over one million possible bike customizations.
+
+In addition, minor gameplay changes have been made to the handling and braking to allow for easier player accessibility
+Changes to acceleration and deceleration have been made to add to the realism which will make turns easier to navigate through
+Slight fishtailing with hard braking has been put in to give a better feel for the handling of the bike and to let the player know how effective their braking is.

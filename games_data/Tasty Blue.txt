@@ -1,0 +1,18 @@
+Tasty Blue is an underwater side-scrolling eat 'em up game
+You start as a small goldfish with an insatiable appetite
+After being overfed by your owner, you'll escape into the ocean and eat everything that you encounter
+The more you eat, the bigger you get!
+In addition to the goldfish, you'll also play as a dolphin and a shark
+The dolphin starts off as an overworked aquarium star, forced to jump through flaming hoops for food
+He escapes from captivity by eating his way through the aquarium and taking revenge on his trainer
+The shark is the final playable character, an artificial fish created by scientists to save Earth's oceans
+It uses self-replicating nano technology to consume everything in its path and convert their matter into its own
+There's no telling how big this shark will get.
+There are over 50 levels in the main story mode of the game
+There are also 15 more challenging bonus levels to play after the main game has been completed.
+There are three main environments to explore in the game: temperate, tropical, and arctic.
+There are a wide range of difficulty levels to choose from
+On the easiest difficulty enemies do virtually no damage
+On the most challenging difficulty enemies will eat you and cause instant level failure.
+Two players can play side by side on the same computer
+Options allow for split screen (horizontal or vertical) or shared screen (this provides more screen space but constrains the movement of players together).

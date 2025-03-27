@@ -1,0 +1,8 @@
+Sequel to Wages of War, Soldiers at War is a squad-based tactical game
+Lead a squad of American soldiers in WW2, performing covert operations against the Nazis.
+
+Soldiers at War is turn-based, squad-level combat with all the heroism and action of a good world war 2 movie! Lead a squad of 8 men through hair rising campaign of 18 linked scenarios
+Experience D-day and the assault on Monte Cassino
+Execute commando raids and fight fierce house-to-house battles in blasted cities like Anzio and Cherbourg
+An extremely flexible mission editor and 10 extra standalone missions make the action virtually endless
+4 player multiplay via network or the internet lets you fight it out with real opponents!

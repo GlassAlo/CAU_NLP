@@ -1,0 +1,9 @@
+- Collects stars and unlock powerful planes.
+
+- Control the plane with joystick and left/right buttons.
+
+- Use Fire Button to Throw Flares.
+
+- Shield and Speed boost power-ups.
+
+-Compete with other players on Google Play Leaderboard

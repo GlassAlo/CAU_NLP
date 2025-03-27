@@ -1,0 +1,3 @@
+HIVE is a multiplayer hero shooter in 2.5D side scroll with futuristic style and frenetic gameplay
+Up to 10 players will have to fight in hexagon-shaped combat areas, divided into 6 zones, each one with Its own gravity direction.
+Heroes in HIVE are Hexadiers, and they have several abilities and weapons equipables so that it adapts to the game style of each player.

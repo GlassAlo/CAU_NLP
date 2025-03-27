@@ -1,0 +1,2 @@
+A 3D platformer for the Wii, developed over a period of about 10 years, during which many different companies contributed to some extent
+The central mechanic is the ability to switch between three characters with different abilities.

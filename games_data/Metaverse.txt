@@ -1,0 +1,3 @@
+In Metaverse you will dig, discover, design, deploy, and defend
+Explore, build upon, or tear apart your own procedurally generated voxel planet
+And now in the early stages of our multiplayer implementation, help conquer or build the planets of others.

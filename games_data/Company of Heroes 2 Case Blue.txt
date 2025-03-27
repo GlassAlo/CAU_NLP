@@ -1,0 +1,8 @@
+Case Blue is DLC for Company of Heroes 2
+It contains:
+
+- AI Battle: Don River
+- AI Battle: Kharkov
+- Co-Op Scenario: Voronezh
+- Solo Challenge: Destroy a Convoy
+- Solo Challenge: Tiger Ace

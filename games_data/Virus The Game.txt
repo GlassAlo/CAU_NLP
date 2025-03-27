@@ -1,0 +1,2 @@
+Virus: The Game is a game in which the player battles within the computer's directory structure and files
+Traverse the directory tree in a 3D environment hunting down 'viruses', with the computer's own sound files being played in the background, while graphic files found on the hard drive are used to texture the walls.

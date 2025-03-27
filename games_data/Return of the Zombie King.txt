@@ -1,0 +1,4 @@
+Return of the Zombie King is a 2D-RUNNER, with a 1-BUTTON control system
+Start with a dead king who can't jump, see, or hear anything
+COLLECT as much gold as you can and UPGRADE him by buying back all his body parts
+Then buy magic upgrades such as double jump and protection spells.

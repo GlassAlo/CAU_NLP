@@ -1,0 +1,2 @@
+Element is a realtime strategy space game for people who don't have time to play realtime strategy space games
+Generate energy, mine element, build attack and defence units, and destroy the enemy while maintaining a balance between earth, air and water.

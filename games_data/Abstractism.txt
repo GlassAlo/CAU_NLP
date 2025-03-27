@@ -1,0 +1,10 @@
+Abstractism - is an absolutely trivial platformer, but with the one really special feature - there is no the "Game Over"! But instead, there is an ASMR soundtrack, a stylish minimalistic design and a relaxing atmosphere inside!
+
+Abstractism was delisted on Steam on July 30th, 2018 after players like YouTuber SidAlpha began investigating the game’s high CPU and GPU usage
+Investigators discovered the game was running cryptocurrency mining software and the developers encouraged players to leave the game running in the background to accrue in-game items.
+
+At the same time, the developers were engaging in the practice of releasing Steam Marketplace items that very closely mimicked sought after items from other popular titles
+By offering these items to unsuspecting players on Steam, they would sell the item and then alter the appearance and description.
+
+In response, Valve pulled the game from the Steam store on July 30th and banned the developer from the service
+At the time they also instituted a system of confirmation messages that players needed to click in order to confirm item trade offers for games that Steam has identified they have never played.

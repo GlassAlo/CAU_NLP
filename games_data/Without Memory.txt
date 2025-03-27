@@ -1,0 +1,4 @@
+The main concept of the game is based on the idea of the existence of three parallel worlds
+Player actions in one universe affect events in the other two
+The main key feature of the game will be a non-linear narrative that supposes multiple endings
+This variety will be reached due to three playable characters, each of which could be killed or survive depending on the player decisions.

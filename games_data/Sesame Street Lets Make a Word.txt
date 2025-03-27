@@ -1,0 +1,1 @@
+A Sesame Street spelling game for computers.

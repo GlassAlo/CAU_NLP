@@ -1,0 +1,1 @@
+A Dreamcast program for creating Sakura Wars themed emails that could be sent to anyone who also owns a copy of the game.

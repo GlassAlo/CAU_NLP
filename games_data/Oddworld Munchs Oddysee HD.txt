@@ -1,0 +1,2 @@
+Oddworld: Munch's Oddysee HD is a remaster of Oddworld: Munch's Oddysee
+It includes upgrades to the environment and entity models, an improved sound design, and controls that more closely resemble the PS1 games controls.

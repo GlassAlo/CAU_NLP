@@ -1,0 +1,4 @@
+The Moon Sliver is a short narrative-focused non-linear exploration game, with elements of horror
+It features a unique narrative mechanic that blurs the line between story and exploration, where interacting with objects and even simply moving around will reveal fragments of narration
+As you piece these fragments together, a story of guilt, loneliness, and faith begins to take shape
+And it becomes increasingly obvious that something is hunting you...

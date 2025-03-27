@@ -1,0 +1,5 @@
+Star-Pit Starship is an addictive arcade score-chaser
+Build your ship and blast some baddies
+The longer you last in the pit, the more money you'll earn and the better you can build your next ship.
+
+Build-Battle-Repeat!

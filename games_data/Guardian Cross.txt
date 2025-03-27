@@ -1,0 +1,1 @@
+A fantasy card battle game for iOS and Android.

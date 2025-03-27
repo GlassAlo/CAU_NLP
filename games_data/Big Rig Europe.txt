@@ -1,0 +1,1 @@
+A truck driving game that allows the player to drive European trucks in European locations.

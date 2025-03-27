@@ -1,0 +1,1 @@
+Have you ever wondered how game AI works? Why some enemies are so smart and some are stupid? Do you want to create your own unique AI? That's what we are going to show you in this game.

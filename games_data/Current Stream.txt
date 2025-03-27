@@ -1,0 +1,1 @@
+Current Stream is a connection puzzle game, where you need to connect all the bulbs to a energy source.

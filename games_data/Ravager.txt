@@ -1,0 +1,2 @@
+Ravager is a 2D Open World Platformer with 12 unique characters to ravage your way across the land
+Each character has different upgrade abilities to fight against the army of Crows and Trolls, who are trying to unleash the Nidhoggr into the world.

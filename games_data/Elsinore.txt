@@ -1,0 +1,3 @@
+Elsinore is a time-looping adventure game set in the world of Shakespeare's Hamlet
+Elsinore combines strong social simulation elements, a dynamic story that reacts immediately to player decisions, and a world full of diverse characters with secrets to uncover
+Can Ophelia prevent the tragedy that lies before her?

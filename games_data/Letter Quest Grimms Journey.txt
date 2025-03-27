@@ -1,0 +1,2 @@
+Letter Quest is a turn-based RPG where players attack monsters by spelling words
+But be careful since the monsters know how to fight back - they can create different letter tiles such as poison, plague, stone, whirlwind, duplicator, spike and flipped, steal your health, heal themselves, use critical attacks, and much, much more!

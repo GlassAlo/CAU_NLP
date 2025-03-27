@@ -1,0 +1,18 @@
+Video Whizball is a game where players control paddles that have to protect a goal from being entered by whizballs
+To protect their goal, the player's paddle can fire missiles which can be aimed straight or angled up or downward
+Missiles that hit whizballs can help propel them to start going in an opposite direction
+If one of the missiles or whizballs hits the player's or the opponent's paddle, it will temporarily disappear leaving the respective goal undefended
+The game is won when either one of the players gets to a previously selected score.
+
+The game contains 72 game variations of this basic premise
+Variations include having from 1 to 4 whizballs, and 6 different game types:
+Basic: each whizball is worth only 1 point;
+Basic Plus: players can guide the missile shots into the whizballs;
+Bonus: whizballs can be numbered 1 through 4 and are worth that many points each;
+Bonus Plus: adds guided missiles to the Bonus game type;
+Super Bonus: whizballs increase in value from 1 to 9 points the longer they stay in play;
+Super Bonus Plus: adds guided missile shots to the Super Bonus game type.
+
+This preprogrammed cartridge plugs into the console of the Fairchild Video Entertainment System for more TV fun on the Channel F Network
+Imagine shooting pool with both players going for the balls at the same time
+That's just a hint of the slam-bang action you'll find as you try to knock the whizballs into your opponent's goal.

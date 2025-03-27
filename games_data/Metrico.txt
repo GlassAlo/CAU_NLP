@@ -1,0 +1,4 @@
+Metrico+ is an input-driven game in a world of infographics
+All the bar charts, line diagrams and pie charts react to what the player is doing
+The player has to rethink all he knows in order to solve all the puzzles and explore every part of the world that is Metrico
+Metrico+ features 6 unique worlds to explore with distinct challenges, mechanics, looks and sounds.

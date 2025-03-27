@@ -1,0 +1,1 @@
+An abridged iOS version of the 3DS game Rhythm Thief & the Emperor's Treasure, adding new minigames and a microtransaction system.

@@ -1,0 +1,4 @@
+FTL: Advanced Edition features:
+- New systems, playable ships, alien race, weapons, drones, and more!
+- A new sector with new events, written by Tom Jubert and special guest writer Chris Avellone!
+- New music by Ben Prunty!

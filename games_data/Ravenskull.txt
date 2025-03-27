@@ -1,0 +1,4 @@
+Ravenskull is a top-down action puzzle game where the player must collect treasure pieces from the Castle Ravenskull in order to defend their village.
+
+The game was originally conceived after the authors created a new routine for hardware scrolling; when the player uses a speed scroll, the routine can be seen at full speed
+Due to lower hardware specifications, the Acorn Electron version used a much smaller playing window and the speed scrolls were omitted.

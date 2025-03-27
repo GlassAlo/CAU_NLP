@@ -1,0 +1,1 @@
+Microsoft Minesweeper (formerly just Minesweeper, and also known as Flower Field) is a minesweeper-type video game created by Curt Johnson, originally for IBM's OS/2, that was ported to Microsoft Windows by Robert Donner, both Microsoft employees at the time.

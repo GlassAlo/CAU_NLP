@@ -1,0 +1,1 @@
+A single screen action game written by William Demas and published by Adventure Internationals for the TRS-80.

@@ -1,0 +1,1 @@
+A game written by Steph Cherrywell for the 21st Annual Interactive Fiction Competition.

@@ -1,0 +1,7 @@
+Dolguth is a 2D oldschool brawler for up-to 6 local players
+ 
+Choose your mech to fight in one of the Dolguth arenas and destroy the other warriors
+ 
+Each mech is powered with a melee weapon and a 6-bullets cannon
+ 
+Each pilot has an EMP gun and a grapple to reach impervious zones.

@@ -1,0 +1,2 @@
+True Pinball is a pinball simulation that offers four tables rendered in either 2D or 3D views
+Features include different music relating to the theme of each table, authentic sound effects and speech, plus up to six balls in play at once.

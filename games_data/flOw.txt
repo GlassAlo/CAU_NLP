@@ -1,0 +1,6 @@
+flOw is a game about piloting an aquatic organism through a surreal biosphere where players consume other organisms, evolve, and dive into the abyss
+With an embedded design of DDA (dynamic difficulty adjustment), players with differing skill levels can intuitively customize their game experience and enjoy the game at their own pace.
+
+You can play as one of 5 creatures, each in a unique environment
+Lose yourself in the crisp “deep blue” in full HD at 1080p and 5.1 Surround Sound
+Use the SIXAXIS motion sensors on the DUALSHOCK wireless controllers for an organic experience that will allow you to glide, flit, and flOw through the universe.

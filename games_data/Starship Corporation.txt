@@ -1,0 +1,4 @@
+STARSHIP CORPORATION is a starship-building simulation game in which you must design and build spaceships for a hugely demanding galaxy-wide market
+It is you who must decide which technologies to invest in first, where to open new offices and where to establish new markets
+You must design every little detail about the interior layout of your creations, from the location of the bridge, engines, generators and crew quarters to the position of each elevator, corridor and power line
+You must then gain an intergalactic reputation by testing your ships and their crew's capabilities in a series of real-time strategy missions, to simulate emergency or combat situations, and test your vessels to their limit - and let the competition know just what they are up against.

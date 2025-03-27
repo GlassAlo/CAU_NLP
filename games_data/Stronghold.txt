@@ -1,0 +1,3 @@
+Stronghold is a historic real-time strategy game developed by Firefly Studios
+While the game focuses primarily on conquest and expansion through military pursuits, Stronghold does provide space for economic strategy and development: there is both an economic and a military campaign to be played and both are discussed in the game manual
+The game takes place in Medieval Britain around the time of AD 1066, though, since there is sometimes no time limit, scenarios can continue to hundreds of years beyond this date.

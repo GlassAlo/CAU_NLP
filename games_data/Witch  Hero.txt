@@ -1,0 +1,7 @@
+Witch & Hero is an 8-bit style action game
+You play as a hero accompanied by a witch taking on the evil Medusa, whom has destroyed many villages and towns with the monsters that stand before her.
+
+Medusa turned the witch into stone, so she is no longer able to move
+So it's up to the hero to defeat the monsters and collect their blood in order to recover the witch for a limited duration
+The witch's destructive magic easily destroys monsters, but you will have to rely on the hero's will power primarily
+He is able to try and try again, but the witch cannot, thus the hero must protect her.

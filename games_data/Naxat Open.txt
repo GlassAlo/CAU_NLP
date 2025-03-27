@@ -1,0 +1,5 @@
+Naxat Open is a golf simulator from Naxat Soft
+Naxat Soft hired contract developers TOSE to develop the game
+Released the same week as Power Golf, Naxat Open aimed for the more serious simulation crowd whereas Power Golf appealed more to those looking for a more casual golfing video game experience.
+
+Besides a harsher level of challenge - the acceptable window of error is greatly diminished - Naxat Open plays much like other golf sims for console games: the gameplay chiefly focuses on hitting a power gauge just right to maximize the effect of each swing.

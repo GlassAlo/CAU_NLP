@@ -1,0 +1,4 @@
+PetWings is an arcade style shooting game with cute cartoon-style graphics
+It has 53 game levels, 5 huge bosses and 6 levels of fire power-ups
+The controls are super-easy
+PetWings is suitable for all ages.

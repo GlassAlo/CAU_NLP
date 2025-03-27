@@ -1,0 +1,3 @@
+ZP2KX: Zombies and Pterodactyls 20XX is a multiplayer-focused shooter and the sequel to ZP2K9
+The background scenario is that pterodactyls arrange deadly matches between humans and zombies
+Features a standard deathmatch, team deathmatch, King of the Hill and Capture the Flag modes, as well as a special Zombie Hunt.

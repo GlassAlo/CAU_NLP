@@ -1,0 +1,2 @@
+Herzog is a real-time tactics and tactical shooter game with real-time strategy elements
+The game served as the prototype for its sequel Herzog Zwei and is often considered the first true real-time strategy game.

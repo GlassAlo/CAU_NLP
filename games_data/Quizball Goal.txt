@@ -1,0 +1,5 @@
+Quizball: Goal! is a quiz arcade football game
+You control a team of football players during a match where success hangs on both your gaming skills and your football knowledge.
+Every time you want your football players to do something in the game, like passing the ball, shooting to score, slide tackling an opponent, and so on, you need to answer a quiz question correctly
+If you do, he is successful
+If not, the opponent gets a chance to take control of the ball.

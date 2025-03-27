@@ -1,0 +1,1 @@
+A game written by Felicity Banks for the Annual Interactive Fiction Competition.

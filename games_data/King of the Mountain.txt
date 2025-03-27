@@ -1,0 +1,9 @@
+Head up the mountain, avoiding bears, boulders and inclement weather
+But first, stock up on supplies -- you won't get far without food and shelter
+But don't overpack -- the extra weight will slow you down
+
+ 
+Reach the top of the mountain by managing the quantity of Fire, Food, Water, Ammunition, Shelter, Raft you carry
+Watch for weather conditions and do not exhaust the $300 you are given when purchasing your goods
+As you climb the mountain, your health is shown by the color of your climber
+Red is full health, Blue is Medium health and Yellow is low health.

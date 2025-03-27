@@ -1,0 +1,1 @@
+Skyland's Star is a text adventure game in the spirit of the classic Zork series.

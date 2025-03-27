@@ -1,0 +1,2 @@
+Just Get Through is a randomly generated platformer with roguelike elements
+Featuring a destructible environment, sandbox mode, user-created levels, various gamemodes, hardcore mode, color palettes, deadly traps, explosions and more.

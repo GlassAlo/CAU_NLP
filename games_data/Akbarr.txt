@@ -1,0 +1,2 @@
+An early role-playing shooter released by Arsys Software for the PC-88, PC-98 and FM-7 computers in 1986 and ported to MS-DOS by Brøderbund
+An early RPG-shooter hybrid, it was one of the first computer games with polygonal 3D environments, along with full 360-degree third-person exploration for indoor environments.

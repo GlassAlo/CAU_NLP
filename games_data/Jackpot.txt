@@ -1,0 +1,2 @@
+A fruit slot machine game
+You can type in how much money you want to start with.

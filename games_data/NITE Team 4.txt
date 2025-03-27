@@ -1,0 +1,4 @@
+NITE Team 4 is a hacking simulation and strategy game with Alternate Reality Game elements connected to The Black Watchmen universe
+You play as a new recruit in the sophisticated hacking cell, Network Intelligence & Technical Evaluation (NITE) Team 4
+Engaged in cyberwarfare with black hat groups and hostile states, you will be in a struggle to penetrate highly secure targets
+Your job is to use the STINGER hacking platform to infiltrate hardened computer networks and coordinate strike teams on the ground to carry out missions that feature real espionage tradecraft terminology taken from leaked NSA documents.

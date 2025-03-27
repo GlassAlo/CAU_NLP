@@ -1,0 +1,3 @@
+Puma Street Soccer is a PC street soccer game
+The goal of the game: two teams of 4 players compete on mini-fields delimited by barriers
+These barriers are an integral part of the game and can be used in particular to make a "one-two" or to dribble an opponent.

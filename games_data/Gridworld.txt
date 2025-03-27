@@ -1,0 +1,2 @@
+Gridworld is an artificial life / evolution simulator in which abstract virtual creatures compete for food and struggle for survival
+Conditions in this two-dimensional ecosystem are right for evolution to occur through natural selection.

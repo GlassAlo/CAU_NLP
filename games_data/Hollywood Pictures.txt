@@ -1,0 +1,1 @@
+Hollywood Pictures is an economic simulation in which you as a manager of a small cinema, tries to earn the necessary start-up capital to get into the film business yourself.

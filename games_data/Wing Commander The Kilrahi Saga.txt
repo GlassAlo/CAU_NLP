@@ -1,0 +1,14 @@
+The Kilrathi Saga was a grand compilation of the initial Wing Commander trilogy and its four expansion packs
+Dropaway cockpits, remastered audio and improved joystick options were among the list of improvements
+The biggest selling point was native speed-limited support for Windows
+Initial sales were low because many fans still readily had computers running DOS to play older Wing Commander games
+The game received a second printing in 1998, but many fans were still hesitant to rebuy games they already owned
+By the turn of the century however, a huge shift from DOS to Windows had occurred and everyone was scrambling to get a copy
+Although the July 2000 edition of PC Gamer included the Kilrathi Saga version of Wing Commander I on its cover disc, auction prices on eBay soared to well over $300 for the full set
+Wing Commander fans struggled to find copies until 2005 and the improvement DOS emulation
+Although Kilrathi Saga has exciting extras, minor glitches and the solid performance of the original Wing Commander games in DOSBox has relieved the intense price pressure on the game
+
+ 
+  Noteworthy Documentation: Manual, Concept Art Calendar 
+  Play: The game can be played by enabling Windows 95 compatibility mode in Windows XP 
+  Kilrathi Saga owners may download The Secret Missions and Special Operations

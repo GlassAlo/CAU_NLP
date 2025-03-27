@@ -1,0 +1,10 @@
+The sixth in the row on Farland Story games, "Kamigami no Isen" is set in a different world than the rest: a retro-style, Western-like environment with elements of sci-fi
+You control a thief named Grey, who one day gets caught "in flagrante", and is saved by a girl named Elicia
+It seems that Elicia and her sister have to escape the house, persecuted by enemies
+Grey decides to help the sister, and gets involved in a conspiracy he would never dream about.
+
+Despite having a totally different story and setting, this Farland Story game still looks and plays more or less exactly the same as its predecessors
+You have a party which you navigate on the screen in turn-based mode, assigning commands to it (such as "Move", "Heal", etc.) Some characters have special commands (like "Sneak" for Grey)
+Whenever you and the enemy attack each other, a short animated attack sequence is shown
+You can use various types of terrain to your advantage (different for each character type)
+As in previous Farland Story games, you gain experience points directly after performing any action in a battle.

@@ -1,0 +1,4 @@
+Can you make it as a painter? Put your skills to the test and let your creativity flow inside this paint booth simulator
+Featuring realistic spray gun behavior that simulates a real world spraying pattern
+Choose from multiple vehicles, including a plane
+You can choose from either a paint gun, airbrush, or aerosol spray type, with the simplified controls you only require one controller.

@@ -1,0 +1,12 @@
+It takes more than a standard semi-trailer to deliver these loads! When a cargo gets heavy, it's time for more axles to satisfy the DOT and make it safely across that bridge! Introducing complex multi-joint trailers with jeeps and boosters spreading the weight of the cargo.
+
+New cargoes:
+- Crawler Tractor (55,500 lb / 25 t)
+- Bulldozer (89,000 lb / 40 t)
+- Lift Truck Chassis (94,500 lb / 42 t)
+- Lift Truck (118,500 lb / 53 t)
+- Cable Reel (66,000 lb / 29 t)
+- Milling Machine (97,000 lb / 43 t)
+- All Terrain Crane (77,500 lb / 35 t)
+- Scraper (90,000 lb / 40 t)
+- Transformer (123,000 lb / 55 t)

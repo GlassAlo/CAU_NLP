@@ -1,0 +1,3 @@
+Sullen is a fast-paced, challenging platformer set inside of a circle
+Your ultimate goal is to work through all of the levels and defeat the sullen eye that relentlessly attacks you
+You assume control of a small pentagon and must dodge, jump, and shoot your way to victory.

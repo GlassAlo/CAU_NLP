@@ -1,0 +1,3 @@
+Alone is a 3D Puzzle Sidescroller with heavy focus on environment puzzles
+You wake up alone in your camp and find your friends gone
+Set off into the seemingly nice forest to discover its secrets, but be careful not to lose yourself on the way.

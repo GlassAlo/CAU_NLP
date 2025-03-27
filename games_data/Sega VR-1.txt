@@ -1,0 +1,2 @@
+A motion simulator arcade attraction released for SegaWorld arcades in 1994
+Using Sega VR headsets, it was the first released video game to utilize head-tracking VR technology.

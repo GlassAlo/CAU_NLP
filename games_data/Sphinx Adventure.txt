@@ -1,0 +1,1 @@
+Text adventure in which you gather treasure in order to bring it to the Sphinx.

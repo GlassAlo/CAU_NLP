@@ -1,0 +1,10 @@
+Rendering Ranger R2 is an action game developed by Rainbow Arts and published by Virgin Interactive in 1995 for the Super Famicom in Japan only
+The game was slated to be released in western territories under the name Targa, but this version ended cancelled due to Rainbow Arts being unable to secure a publisher at the time
+The game was created by Manfred Trenz, utilizing pre-rendered graphics.
+
+Players control the titular Rendering Ranger, a special forces soldier tasked with defending the Earth and its remaining inhabitants from a devastating alien invasion
+A high score screen is present and there are many different types of laser guns to acquire throughout the post-apocalyptic adventure
+The player can choose from three to seven lives
+However, there are no continues so practice is essential to winning the game
+The player can take five hits before losing a life but pits automatically make him lose a life
+Weapons are found in floating orbs, and each color holds a different kind of gun.

@@ -1,0 +1,2 @@
+The Legend of Bum-bo is a randomly generated turn based puzzle RPG
+It's a spin-off of Binding of Isaac: Rebirth.

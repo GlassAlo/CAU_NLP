@@ -1,0 +1,2 @@
+A baseball RPG/sim in which baseball games are played via cards in a turn-based system
+It was released by Pack-In-Video in Japan exclusively.

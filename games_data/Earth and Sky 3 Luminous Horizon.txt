@@ -1,0 +1,3 @@
+A piece of Interactive Fiction written by Paul O'Brian
+The third game in the Earth and Sky trilogy
+Winner of the 10th Annual Interactive Fiction Competition (2004).

@@ -1,0 +1,5 @@
+Vertex Dispenser is an abstract real-time strategy game with mathematical puzzle elements
+Move around a geometric surface and lay claim to your territory
+Protect it by capturing solid faces for defense
+Manipulate the colours of your vertices to gain power for special abilities
+Balance your time between attacking, defending, expanding and colouring to survive and defeat your enemies.

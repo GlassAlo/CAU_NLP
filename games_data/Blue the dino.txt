@@ -1,0 +1,2 @@
+A platformer game where you play as Blue the dino
+Jump through walls and defeat enemies in this cool platformer!

@@ -1,0 +1,6 @@
+Dongo Adventure is a 3D platform style game, where the main character (Dongo) a mouse who ventures in (sewer, house, factory, lake, etc) and faces several enemies along the way (cockroaches, mosquitoes, frogs, spiders, toxic gases, electric wires, etc)
+He carries a backpack with cheeses that he uses to throw and defend himself from enemies, as well as being able to push objects that helps him to overcome obstacles and solve puzzles
+The ultimate goal will be a surprise!
+
+The game follows the style of classic platform games (Inspired mainly by Donkey Kong Country 2) in 3D version, bringing many fun, surprises and challenges
+Being agile and being attentive to the whole scenario is critical to success in the game!

@@ -1,0 +1,1 @@
+A football simulation game where players can realistically simulate the full NFL season or play the games individually online or locally.

@@ -1,0 +1,6 @@
+This is a trading and city building strategy game
+
+You control a trader who develop a village.You earn money by trading the produced products myself or others to other villages
+
+For example crap,cloth,wood,milk,book,sword,shield,shell,gem 
+Let's develop the economy with your hands.

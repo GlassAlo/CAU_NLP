@@ -1,0 +1,4 @@
+The Cassandra Galleries is a puzzle-based adventure game, rather like the 7th Guest
+You’ve been invited to explore a mysterious museum
+Cassandra, the owner of the museum, has disappeared with his daughter
+You must find out what's happened to them.

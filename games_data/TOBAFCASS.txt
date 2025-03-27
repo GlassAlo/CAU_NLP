@@ -1,0 +1,6 @@
+TOBAFCASS (Thief of Bagdad - A Flying Carpet Arabian Side Shooter) is a side shooter with unique visual style and characteristic electronic music
+For both the story and visual style I took inspiration from "The thief of Bagdad" a 1924 classic silent adventure movie with Douglas Fairbanks
+Game mechanics are of classic ultra-hard side shooter
+In particular I was inspired by "Agony" a beautiful yet unforgiving Amiga game from the 90s.
+
+Finally most of the enemies come from "Kunstformen der natur" a book by Ernst Hackel full of litoghraphic illustrations of bizzare creatures perfectly organized with Prussian precision and devotion to symmetry.

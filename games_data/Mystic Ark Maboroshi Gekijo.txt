@@ -1,0 +1,4 @@
+Sequel to Mystic Ark from the SNES
+This is a pure adventure game, shedding all the JRPG elements the series had up to that point, eliminating all random encounters, making combat an afterthought, and uses the Arks in two iterations for solving puzzles: their Fairy Form and fully awakened Ark Form
+They can utilize their powers through cards which can be found or won through games which you'll need to activate different powers from elemental abilities to manipulating a character's thoughts, changing their mind by making them braver or changing their perspective, etc
+Subtle differences aside, the rest of the gameplay is fairly standard and includes using items and interacting with objects to progress.

@@ -1,0 +1,3 @@
+Pretty simple game combination between 2048 and match-3 settings with awesome monster cakes
+Put your monster cake in the good hole and combine them together to get higher monster cake
+Combine them as high as you can and be on the top of the leaderboard!

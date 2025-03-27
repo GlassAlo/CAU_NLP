@@ -1,0 +1,1 @@
+A turn-based startegy wargame for 2 to 4 players that was published by Adventure International for TRS-80.

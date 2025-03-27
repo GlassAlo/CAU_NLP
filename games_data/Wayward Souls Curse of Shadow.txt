@@ -1,0 +1,6 @@
+Wayward Souls is an action-adventure game built for quick playthroughs and massive amounts of replay value
+It was inspired by Spelunky, Secret of Mana, and our previous game, Mage Gauntlet.
+
+Procedurally generated random levels mean that every time you play the game, it's a different experience
+Control one of six characters, all with their own unique playstyles, abilities, and equipment
+Explore and fight for survival, in combat where your tactics, positioning, and timing matter.

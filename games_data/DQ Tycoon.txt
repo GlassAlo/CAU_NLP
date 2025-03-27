@@ -1,0 +1,2 @@
+This is a time management game in which players serve customers in a Dairy Queen store
+Players take customer orders for ice cream cones, sodas, and other treats, then must complete these orders in a timely and efficient manner.

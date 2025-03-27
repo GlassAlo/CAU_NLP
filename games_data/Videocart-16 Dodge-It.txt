@@ -1,0 +1,15 @@
+The gameplay featured on this cart is a take on the game of Dodgeball
+The player is trapped inside a playfield and has to dodge a ball that continuously keeps bouncing of the sides of the playfield
+The longer the player is able to dodge the ball, the more points are earned
+After a certain amount of points are earned, another ball enters the playfield thus making the player have to dodge two balls
+More balls keep getting added at fixed intervals after that until a total of 9 balls are in the playfield
+The game ends when the player is finally hit by the ball.
+
+In the 2 player game, both players are put into the same playfield and try to outlast the other player in trying not to get hit by the balls being thrown by the computer.
+
+The game features random variations in the gameplay, such as having different sized playfields, ball sizes and speeds, and changing the players' size and speed
+There's an Amateur and a Pro mode, both playable with either 1 or 2 players.
+
+This preprogrammed cartridge plugs into the console of the Fairchild Video Entertainment System for more TV fun
+It's like the old playground favorite dodge ball
+Only this time the computer's throwing the balls, not your classmates.

@@ -1,0 +1,2 @@
+Rise of the Triad, a first-person shooter, is the successor of Wolfenstein 3D, with a somewhat improved 3D engine
+Everything is still composed from blocks, but multiple vertical levels have been added; there are stairs made of platforms floating in air, and jump pads which launch you (and the enemies) high up so that you can walk over tall barriers in your way.
