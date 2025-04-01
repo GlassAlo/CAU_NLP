@@ -1,0 +1,2 @@
+A beer pong game available on Xbox Live
+It costs 80 MSP.

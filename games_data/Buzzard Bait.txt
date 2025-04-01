@@ -1,0 +1,2 @@
+A variant of the arcade game Joust developed by The Rugby Circle Inc
+and published for the Dragon 32/64 and Tandy TRS-80 systems.

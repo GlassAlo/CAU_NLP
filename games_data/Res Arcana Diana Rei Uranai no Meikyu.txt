@@ -1,0 +1,1 @@
+A fortune-telling tool for superstitious Super Famicom owners.

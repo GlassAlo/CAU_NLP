@@ -1,0 +1,2 @@
+A 2D MMO similar to MapleStory that aims to offer more action focused combat
+The game was developed by SBSi and is currently published in North America by Ndoors

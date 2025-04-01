@@ -1,0 +1,28 @@
+(heart) Sudoku provides unlimited puzzles at 17 difficulty levels
+Novices and experienced players alike will enjoy our extensive feature set, tutorial, and advanced hint system
+The more you play, the more you will enjoy Sudoku!
+
+Our multi-stage hint system starts with a gentle reminder to get you back on track, and works up to demonstrate the exact technique to use
+Our hints ease those frustrating moments and teach you how to be a better player.
+
+Features include:
+
+- Puzzle generator for unlimited play
+- 17 difficulty levels, something for everyone
+- Tutorial teaches you new techniques
+- Enter games from the newspaper
+- Solver helps you with games from the newspaper
+- Advanced techniques at the higher levels, including X-Wings, sashimi fish, and XY-Chains
+- Choice of six color schemes
+- Undo/redo
+- Automatic or manual pencil marks
+- Save your game while you try alternatives
+- Highlighting helps you discover patterns
+- Game clock; compares your time to other players
+- Avoids graphic frills that distract from play
+- Choice of digit styles, including Kanji and Hanzi
+
+All games are true Sudoku, with symmetry and a single solution that can be discovered by logic alone
+If you doubt that a puzzle can be solved by logic, simply have the hint system explain it to you step by step.
+
+If you enjoy Sudoku, this is the app for you!

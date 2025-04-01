@@ -1,0 +1,5 @@
+Densha de Go! Professional-shiyou 2 (loosely translated to "Go by Train! Professional Specification 2") is an electric train driving simulation game developed and published by Taito for the PlayStation 2 in Japan on October 25, 2002
+It was later ported to the PC by Unbalance on April 30, 2003.
+
+The sequel to the 1999 home console entry in the Densha De Go! series, Densha de Go! Professional-shiyou, Professional-shiyou 2 features a graphical upgrade and a new set of real-life train routes: the Shōnan-Shinjuku Line, the Tsurumi Line, the Kosei Line, the Seto-Ōhashi Line, and the Nagasaki Main Line to Sasebo Line
+One new feature added to the series is the ability to save and resume route progress, and to start progress from a designated station.

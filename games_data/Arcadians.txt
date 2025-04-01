@@ -1,0 +1,2 @@
+Arcadians is a shoot 'em up developed for the BBC Micro and Acorn Electron, released by Acornsoft in 1982
+It is a gameplay clone of Namco's Galaxian.

@@ -1,0 +1,3 @@
+Climbtime - jump and parkour climb up procedurally generated levels for best self or leaderboard time to the top
+Fly (Vive controllers only) and glide to destroy cores also for leaderboard times
+Hunt down small crystals within the level in crystal hunt mode or explore the real-world based terrain.

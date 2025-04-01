@@ -1,0 +1,3 @@
+Startup Company is a business simulation sandbox game
+You play as the CEO of a newly formed software company
+Your job is to either complete client contracts to make money, or build your very own products.

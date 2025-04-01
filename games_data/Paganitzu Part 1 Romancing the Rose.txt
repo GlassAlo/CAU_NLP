@@ -1,0 +1,7 @@
+Paganitzu is a tile-based, CGA/EGA computer game created by Keith Schuler and published by Apogee Software in October, 1991
+It is the sequel to Chagunitzu
+The game is a 2D puzzle game comparable to Chip's Challenge
+It requires the player to solve various puzzles to complete the game.
+
+Paganitzu was published in three parts
+Part 1: "Romancing the Rose", Part 2: "The Silver Dagger" and Part 3: "Jewel of the Yucatan".

@@ -1,0 +1,4 @@
+This sequel to Vietnam: Black Ops is a first person shooter geared towards casual gamers
+Running on the LithTech 2 engine, the game features twelve levels representing various combat arenas of the Vietnam War, including jungle and urban outdoor environments and an indoor level set in an ancient temple
+The game plot is straight out of Apocalypse Now - you're an American soldier sent into the jungles of Vietnam and Cambodia to find and kill a rogue American special forces operative
+Gameplay is standard FPS, with several difficulty settings from which to choose.

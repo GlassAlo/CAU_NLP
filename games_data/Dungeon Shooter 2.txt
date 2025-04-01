@@ -1,0 +1,4 @@
+Dungeon Shooter 2 combines a bullet hell shooter with random monster spawns, and random level generation to create a fun and challenging experience
+You are in a dungeon full of monsters, zombies, troopers, and turrets
+Your goal is to find the key to get out while killing and looting to survive
+No worries though ‘Murcia Mart has a convenient store location for all your weapon and ammo needs.

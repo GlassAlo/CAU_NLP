@@ -1,0 +1,2 @@
+Retro RPG game based on the story of a nun that works for her small community
+It's done with RPG Maker VX ACE within 3 years of work.

@@ -1,0 +1,13 @@
+Elminage: Gothic is a first-person dungeon-crawler modeled after the mechanics of classic titles in the genre, such as the early Wizardry games, with the THAC0 battle system
+Gothic is the fourth game in the Elminage series
+It is set in a world where Great gods clash with Dark gods for power through the faith of humans
+You form a party of up to six characters, with sixteen classes available such as Hunter, Thief, Summoner and Valkyrie, and take them out into dungeons to fight monsters and gather loot
+Most dungeons will have some quests you can do inside them
+There are 400 types monsters to fight and lots of skills/spells to learn
+Over 600 different types of items can be found
+The game has a punishing difficulty
+In some cases enemies can kill a character in one hit without being able to fight back
+As such a grind-heavy approach is encouraged.
+
+The PC conversion is identical to the original game, but has higher resolution art and an improved user interface
+The original PSP game was also only available in Japanese.

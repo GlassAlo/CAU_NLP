@@ -1,0 +1,4 @@
+Black Hat Cooperative is a two player coop stealth game
+One player is in VR, sneaking past enemies and collecting treasure
+The other player is on the computer and keyboard, with access to a full view of the map and hacking superpowers
+Work together to survive and complete the levels! Local multi-player supported.

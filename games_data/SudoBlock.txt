@@ -1,0 +1,2 @@
+SudoBlock is a new way to play Sudoku - Solve puzzles by placing blocks in the right position
+There are 3 puzzle sizes (4x4, 6x6, 9x9), and 5 difficulty levels.

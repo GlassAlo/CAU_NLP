@@ -1,0 +1,5 @@
+Caves of Qud is a science fantasy roguelike epic steeped in retro-futurism, deep simulation, and swathes of sentient plants
+The game weaves a handwritten narrative through rich physical, social, and historical simulations
+The result is a hybrid handcrafted & procedurally-generated world where you can do just about anything
+Assemble your character from over 70 mutations and defects, and 24 castes and kits - it’s all the character diversity you could want
+Explore procedurally-generated regions with some familiar locations - each world is nearly 1 million maps large.

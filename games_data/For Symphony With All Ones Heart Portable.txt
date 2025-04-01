@@ -1,0 +1,2 @@
+A port of For Symphony: With All One's Heart for the PlayStation Portable
+The port adds a music player mode, galleries displaying sprites, CGs, 4-komas and production images.

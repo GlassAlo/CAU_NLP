@@ -1,0 +1,2 @@
+The famous management and cyclist simulation game will be completely revised for the 2010 release
+For the first time since the game went 3D, an entirely new simulation and graphics engine has been coded from the ground up.

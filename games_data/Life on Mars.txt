@@ -1,0 +1,1 @@
+A game written by Hugo Labrande for the 21st Annual Interactive Fiction Competition.

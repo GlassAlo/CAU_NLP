@@ -1,0 +1,1 @@
+Simulator of opening the lock, where you are tasked to find the right combination that will help to open the lock as quickly as possible.

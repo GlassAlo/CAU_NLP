@@ -1,0 +1,1 @@
+Vox is a voxel based, action, adventure and creation game with a big focus on player created content and in-game customization on all game objects, such as characters, items, weapons, equipment, monsters, NPCs, world terrain, scenery, quests, etc.

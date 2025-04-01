@@ -1,0 +1,2 @@
+Desert Ashes is a turn based strategy game with online multiplayer and single player campaigns, it also boasts an innovative menu system allowing you to play multiple games at once
+The Day-Night system adds a dynamic twist to turn based battles that affect the battlefield.

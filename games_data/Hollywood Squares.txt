@@ -1,0 +1,8 @@
+Hollywood Squares is a quiz game based on the television game show Hollywood Squares
+Versions were released for the Nintendo Entertainment System, MS-DOS, Commodore 64, and Apple II
+The game is based on the 1986-1989 version hosted by John Davidson
+The photo of the set is from the 1985 series pilot (the actual show had no gold stars on the studio floor and more elaborate risers for the cars).
+
+Players have to either agree or disagree with fictitious celebrities to earn squares and make tic-tac-toe
+Much like the TV series, winning one of the first two games is worth $500, the third game is worth $1,000 and the second game is always the "Secret Square" game
+The winner then goes on to the bonus round, where they have to choose one of five keys and insert it into the proper car among the five offered.

@@ -1,0 +1,4 @@
+Star Wars Racer Arcade is a podracing arcade game produced by Sega and released in 2000.
+
+There are four tracks in the game, each with their own level of difficulty: Bantha Tracks (Easy), Smuggler's Cove (Normal), Pixelito Challenge (Hard) and Boonta Eve Classic (Expert)
+The player can assume the role of either Anakin Skywalker, Ben Quadinaros, Gasgano or Sebulba.

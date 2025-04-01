@@ -1,0 +1,3 @@
+Planet Stronghold is a sci-fi role-playing game with a turn-based combat system.
+
+You take the role of a young, new recruit that somehow gets assigned to the most well-known, and well-defended, human outpost in the whole galaxy: Planet Stronghold.

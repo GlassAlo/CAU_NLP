@@ -1,0 +1,4 @@
+Comicado is an easy and lightweight graphic application for creating comics and other illustration works
+It combines many standard elements of digital illustration (layers, editable brushes...) with some new concepts like panels based artwork composition, which allows creation of editable comic layouts
+Comicado provides tools and artwork elements for various phases of comic creation, from sketching to inking and coloring
+Its flexible brush engine is well suited for drawing and painting.

@@ -1,0 +1,10 @@
+The game simulates the normal rules of beach volleyball two against two, with adjustable set number and the optional option to assign point even on ball change
+You can face a single match or the Sea Cup, a series of rounds in five world camps (Rimini, Fiji, Seychelles, Ibiza, Miami).
+
+Each player always controls the same volleyball player during a match; each of the four volleyball players can be controlled by a human player or by the computer, and in the case of two human players these can cooperate in the same team or be opponents
+In the Amiga version, as in the previous World Cup 90 of the same manufacturers, it is also supported the hardware accessory that allows you to connect up to 4 joysticks, allowing three or four human players to participate simultaneously.
+
+In beating you can choose whether or not to use the jump; the other reception, dribble and dunk moves are automatically chosen based on the situation and the player only needs to position himself and press the fire button
+In defense you can make the wall
+Trajectory and force of the shots are influenced by the precision in the synchrony of the shot
+The shadow perpendicular to the ground helps to understand the position of the ball

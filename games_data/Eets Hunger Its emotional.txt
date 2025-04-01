@@ -1,0 +1,1 @@
+Eets is a 2D puzzle game with similarities to Lemmings where players must guide a character through an on-screen puzzle.

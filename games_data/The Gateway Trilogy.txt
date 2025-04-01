@@ -1,0 +1,2 @@
+Guide a character through a series of rooms
+Solve puzzles to advance.

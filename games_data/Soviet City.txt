@@ -1,0 +1,10 @@
+Soviet City is a game made up of quick game plays, where building and control is essential
+We take a lot from classic city builders
+The player takes the role of mayor of the city
+Soviet law and economy have their own laws
+Every building influences a terror bar
+Be careful, because excessive terror level leads to a rebellion
+On the other hand, when terror level is too low, the dictator can replace you with a more appropriate person
+Limited materials and people disobedience can cause trouble with implementation of five-year plans.
+
+(From Steam)

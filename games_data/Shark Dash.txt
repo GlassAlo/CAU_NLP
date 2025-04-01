@@ -1,0 +1,2 @@
+Shark Dash is an Angry Birds style puzzle game
+It contain 96 levels to finish the game.

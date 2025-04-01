@@ -1,0 +1,5 @@
+Star Surveyor is an exploration game about discovering a foreign planet, and observing the lives of its alien inhabitants
+  
+You're sent to Maya-247 with a simple mission: use your scanner to gather data about all of the flora and fauna you can, and send that data back to Earth
+
+Along the way you'll unlock upgrades to your suit which allow you to delve deeper under the planet's surface.

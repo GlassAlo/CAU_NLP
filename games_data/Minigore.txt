@@ -1,0 +1,6 @@
+Players control the main character, John Gore, in a world called "Hardland." Gameplay revolves around Gore shooting creatures called "furries", who are trying to kill him
+A cloverleaf will generate randomly after a certain number of furry kills
+Collecting three clovers will turn Gore into a minotaur, granting him invincibility and allowing him to stomp on enemies
+This lasts for about 15–20 seconds
+The player has three lives and accumulates points for each furry killed
+There are also OpenFeint and Game Center leaderboards and achievements.

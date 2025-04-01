@@ -1,0 +1,6 @@
+'Push' is a Slick Minimalistic Puzzler from the Creators of 'Klocki' and 'Art of Gravity'
+
+its intended to be a relaxing experience, thus there are no points, stars, tutorials, move counters.
+Your goal is to push all the buttons.
+
+How do you do it? Well, thats the puzzle...

@@ -1,0 +1,5 @@
+The game is housed in a custom cabinet that includes two 8-way joysticks (one per player) meant to look like older style flight sticks
+Each stick has a fire button mounted on the top
+The players fly in simulated jets around the screen, engaging in a dogfight and attempting to score hits on their opponent within a limited amount of time
+When a player is hit, their plane spins around and an explosion is heard
+After a few seconds, the plane recovers, pointing at a random direction.

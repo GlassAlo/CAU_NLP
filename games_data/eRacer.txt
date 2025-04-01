@@ -1,0 +1,3 @@
+eRacer is an arcade racing game developed by Rage Software for Microsoft Windows
+It offers eight different cars and allows players to compete against computer opponents or other human players online
+The game received praise for its realistic tracks, vehicle models, and driving physics.

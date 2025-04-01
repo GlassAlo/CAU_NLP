@@ -1,0 +1,16 @@
+Xenon Valkyrie is a rogue-lite platformer game with RPG elements in which you must fight to the deepest part of a moon and halt the plans of a wicked witch.
+
+Obtain many weapons as you fight through a unique, randomly-generated world every time you play
+Encounter many characters, stores and enemies that tell a legendary story.
+
+With traditional graphics and high quality chiptune music, level up and get the amazing power of the Xenon Valkyrie!
+
+- Rogue-lite platformer with a great story
+- Many worlds with different routes
+- 3 heroes with unique skills
+- 100+ items
+- Multiple bosses and enemies
+- RPG elements
+- Several endings and secrets
+- Quality Chiptune music
+- Hard gameplay and Permadeath

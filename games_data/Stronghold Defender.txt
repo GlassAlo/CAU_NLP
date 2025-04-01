@@ -1,0 +1,4 @@
+Pick up crystals to gain health.
+Everytime an insect spawns, its health increases.
+Gain points by killing insects.
+See you on the leaderboard!

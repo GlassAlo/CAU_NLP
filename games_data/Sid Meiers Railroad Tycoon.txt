@@ -1,0 +1,2 @@
+The objective of the game is to build and manage a railroad company by laying track, building stations, and buying and scheduling trains
+The player may start companies in any of four geographic locales: the Western United States, Northeast United States, Great Britain, or Continental Europe.

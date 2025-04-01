@@ -1,0 +1,6 @@
+Mutazione is a adventure exploration video game set on an island where the player tends to the local gardens and learns more about the town's people
+The game takes place over different days, each with unique events
+While gardening the player can grow different types of plants, from bushes to trees
+Seeds can be found all over the island from other plants
+The player needs to give the plant the required space in order for it to grow and different ones require other types of soil
+Each plant also creates different sounds, which when combined with other greenery can create music.

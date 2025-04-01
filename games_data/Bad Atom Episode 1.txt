@@ -1,0 +1,2 @@
+Bad Atom Episode 1 is an XNA community game available over Xbox Live Marketplace
+It is a 3D space shooter.

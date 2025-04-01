@@ -1,0 +1,1 @@
+A diorama toolset for creating small animations with various Simpsons characters, settings, voice clips, music cues, and props.

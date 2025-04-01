@@ -1,0 +1,3 @@
+Leprechauns is an Xbox Live Indie Game where you play as Leprechaun that tries to find and keep the gold from other Leprechauns
+As a player keeps the gold they score points
+The first player to reach the score limit wins.

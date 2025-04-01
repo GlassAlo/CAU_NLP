@@ -1,0 +1,2 @@
+Based on the Indiana Jones series, this is a text adventure game that is not based on any of the films; it is rather a whole new adventure, which in terms of the franchise's storyline, takes place in 1932
+As in other text adventures, the player must type the action he wants to execute when prompted, in order to advance the storyline.

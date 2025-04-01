@@ -1,0 +1,2 @@
+Classic turn-based role-playing game, played with one customizable character
+The player travels between towns, does quests and explores dungeons.

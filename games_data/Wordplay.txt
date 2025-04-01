@@ -1,0 +1,8 @@
+Wordplay is a word game for up to four players
+The virtual host Bob continuously presents new letters in a pool
+Players select a letter to place in their own collection each turn
+It is up to the players to create words with their collected letters
+Forming words scores the players points, the first player to reach 200 points wins the match
+Players score more points for words that use all of their letters
+If a player can't make any words from the letters in the pool he or she can opt to reshuffle it completely but losing a turn
+The game recognizes 35,000 words of both British and American spelling.

@@ -1,0 +1,1 @@
+Hezarin is a text-based adventure developed in 1980 by Steve Tinney, Alex Shipp and Jon Thackray.

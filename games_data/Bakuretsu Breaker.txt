@@ -1,0 +1,2 @@
+A vertical scrolling shoot'em up
+Bakuretsu Breaker is an Action game, developed and published by Kaneko, which was released in 1992.

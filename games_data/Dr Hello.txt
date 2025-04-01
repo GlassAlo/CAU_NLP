@@ -1,0 +1,10 @@
+Dr
+Hello is an unlicensed Dr
+Mario clone developed for the MSX and ported to the Sega Master System
+It was developed in South Korea by a company known as "Sis Co." in 1991, without the backing from either Sega or Nintendo
+The game uses a completely different set of graphics and music to Dr
+Mario, but the gameplay is exactly the same
+
+ 
+Despite being released on a Master System cartridge, the Master System version runs in SG-1000 mode, and hence appears to have weaker graphics than most other Master System games
+This is likely because the MSX and SG-1000 share similar specifications, and porting from one system to another was not too difficult.

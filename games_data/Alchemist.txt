@@ -1,0 +1,10 @@
+The player controls an alchemist who has been summoned to defeat an evil warlock
+The game is set inside the warlock's castle, with the game's primary objective being finding four pieces of a magic scroll
+This allows the alchemist to use the "Spell of Destruction" to defeat the warlock.
+
+The alchemist can transform into a golden eagle, requiring the use of spell energy
+Transforming between the two is essential to completing the game
+The alchemist can hurl lightning bolts and other spells, but the eagle form is required to negotiate steep hills or drops
+The alchemist can only carry one item at a time and must consume food to keep stamina levels up
+Movement, bumping into objects, or transforming depletes the character's stamina
+Fighting monsters also reduces the character's stamina, although this can be mitigated by carrying an axe or sword.

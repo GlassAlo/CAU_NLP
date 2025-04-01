@@ -1,0 +1,4 @@
+DND is the seminal mainframe classic, which started computer role-playing games
+The name of the game clearly comes from the Dungeons and Dragons (D&D) pen and paper role playing systems, and it uses D&D rules
+Further inspired by Pedit5, the game itself is a classic dungeon crawl
+It could be counted as a "rogue-like" but doesn't have random dungeons.

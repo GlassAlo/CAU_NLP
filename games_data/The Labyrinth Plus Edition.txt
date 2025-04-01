@@ -1,0 +1,2 @@
+The Labyrinth Plus! Edition is a computer game for Windows XP
+It consists of a 3-D maze puzzle in which the objective of the game is to get a ball to the end of a maze, using dots on the board to guide the player around the obstacles.

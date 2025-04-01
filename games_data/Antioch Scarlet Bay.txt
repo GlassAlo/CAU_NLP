@@ -1,0 +1,9 @@
+Antioch is an online cooperative interactive fiction game.
+
+Based on a story written by FibreTigre (the award winning author of Out There), you’ll play as one of two detectives working together to solve a intriguing crime
+The adventure will bring you to the city of Antioch, a dark metropolis surrounded by moutains and sea.
+
+We love text adventure games, and we wanted to approach them differently
+We really believe that multiplayer will breath new life to this genre, giving more depth to your choices, because you’re playing with another human being.
+
+Antioch could be summarized as a multiplayer gamebook, playable on all mobile devices (smartphones, tablets and Apple watch).

@@ -1,0 +1,2 @@
+Exit Path is a 2D platformer game
+Players control a runner who is met with various obstacles such as sawblades, spikes, and swinging axes in an attempt to escape the obstacle course and become free.

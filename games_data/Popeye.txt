@@ -1,0 +1,10 @@
+Popeye: Ijiwaru Majo Seahag no Maki is a board game and sidescroller action game in one
+The goal is to recover all the hearts scattered around the game board and defeat any mini-bosses presented by Popeye villains, and then finally defeat the seahag.
+
+The game's levels which are called stages feature large level maps that appear in the form of a board game in which the player will have to take turns moving around, explore each of its spaces, and obtain the hearts of Popeye's frozen friends
+There are also spaces that serves different purposes throughout the game
+The beginning of each stage starts with by showing the player which character will have to be saved
+Their heart the rises skyward and splits into various pieces, those pieces then scatter onto random spaces of the map which the space will appear as an enclosed heart
+When on the map, the player presses the action button a wheel will appear with spaces numbered 1-6 which will help determine the player's moves throughout the game.
+
+The game had a cancelled release in North America under the title of "Popeye", but ended up being released in Brazil under said title.

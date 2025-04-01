@@ -1,0 +1,3 @@
+Pong is a table tennis-themed twitch arcade video game with simple two-dimensional graphics
+It was the first sports arcade video game and one of the earliest arcade video games in history, helping to establish the video game industry along with the Magnavox Odyssey
+Soon after its release, several companies began producing games that closely mimicked its gameplay.

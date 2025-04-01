@@ -1,0 +1,6 @@
+Apocalypse Neighbors is a 2D strategy game with turn-based artillery combat and construction.
+
+The Devil Man has sent forth his demons across ‘Murica and they’ve corrupted your neighbours, the only solution? Take turns in building up your house and destroying your neighbour’s house! To do this you can fling a variety of wacky ammo with catapults and cannons mounted on your house or you could send a tornado their way!
+
+Apocalypse Neighbors will offer cross platform multiplayer; the game is currently being developed for play on most mobile devices, PC and Console
+We envision a world where people from all devices are able to play together.

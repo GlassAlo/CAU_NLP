@@ -1,0 +1,7 @@
+Deepak Fights Robots is an arcade platformer.
+
+It features over 180 levels, and provides a different subset of these levels to the player every new game
+It contains a lot of secret content
+It may or may not contain dozens of references to hip-hop songs that will fly right over your head
+It may or may not contain a secret robot boss with the face of William Howard Taft
+It absolutely does contain funk, flavor, and good old fashioned, honest-to-goodness, thank-you-for-not-wasting-my-time FUN.

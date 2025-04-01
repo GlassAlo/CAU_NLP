@@ -1,0 +1,3 @@
+Alzadick is a vertical shooter released for the Summer Carnival '92 competition hosted by Naxat Soft
+While it was made available for commercial release it was originally programmed as a time attack challenge for 'athletes' to earn as many points as they could in the few minutes of competittion
+While the game is not long, it features stunning visuals, processing effects and a rather impressive soundtrack.

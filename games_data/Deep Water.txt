@@ -1,0 +1,11 @@
+Deep Water is a single player action shooter game set in a post-apocalyptic world where the atmosphere has changed after an unspecified disaster
+You now take on the role of a young man named El Shipak who hunts sea monster for a living
+Six months ago Shipak has sighted a special monster and he is now obsessed with hunting it down.
+
+Gameplay includes sailing around the oceans with El Shipaks boat
+In the Oceans are floating harbors where supplies like fuel and ammo can be bought to hunt down the monster
+Here the player can also buy better guns and upgrade his ship
+At the harbor the player can also take on missions
+Missions usually involve sailing to a certain area and gunning down enemies from the deck of your ship
+Maneuvering the ship and fighting off the enemies can’t be done at the same time
+If fighting enemies the player can move freely across the deck of the ship.

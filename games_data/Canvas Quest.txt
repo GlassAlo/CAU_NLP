@@ -1,0 +1,3 @@
+Canvas Quest is a turn-based JRPG made in RPGMaker MV
+The game features an artstyle based around poorly made digital and physical art, featuring stickman characters and an abundance of obvious perfect circles and lines
+Journey with Bob and friends to rid the world of the Evil King.

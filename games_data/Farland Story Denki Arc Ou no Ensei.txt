@@ -1,0 +1,6 @@
+This is a sequel to the first Farland Story game, released in early 1994
+The game looks very similarly to its predecessor
+The entire gameplay is dedicated to strategic battles, during which you navigate your large party in turn-based mode over the world map
+Once you have issued commands to all your party members, it's the enemies' turn to act
+You can attack enemies when they are in range of your weapon, or cast healing and offensive area spells
+Your characters level up, can use items, and equip a variety of weapons and armor pieces.

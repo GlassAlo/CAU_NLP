@@ -1,0 +1,3 @@
+This is a Spacial Estrategy game, a mix between Master of Orion and Imperium Galactica
+You can be one of many races, each with advantages and disadvantages
+The whole game is very customizable, from allowing you to customize galaxy size to designing your own ships.

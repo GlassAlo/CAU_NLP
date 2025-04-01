@@ -1,0 +1,2 @@
+A Vertical Scrolling shooter/shmup released only in Japan
+It's notable for using the DMG Game Boy's passive-matrix image retention/ghosting to simulate transparency and multiple layers of parallax.

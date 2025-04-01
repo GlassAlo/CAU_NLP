@@ -1,0 +1,4 @@
+This is a dungeon crawler game with roguelike elements based on Ancient Chinese story
+
+Under the Fallen Dragons Temple, you`ll fight with various dragons which all have different shapes
+The art style is based on real artifacts from China, we hope you could experience a different style of our culture.

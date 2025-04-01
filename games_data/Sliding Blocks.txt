@@ -1,0 +1,3 @@
+Sliding Blocks is a fun and classic addictive puzzle game
+The goal is to unblock the orange block out of the board by sliding the other blocks out of the way, try to unblock it with the minimal moves
+Sliding Blocks with 4 difficulties of puzzles ranging from Beginner to Master.

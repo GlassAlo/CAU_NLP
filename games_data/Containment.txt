@@ -1,0 +1,2 @@
+Containment is a turn-based, minimalist strategy game about managing the growth of bacteria
+Use antibiotics to keep their power under control as you work towards containment.

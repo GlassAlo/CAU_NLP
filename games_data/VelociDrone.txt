@@ -1,0 +1,2 @@
+VelociDrone is a first person view multiplayer drone racing simulation
+It has online leaderboards and an active community competing in drone racing tournaments.

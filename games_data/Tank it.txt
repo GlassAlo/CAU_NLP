@@ -1,0 +1,5 @@
+In Tank it! you command a drone to remotely control a heavy tank
+You receive the mission to travel to remote villages, find and destroy the target military camps and eliminate all terrorists
+But as in real life, there are many civilians in the villages, as well
+The terrorists and civilians alike are at the player's mercy
+It is up to the player alone to decide how to handle this mission.

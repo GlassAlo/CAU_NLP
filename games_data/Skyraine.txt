@@ -1,0 +1,5 @@
+Skyraine is an action packed platform/missile defender game
+Defend against waves of enemies in your turret, and use special power-ups to annihilate the stronger hordes
+Leave your turret to strategically expand your base between waves
+Play with up to 3 players in local multiplayer co-op
+Will you survive?

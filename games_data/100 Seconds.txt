@@ -1,0 +1,5 @@
+Your goal is simple: survive for 100 seconds.
+
+In this bullet hell game, threatening circles and triangles will chase you, shoot at you, and even explode in an effort to end your life
+Take control of a small, vulnerable cube with the ability to evade enemies and shoot back at them
+Beware, one hit will kill you.

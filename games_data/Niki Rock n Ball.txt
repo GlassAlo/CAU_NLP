@@ -1,0 +1,2 @@
+Wiiware game in which you bounce your character (a ball) through a platform level while evading enemies
+Developed by Bplus.

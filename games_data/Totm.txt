@@ -1,0 +1,5 @@
+Totm is a multiplayer action game with realtime strategy influences
+Kill creeps and opponents, gain power, grab items
+Be one step ahead of your enemies and choose the right combination of spells
+You fight about strategic points on a large outdoor map.
+Compared to other MOBAs, Totm features more action-oriented direct controls (WASD or Gamepad) as well as a third person camera view.

@@ -1,0 +1,8 @@
+Ant Colony is a prototype game from Funware which was never released
+
+ 
+In the game you play the role of an exterminator who much navigate through the puzzled map and clear out ants as they emerge and spread out through the map
+Be careful as there are also timed zones which appear to spawn additional ants
+
+ 
+Fun for the whole family!

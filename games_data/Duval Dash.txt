@@ -1,0 +1,3 @@
+Duval Dash is a side-scrolling runner where players help Jaxson de Ville make his way to EverBank Field for a Jacksonville Jaguars home game
+Players can collect coins and secret items for a high score
+Duval Dash is a web based, browser game from the Jacksonville Jaguars.

@@ -1,0 +1,3 @@
+Knight Guy, is retro arcade game in development made lovingly with pixel art.
+
+Knight Guy will feature both an arcade and story mode.

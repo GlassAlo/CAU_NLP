@@ -1,0 +1,11 @@
+A mothership drops aliens, up to three on screen at a time
+There are ten per level
+You must shoot them but avoid the items they fire at you
+You fire by pushing up on the joystick
+Pushing left or right makes you go left or right
+If you hold down the button, pushing left or right makes you fire left or right
+Later enemies will drop fireballs that chase you along the ground or split in two smaller enemies when shot
+If you fire non-stop, you will build up heat as indicated by the green bar at the bottom right
+If you overheat or are hit by an enemy, you loser a life
+The game is over when you lose all lives or reach a score of 999,999
+You get a new man (4 max) every 10,000 points.
