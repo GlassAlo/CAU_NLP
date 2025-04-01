@@ -57,6 +57,7 @@ xmake
 - [fetcher](doc/fetcher.md)
 - [boolean_search](doc/boolean_search.md)
 - [vector_search](doc/vector_search.md)
+- [boolean_evaluation](doc/boolean_evaluation.md)
 
 ## Credits
 

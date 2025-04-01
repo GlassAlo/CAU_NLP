@@ -18,6 +18,7 @@
 *---------------------------------------------------------  *
 */
 
+#include <boost/range/algorithm/find.hpp>
 #include <memory>
 #include "DocumentHandler.hpp"
 #include "InvertedIndex.hpp"
@@ -56,6 +57,7 @@ int main()
         auto queryTuple = Boolean::QueryHandler::getQuery("Would you like to refresh the inverted index? (y/n): ");
         auto query = std::get<0>(queryTuple);
         if (!query.empty() && query[0] == "y") {
+            invertedIndex.clearInvertedMap();
             createInvertedIndex(invertedIndex, sanitizerPtr.get());
             invertedIndex.dumpInvertedMap();
         }
@@ -66,6 +68,7 @@ int main()
     auto queryString = std::get<1>(queryTuple);
     sanitizerPtr->sanitizeTokenList(query, true);
     auto results = invertedIndex.getQueryResults(query);
+
     std::cout << "Query results: ";
     for (const auto &doc : results) {
         std::cout << doc << ' ';
@@ -87,6 +90,19 @@ int main()
         std::cout << "Precision: " << precision << '\n';
         std::cout << "Recall: " << recall << '\n';
         std::cout << "F1 Score: " << f1Score << '\n';
+
+        std::cout << "Documents that are different between results and relevance data: ";
+        for (const auto &doc : results) {
+            if (boost::range::find(relevanceData, doc) == relevanceData.end()) {
+                std::cout << doc << ' ';
+            }
+        }
+        for (const auto &doc : relevanceData) {
+            if (boost::range::find(results, doc) == results.end()) {
+                std::cout << doc << ' ';
+            }
+        }
+        std::cout << '\n';
     } catch (const std::out_of_range &e) {
         std::cout << "No relevance data found for the query, cannot establish an evaluation for: " << queryString
                   << '\n';

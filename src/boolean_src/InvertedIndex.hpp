@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Wed Mar 26 2025                                              *
+** Last Modified: Tue Apr 01 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -55,6 +55,10 @@ namespace Boolean {
             // Member functions
             auto createInvertedIndex(Shared::MatrixCreator &aMatrix) -> void;
             auto getInvertedMap() const -> const InvertedMap &;
+            auto clearInvertedMap() -> void
+            {
+                this->_invertedMap.clear();
+            }
             auto getQueryResults(QueryHandler::Query &aQuery) -> DocumentWithOcc;
 
             auto dumpInvertedMap() const -> void;

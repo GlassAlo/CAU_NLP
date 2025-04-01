@@ -50,16 +50,16 @@ auto Boolean::InvertedIndex::getQueryResults(QueryHandler::Query &aQuery) -> Doc
 {
     std::vector<DocumentWithOcc> tmp = {};
     DocumentWithOcc result;
-    std::vector<int> operatorsIndexes;
+    std::vector<std::tuple<int, std::string>> operatorsIndexes;
 
     for (auto &token : aQuery) {
         if (QueryHandler::isQueryOperator(token)) {
-            operatorsIndexes.push_back(
-                static_cast<int>(std::distance(aQuery.begin(), boost::range::find(aQuery, token))));
+            auto itx = boost::range::find(aQuery, token);
+            operatorsIndexes.emplace_back(static_cast<int>(itx - aQuery.begin()), token);
+            token = " ";
             tmp.emplace_back();
             continue;
         }
-        boost::algorithm::to_lower(token);
         if (this->_invertedMap.find(token) != this->_invertedMap.end()) {
             tmp.push_back(this->_invertedMap[token]);
         }
@@ -71,17 +71,18 @@ auto Boolean::InvertedIndex::getQueryResults(QueryHandler::Query &aQuery) -> Doc
 
     result = tmp[0];
 
-    for (const auto &index : operatorsIndexes) {
+    for (const auto &[index, ope] : operatorsIndexes) {
         if (index == static_cast<int>(tmp.size()) - 1) {
+            std::cout << "Invalid query: " << ope << '\n';
             break;
         }
-        if (aQuery[index] == "AND") {
+        if (ope == "AND") {
             auto tmpResult = getIntersection(tmp[index - 1], tmp[index + 1]);
             result = getIntersection(result, tmpResult);
-        } else if (aQuery[index] == "OR") {
+        } else if (ope == "OR") {
             auto tmpResult = getUnion(tmp[index - 1], tmp[index + 1]);
             result = getUnion(result, tmpResult);
-        } else if (aQuery[index] == "NOT") {
+        } else if (ope == "NOT") {
             result = getDifference(result, tmp[index + 1]);
         }
     }
@@ -91,7 +92,11 @@ auto Boolean::InvertedIndex::getQueryResults(QueryHandler::Query &aQuery) -> Doc
 
 auto Boolean::InvertedIndex::dumpInvertedMap() const -> void
 {
-    std::ofstream outFile("inverted_map_dump.json");
+    if (std::filesystem::exists("inverted_map_dump.json")) {
+        std::filesystem::remove("inverted_map_dump.json");
+    }
+
+    std::ofstream outFile("inverted_map_dump.json", std::ios::out | std::ios::trunc);
     nlohmann::json jsonData;
 
     for (const auto &[token, documentList] : this->_invertedMap) {

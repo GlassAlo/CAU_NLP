@@ -20,6 +20,7 @@
 #include "Sanitizer.hpp"
 #include "QueryHandler.hpp"
 #include "Utils.hpp"
+#include "boost/algorithm/string/case_conv.hpp"
 #include <boost/range/algorithm/remove_if.hpp>
 #include <boost/range/algorithm_ext/erase.hpp>
 
@@ -45,6 +46,9 @@ auto Shared::Sanitizer::sanitizeTokenList(std::vector<std::string> &aTokens, boo
         return;
     }
     for (auto &token : aTokens) {
+        if (!Boolean::QueryHandler::isQueryOperator(token)) {
+            boost::algorithm::to_lower(token);
+        }
         removePonctuation(token);
         stem(token);
     }
