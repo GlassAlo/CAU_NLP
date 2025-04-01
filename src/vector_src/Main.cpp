@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Wed Mar 26 2025                                              *
+** Last Modified: Tue Apr 01 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -21,6 +21,7 @@
 #include <boost/range/algorithm/sort.hpp>
 #include <cmath>
 #include <iostream>
+#include <memory>
 #include <string>
 #include <vector>
 #include "DocumentHandler.hpp"
@@ -33,10 +34,12 @@
 constexpr std::string folderName = "./games_data";
 
 namespace {
-    auto getQueryWeight() -> std::unordered_map<std::string, double>
+    auto getQueryWeight(Shared::Sanitizer *aSanitizer) -> std::unordered_map<std::string, double>
     {
         std::unordered_map<std::string, double> queryWeight;
-        auto query = Boolean::QueryHandler::getQuery();
+        auto queryTuple = Boolean::QueryHandler::getQuery();
+        auto query = std::get<0>(queryTuple);
+        aSanitizer->sanitizeTokenList(query, true);
 
         for (const auto &token : query) {
             queryWeight[token]++;
@@ -49,14 +52,13 @@ namespace {
         return queryWeight;
     }
 
-    auto createMatrix() -> void
+    auto createMatrix(Shared::Sanitizer *aSanitizer) -> void
     {
-        auto *sanitizer = new Shared::Sanitizer("./UselessWords.txt");
         auto files = Shared::Utils::openFolder(folderName);
         Shared::MatrixCreator::DocumentList documentList;
 
         for (const auto &file : files) {
-            documentList.emplace_back("games_data/" + file, file, sanitizer);
+            documentList.emplace_back("games_data/" + file, file, aSanitizer);
         }
 
         Shared::MatrixCreator matrixCreator;
@@ -64,7 +66,6 @@ namespace {
 
         matrixCreator.setTokensWeight(documentList);
         matrixCreator.dumpMatrix();
-        delete sanitizer;
     }
 
     auto computeCosineSimilarity(const std::unordered_map<std::string, double> &aQueryWeight,
@@ -103,16 +104,18 @@ namespace {
 
 int main()
 {
+    std::unique_ptr<Shared::Sanitizer> sanitizerPtr = std::make_unique<Shared::Sanitizer>("./UselessWords.txt");
     Shared::MatrixCreator matrixCreator;
-    if (!matrixCreator.loadMatrix("matrix_dump.txt")) {
-        createMatrix();
+    if (!matrixCreator.loadMatrix("matrix_dump.json")) {
+        createMatrix(sanitizerPtr.get());
     } else {
-        auto query = Boolean::QueryHandler::getQuery("Would you like to refresh the matrix? (y/n): ");
+        auto querTuple = Boolean::QueryHandler::getQuery("Would you like to refresh the matrix? (y/n): ");
+        auto query = std::get<0>(querTuple);
         if (!query.empty() && query[0] == "y") {
-            createMatrix();
+            createMatrix(sanitizerPtr.get());
         }
     }
-    auto queryWeight = getQueryWeight();
+    auto queryWeight = getQueryWeight(sanitizerPtr.get());
     auto result = computeCosineSimilarity(queryWeight, matrixCreator.getMatrix());
     int index = 0;
     const int nbrMaxResults = 10;

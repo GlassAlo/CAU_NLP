@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Tue Mar 25 2025                                              *
+** Last Modified: Tue Apr 01 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -18,6 +18,7 @@
 */
 
 #include "Sanitizer.hpp"
+#include "QueryHandler.hpp"
 #include "Utils.hpp"
 #include <boost/range/algorithm/remove_if.hpp>
 #include <boost/range/algorithm_ext/erase.hpp>
@@ -38,13 +39,19 @@ auto Shared::Sanitizer::getBadWords() const -> const std::vector<std::string> &
     return _badWords;
 }
 
-auto Shared::Sanitizer::sanitizeTokenList(std::vector<std::string> &aTokens) const -> void
+auto Shared::Sanitizer::sanitizeTokenList(std::vector<std::string> &aTokens, bool aIsQuery) const -> void
 {
+    if (aTokens.empty()) {
+        return;
+    }
     for (auto &token : aTokens) {
         removePonctuation(token);
         stem(token);
     }
     for (const auto &badWord : _badWords) {
+        if (aIsQuery && Boolean::QueryHandler::isQueryOperator(badWord)) {
+            continue;
+        }
         boost::range::remove_erase_if(aTokens, [&badWord](const std::string &token) {
             return token == badWord;
         });
@@ -60,5 +67,11 @@ auto Shared::Sanitizer::stem(std::string &token) -> void
 {
     if (token.size() > 4 && token.substr(token.size() - 3) == "ing") {
         token.erase(token.size() - 3);
+    }
+    if (token.size() > 3 && token.substr(token.size() - 2) == "ed") {
+        token.erase(token.size() - 2);
+    }
+    if (token.size() > 2 && token.substr(token.size() - 1) == "s") {
+        token.erase(token.size() - 1);
     }
 }

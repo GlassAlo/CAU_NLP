@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Wed Mar 26 2025                                              *
+** Last Modified: Tue Apr 01 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -21,6 +21,7 @@
 
 #include <array>
 #include <string>
+#include <tuple>
 #include <vector>
 
 namespace Boolean {
@@ -42,7 +43,7 @@ namespace Boolean {
             QueryHandler(QueryHandler &&) = delete;                 // Default move constructor
             QueryHandler &operator=(QueryHandler &&) = delete;      // Default move assignment operator
 
-            static auto getQuery(const std::string &aText = "Enter your query: ") -> Query;
+            static auto getQuery(const std::string &aText = "Enter your query: ") -> std::tuple<Query, std::string>;
             static auto isQueryOperator(const Token &aToken) -> bool;
     };
 } // namespace Boolean

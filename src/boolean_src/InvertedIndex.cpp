@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Wed Mar 26 2025                                              *
+** Last Modified: Tue Apr 01 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -91,7 +91,7 @@ auto Boolean::InvertedIndex::getQueryResults(QueryHandler::Query &aQuery) -> Doc
 
 auto Boolean::InvertedIndex::dumpInvertedMap() const -> void
 {
-    std::ofstream outFile("inverted_map_dump.txt");
+    std::ofstream outFile("inverted_map_dump.json");
     nlohmann::json jsonData;
 
     for (const auto &[token, documentList] : this->_invertedMap) {

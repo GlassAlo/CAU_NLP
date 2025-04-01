@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Wed Mar 26 2025                                              *
+** Last Modified: Tue Apr 01 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -46,7 +46,7 @@ void Shared::MatrixCreator::createMatrix(const DocumentList &aDocumentHandlerLis
 
 auto Shared::MatrixCreator::dumpMatrix() const -> void
 {
-    std::ofstream outFile("matrix_dump.txt");
+    std::ofstream outFile("matrix_dump.json");
     nlohmann::json jsonData;
 
     for (const auto &[token, documentList] : this->_matrix) {

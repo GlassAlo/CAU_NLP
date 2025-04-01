@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Wed Mar 26 2025                                              *
+** Last Modified: Tue Apr 01 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -22,13 +22,16 @@
 #include <iostream>
 #include "Utils.hpp"
 
-auto Boolean::QueryHandler::getQuery(const std::string &aText) -> Query
+auto Boolean::QueryHandler::getQuery(const std::string &aText) -> std::tuple<Query, std::string>
 {
-    std::string query;
+    Query query;
+    std::string queryString;
 
     std::cout << aText;
-    std::getline(std::cin, query);
-    return Shared::Utils::tokenize(query);
+    std::getline(std::cin, queryString);
+    query = Shared::Utils::tokenize(queryString);
+
+    return {query, queryString};
 }
 
 auto Boolean::QueryHandler::isQueryOperator(const Token &aToken) -> bool

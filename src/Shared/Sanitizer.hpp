@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Tue Mar 25 2025                                              *
+** Last Modified: Tue Apr 01 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -40,7 +40,7 @@ namespace Shared {
 
             // Member functions
             [[nodiscard]] auto getBadWords() const -> const std::vector<std::string> &;
-            auto sanitizeTokenList(std::vector<std::string> &tokens) const -> void;
+            auto sanitizeTokenList(std::vector<std::string> &tokens, bool isQuery = false) const -> void;
 
         private:
             static auto removePonctuation(std::string &token) -> void;
