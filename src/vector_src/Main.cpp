@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Fri Apr 25 2025                                              *
+** Last Modified: Mon Apr 28 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -108,13 +108,20 @@ namespace {
         auto &docNames = aMatrix.getMatrix();
         const auto &matrix = aMatrix.getEigenMatrix();
         auto term_to_index = aMatrix.getTermToIndex();
-        int k = 100;
+        int k = 1500;
 
         RedSVD::RedSVD svd(matrix, k);
         Eigen::MatrixXd U = svd.matrixU();
         Eigen::MatrixXd S = svd.singularValues();
         Eigen::MatrixXd V = svd.matrixV();
         Eigen::MatrixXd D = V * S.asDiagonal();
+
+        for (int i = 0; i < D.rows(); ++i) {
+            double norm = D.row(i).norm();
+            if (norm > 0) {
+                D.row(i) /= norm;
+            }
+        }
 
         Eigen::VectorXd queryVectorTermSpace = Eigen::VectorXd::Zero(static_cast<long>(term_to_index.size()));
 
@@ -129,18 +136,19 @@ namespace {
 
         Eigen::VectorXd q_proj = U.transpose() * queryVectorTermSpace; // Resulting vector in latent space
 
+        double q_norm = q_proj.norm();
+        if (q_norm > 0) {
+            q_proj /= q_norm;
+        }
         std::vector<std::pair<std::string, double>> similarities;
 
         for (int i = 0; i < D.rows(); ++i) {
             double dot_product = D.row(i).dot(q_proj);
-            double norm_doc = D.row(i).norm();
-            double norm_query = q_proj.norm();
-            double cosine_similarity = dot_product / (norm_doc * norm_query);
             int y = 0;
 
             for (const auto &[docName, _] : docNames) {
                 if (i == y) {
-                    similarities.emplace_back(docName, cosine_similarity);
+                    similarities.emplace_back(docName, dot_product);
                     break;
                 }
                 y++;
