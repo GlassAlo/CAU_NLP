@@ -15,10 +15,12 @@ target("vector-IR")
     set_targetdir("../../bin")
 
     add_includedirs("../Shared")
+    add_includedirs("external/redsvdh/include")
     add_headerfiles("../Shared/*.h**")
 
     -- Add the boost library
     add_packages("boost")
+    add_packages("eigen")
     add_packages("nlohmann_json")
 
     -- Set the warnings to all (-Wall)

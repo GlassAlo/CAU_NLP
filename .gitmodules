@@ -1,0 +1,3 @@
+[submodule "src/vector_src/external/redsvdh"]
+	path = src/vector_src/external/redsvdh
+	url = git@github.com:ntessore/redsvd-h.git

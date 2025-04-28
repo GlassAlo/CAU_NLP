@@ -1,7 +1,7 @@
 set_project("boolean-IR")
 set_project("vector-IR")
 
-add_requires("boost", "nlohmann_json")
+add_requires("boost", "eigen", "nlohmann_json")
 
 if is_os("windows") then
     add_toolchains("msvc")

@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Tue Apr 01 2025                                              *
+** Last Modified: Fri Apr 25 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -29,6 +29,7 @@
 #include "QueryHandler.hpp"
 #include "Sanitizer.hpp"
 #include "Utils.hpp"
+#include "RedSVD/RedSVD-h"
 #include <unordered_map>
 
 constexpr std::string folderName = "./games_data";
@@ -100,6 +101,59 @@ namespace {
 
         return result;
     }
+
+    auto LSI(Shared::MatrixCreator &aMatrix, const std::unordered_map<std::string, double> &aQueryWeight)
+        -> std::vector<std::pair<std::string, double>>
+    {
+        auto &docNames = aMatrix.getMatrix();
+        const auto &matrix = aMatrix.getEigenMatrix();
+        auto term_to_index = aMatrix.getTermToIndex();
+        int k = 100;
+
+        RedSVD::RedSVD svd(matrix, k);
+        Eigen::MatrixXd U = svd.matrixU();
+        Eigen::MatrixXd S = svd.singularValues();
+        Eigen::MatrixXd V = svd.matrixV();
+        Eigen::MatrixXd D = V * S.asDiagonal();
+
+        Eigen::VectorXd queryVectorTermSpace = Eigen::VectorXd::Zero(static_cast<long>(term_to_index.size()));
+
+        for (const auto &[term, weight] : aQueryWeight) {
+            auto itx = term_to_index.find(term);
+            if (itx != term_to_index.end()) {
+                int index = itx->second;
+                queryVectorTermSpace(index) = weight;
+            }
+            // If the term is not found, it's ignored
+        }
+
+        Eigen::VectorXd q_proj = U.transpose() * queryVectorTermSpace; // Resulting vector in latent space
+
+        std::vector<std::pair<std::string, double>> similarities;
+
+        for (int i = 0; i < D.rows(); ++i) {
+            double dot_product = D.row(i).dot(q_proj);
+            double norm_doc = D.row(i).norm();
+            double norm_query = q_proj.norm();
+            double cosine_similarity = dot_product / (norm_doc * norm_query);
+            int y = 0;
+
+            for (const auto &[docName, _] : docNames) {
+                if (i == y) {
+                    similarities.emplace_back(docName, cosine_similarity);
+                    break;
+                }
+                y++;
+            }
+        }
+
+        boost::range::sort(similarities,
+                           [](const std::pair<std::string, double> &a, const std::pair<std::string, double> &b) {
+                               return a.second > b.second;
+                           });
+
+        return similarities;
+    }
 } // namespace
 
 int main()
@@ -117,6 +171,10 @@ int main()
     }
     auto queryWeight = getQueryWeight(sanitizerPtr.get());
     auto result = computeCosineSimilarity(queryWeight, matrixCreator.getMatrix());
+
+    matrixCreator.createEigenMatrix();
+    auto lsiResult = LSI(matrixCreator, queryWeight);
+
     int index = 0;
     const int nbrMaxResults = 10;
     const int nbrResults = std::min(nbrMaxResults, static_cast<int>(result.size()));
@@ -125,12 +183,21 @@ int main()
         std::cout << "No results found.\n";
         return 0;
     }
-    std::cout << "Top " << nbrResults << " results:\n";
+    std::cout << "Top " << nbrResults << " results in normal space:\n";
     for (const auto &doc : result) {
         std::cout << doc << "\n";
         if (++index == nbrResults) {
             break;
         }
     }
+    index = 0;
+    std::cout << "\nTop " << nbrResults << " results in latent space:\n";
+    for (const auto &[docName, score] : lsiResult) {
+        std::cout << docName << " - " << score << "\n";
+        if (++index == nbrResults) {
+            break;
+        }
+    }
+    std::cout << "\n";
     return 0;
 }

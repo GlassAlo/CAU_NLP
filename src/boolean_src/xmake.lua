@@ -19,6 +19,7 @@ target("boolean-IR")
 
     -- Add the boost library
     add_packages("boost")
+    add_packages("eigen")
     add_packages("nlohmann_json")
 
     -- Set the warnings to all (-Wall)

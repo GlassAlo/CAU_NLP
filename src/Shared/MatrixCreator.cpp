@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Tue Apr 01 2025                                              *
+** Last Modified: Fri Apr 25 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -57,6 +57,39 @@ auto Shared::MatrixCreator::dumpMatrix() const -> void
     outFile.close();
 }
 
+auto Shared::MatrixCreator::createEigenMatrix() -> void
+{
+    std::unordered_map<std::string, int> term_to_index;
+    int rows = static_cast<int>(_matrix.size());
+    int cols = 0;
+
+    // Populate term_to_index and determine the number of unique tokens (columns)
+    for (const auto &[docName, tokenMap] : _matrix) {
+        for (const auto &[token, value] : tokenMap) {
+            if (term_to_index.find(token) == term_to_index.end()) {
+                term_to_index[token] = cols++;
+            }
+        }
+    }
+
+    _matrixEigen.resize(rows, cols);
+
+    int rowIndex = 0;
+    for (const auto &[docName, tokenMap] : _matrix) {
+        for (const auto &[token, value] : tokenMap) {
+            int colIndex = term_to_index[token];
+            _matrixEigen(rowIndex, colIndex) = value;
+        }
+        rowIndex++;
+    }
+    _term_to_index = term_to_index;
+}
+
+auto Shared::MatrixCreator::getTermToIndex() const -> const std::unordered_map<std::string, int> &
+{
+    return _term_to_index;
+}
+
 auto Shared::MatrixCreator::loadMatrix(const std::string &aPath) -> bool
 {
     std::ifstream inFile(aPath);
@@ -80,6 +113,11 @@ auto Shared::MatrixCreator::loadMatrix(const std::string &aPath) -> bool
 auto Shared::MatrixCreator::getMatrix() const -> const Matrix &
 {
     return _matrix;
+}
+
+auto Shared::MatrixCreator::getEigenMatrix() const -> const Eigen::MatrixXd &
+{
+    return _matrixEigen;
 }
 
 auto Shared::MatrixCreator::getInvIndexFreq(const DocumentList &aDocumentHandlerList) -> InvIndexFreq

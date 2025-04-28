@@ -7,7 +7,7 @@
 ** -----                                                                       *
 ** Description: {Enter a description for the file}                             *
 ** -----                                                                       *
-** Last Modified: Wed Mar 26 2025                                              *
+** Last Modified: Fri Apr 25 2025                                              *
 ** Modified By: GlassAlo                                                       *
 ** -----                                                                       *
 ** Copyright (c) 2025 Aurea-Games                                              *
@@ -19,6 +19,7 @@
 
 #pragma once
 
+#include <Eigen/Dense>
 #include <iostream>
 #include <string>
 #include <vector>
@@ -43,6 +44,8 @@ namespace Shared {
 
         private:
             Matrix _matrix;
+            Eigen::MatrixXd _matrixEigen;
+            std::unordered_map<std::string, int> _term_to_index;
 
         public:
             MatrixCreator() = default;
@@ -58,7 +61,11 @@ namespace Shared {
             auto createMatrix(const DocumentList &aDocumentHandlerList) -> void;
             auto setTokensWeight(const DocumentList &aDocumentHandlerList) -> void;
 
+            auto createEigenMatrix() -> void;
+
             auto getMatrix() const -> const Matrix &;
+            auto getEigenMatrix() const -> const Eigen::MatrixXd &;
+            auto getTermToIndex() const -> const std::unordered_map<std::string, int> &;
 
             auto dumpMatrix() const -> void;
 
